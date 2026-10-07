@@ -69,3 +69,7 @@ Verificación del 7 de octubre de 2026: compilación, diez controles de datos y 
 La investigación, los datos y el código los produjo Claude Opus 5.5 (Claude Code) a pedido y bajo revisión de una persona. El modelo buscó y descargó las fuentes, transcribió las tablas estadísticas con dos lecturas ópticas independientes y verificó las sumas contra los totales impresos. Las afirmaciones llevan su fuente y los límites están descritos en el capítulo de metodología. Puede haber errores: los issues y las correcciones son bienvenidos.
 
 `scripts/cover.mjs` genera la portada a partir del atlas real.
+
+## Licencia
+
+Código bajo licencia MIT: se puede usar, copiar y modificar libremente. La cartografía es Natural Earth (dominio público) y las fuentes citadas conservan sus propios derechos.
