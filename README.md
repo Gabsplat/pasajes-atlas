@@ -2,9 +2,9 @@
 
 ![Portada](docs/portada.png)
 
-Atlas de la inmigración europea a Argentina, 1850–1960. Segunda edición. Aplicación React/TypeScript con D3 y cartografía mundial local.
+Atlas de la inmigración a Argentina desde Europa y Medio Oriente, 1850–1960. Aplicación React/TypeScript con D3 y cartografía mundial local.
 
-Contenido: 43 conexiones y 50 lugares en seis épocas, 13 comunidades o corrientes más una categoría de otros destinos, serie anual de entradas y salidas 1857–1924, 26 capítulos de investigación, 36 hitos de cronología y 75 referencias.
+Contenido: 50 conexiones y 60 lugares en seis épocas, 16 comunidades o corrientes más una categoría de otros destinos, serie anual de entradas y salidas 1857–1924, 27 capítulos de investigación, 43 hitos de cronología y 85 referencias.
 
 Publicado: https://pasajes-atlas.gaabgames.workers.dev (Cloudflare Workers, activos estáticos). Para volver a publicar: `pnpm build` y `~/.local/share/pnpm/bin/pnpm dlx wrangler deploy`.
 
@@ -66,7 +66,7 @@ Verificación del 7 de octubre de 2026: compilación, diez controles de datos y 
 
 ## Cómo se hizo
 
-La investigación, los datos y el código los produjo Claude Opus 5.5 (Claude Code) a pedido y bajo revisión de una persona. El modelo buscó y descargó las fuentes, transcribió las tablas estadísticas con dos lecturas ópticas independientes y verificó las sumas contra los totales impresos. Las afirmaciones llevan su fuente y los límites están descritos en el capítulo de metodología. Puede haber errores: los issues y las correcciones son bienvenidos.
+La investigación, los datos y el código los produjo Claude Opus 5.5 (Claude Code) a pedido y bajo revisión de una persona. El modelo buscó y descargó las fuentes, transcribió las tablas estadísticas con dos lecturas ópticas independientes y verificó las sumas contra los totales impresos. Para la sección de Medio Oriente, cuatro agentes de Claude Haiku buscaron fuentes y Opus comprobó cada cifra contra el PDF o la página original antes de usarla. Las afirmaciones llevan su fuente y los límites están descritos en el capítulo de metodología. Puede haber errores: los issues y las correcciones son bienvenidos.
 
 `scripts/cover.mjs` genera la portada a partir del atlas real.
 

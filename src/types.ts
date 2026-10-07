@@ -3,7 +3,7 @@ export type Figure = {value: number | string; label: string};
 export type Era = {id: string; start: number; end: number; title: string; short: string; description: string; events: string[]; sources: string[]; figures: Figure[]; figuresNote: string};
 export type Group = {id: string; name: string; color: string; summary: string; detail: string; sources: string[]};
 export type Place = {id: string; name: string; coordinates: [number, number]; kind: string; note: string};
-export type Route = {stops?: string[]; id: string; group: string; origin: string; destination: string; start: number; end: number; title: string; description: string; sources: string[]; layer: string; evidence: string; via: [number, number][]; geometryNote: string; dateNote: string};
+export type Route = {stops?: string[]; stopsLabel?: string; id: string; group: string; origin: string; destination: string; start: number; end: number; title: string; description: string; sources: string[]; layer: string; evidence: string; via: [number, number][]; geometryNote: string; dateNote: string};
 export type Chapter = {id: string; kicker: string; title: string; lead: string; paragraphs: string[]; sources: string[]; facts?: Figure[]; debate?: string};
 export type Census = {year: number; total: number; foreign: number; percent: number; nonBorder?: number; urban?: number | null};
 export type SeriesRow = {year: number; immigrants: number; emigrants: number | null; net: number | null; italianIn: number; italianOut: number; spanishIn: number; spanishOut: number};
@@ -16,7 +16,7 @@ export type Stats = {
   nationalities: Nationality[]; nationalitiesNote: string; decades: Decade[];
   interior: Interior[]; interiorNote: string; trades: {name: string; value: number}[]; tradesTotal: number; tradesNote: string;
   census: Census[]; censusNote: string; comparison: {country: string; year: number; percent: number}[]; comparisonNote: string;
-  facts1914: Figure[]; postwar: Period[]; refuge: Period[];
+  facts1914: Figure[]; ottoman: {period: string; immigrants: number; emigrants: number | null}[]; ottomanNote: string; ottomanFacts: Figure[]; postwar: Period[]; refuge: Period[];
 };
 export type TimelineEvent = {year: number; title: string; text: string; sources: string[]; kind: string};
 export type Data = {sources: Source[]; eras: Era[]; groups: Group[]; places: Record<string, Place>; routes: Route[]; chapters: Chapter[]; census: Census[]; stats: Stats; timeline: TimelineEvent[]; world: any};

@@ -673,5 +673,95 @@
     "kind": "Prensa",
     "note": "Divulgación. Fechas y cifras aproximadas del naufragio de 1916.",
     "accessed": "2026-10-07"
+  },
+  {
+    "id": "jozami",
+    "title": "Cuadernos del MUNTREF 3. Del Mediterráneo oriental a la Argentina",
+    "author": "Gladys Jozami, Jorge Bestene, Hamurabi Noufouri y otros · Museo de la Inmigración, UNTREF, 2025",
+    "url": "https://untref.edu.ar/muntref/wp-content/uploads/2025/10/Cuadernos-del-MUNTREF-N3-web.pdf",
+    "kind": "Estudio",
+    "note": "Capítulo de Jozami sobre los árabes en el Noroeste: registros de ingreso desde 1887, censos de 1895, 1914 y 1947, retornos y proporción de sirios y libaneses por provincia.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "bryce",
+    "title": "Incoherencias en el pensamiento racial en el primer centenario argentino. La inmigración romaní, árabe y judía",
+    "author": "Benjamin Bryce · Travesía 25 (2), 2023",
+    "url": "https://dialnet.unirioja.es/servlet/articulo?codigo=10292121",
+    "kind": "Estudio",
+    "note": "Memorias de la Dirección General de Inmigración, correspondencia consular y prensa. Cita la memoria de Juan Alsina de 1899 y las estadísticas de 1925 y 1926.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "akmir",
+    "title": "La inserción de los inmigrantes árabes en Argentina (1880–1980): implicaciones sociales",
+    "author": "Abdelwahed Akmir · Anaquel de Estudios Árabes, 1991",
+    "url": "https://revistas.ucm.es/index.php/ANQE/article/download/ANQE9191110237A/4043/4970",
+    "kind": "Estudio",
+    "note": "Venta ambulante, el «barrio de los turcos» de Buenos Aires y una encuesta propia a unas 1.040 personas. El autor advierte que sus porcentajes son estimaciones.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "klichlesser",
+    "title": "Introduction: «Turco» Immigrants in Latin America",
+    "author": "Ignacio Klich y Jeffrey Lesser · The Americas 53 (1), 1996",
+    "url": "https://www.cambridge.org/core/product/804ED3022F9E88F86F0A9F40BBD24E11",
+    "kind": "Estudio",
+    "note": "Origen y uso de la etiqueta «turco». Primera página y notas consultadas.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "klich",
+    "title": "Árabes, judíos y árabes judíos en la Argentina de la primera mitad del novecientos",
+    "author": "Ignacio Klich · Estudios Interdisciplinarios de América Latina y el Caribe",
+    "url": "https://eialonline.org/index.php/eial/article/download/1196/1224/4759",
+    "kind": "Estudio",
+    "note": "Relaciones entre las colectividades. Distingue cuatro grupos de judíos sefardíes y orientales: marroquíes, alepinos, damasquinos y ladino-hablantes.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "nicoll",
+    "title": "Exit from the Unbeloved Empire: Ottoman Passports and Mass Emigration from Mount Lebanon",
+    "author": "Fergus Nicoll · Moving Stories, Universidad de Oxford, 2024",
+    "url": "https://movingstories.history.ox.ac.uk/article/exit-from-the-unbeloved-empire-ottoman-passports-and-mass-emigration-from-mount-lebanon",
+    "kind": "Estudio",
+    "note": "Pasaportes otomanos, prohibición de 1888, embarque en Beirut y puertos de tránsito. Trata sobre todo la ruta a Estados Unidos.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "boulgourdjian",
+    "title": "La diáspora armenia en la Argentina. Rol de las redes asociativas y vínculos con la «madre patria»",
+    "author": "Nélida Boulgourdjian-Toufeksian · EIAL 24 (2), 2013",
+    "url": "https://eialonline.org/index.php/eial/article/download/658/619/2548",
+    "kind": "Estudio",
+    "note": "Etapas de la llegada, censo municipal de 1936, estimaciones comunitarias y uniones compatrióticas.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "zenian",
+    "title": "The Armenians of Argentina",
+    "author": "David Zenian · AGBU Magazine, noviembre de 2000",
+    "url": "https://agbu.org/ola-buenos-aires/armenians-argentina",
+    "kind": "Prensa",
+    "note": "Revista de una institución de la colectividad. Fechas de instituciones y estimaciones sin aparato de citas.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "houshamadyan",
+    "title": "Colección Kanzabetian / Chinchinian",
+    "author": "Houshamadyan · archivo digital de la vida armenia otomana",
+    "url": "https://houshamadyan.org/oda/americas/kanzabetianchinchinian-coll-arg.html",
+    "kind": "Archivo",
+    "note": "Pasaportes, visas y fechas de viaje de dos familias de Marash que vivían en Beirut. No consigna el puerto de embarque.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "epstein",
+    "title": "Marroquíes de origen judío en Argentina. Cohesión y dispersión comunitaria",
+    "author": "Diana Epstein · Revista de Historia 12, Universidad Nacional del Comahue, 2011",
+    "url": "https://revele.uncoma.edu.ar/index.php/historia/article/view/81",
+    "kind": "Estudio",
+    "note": "Resumen consultado. Sitúa el inicio de la corriente en 1860.",
+    "accessed": "2026-10-07"
   }
 ]

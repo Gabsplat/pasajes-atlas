@@ -6,7 +6,7 @@ import type {Data} from './types';
 
 const CSV = 'text/csv;charset=utf-8';
 
-export function Cifras({data, onEra, onDestinations}: {data: Data; onEra: (id: string) => void; onDestinations: () => void}) {
+export function Cifras({data, onEra, onDestinations, onChapter}: {data: Data; onEra: (id: string) => void; onDestinations: () => void; onChapter: (id: string) => void}) {
   const st = data.stats;
   const [mode, setMode] = useState<SeriesMode>('total');
   const [metric, setMetric] = useState<'percent' | 'foreign'>('percent');
@@ -63,6 +63,15 @@ export function Cifras({data, onEra, onDestinations}: {data: Data; onEra: (id: s
           <button className="outline-button" onClick={() => download('pasajes-nacionalidades-1857-1924.csv', csv(['nacionalidad', 'entradas', 'salidas', 'saldo', 'salidas_por_100_entradas', 'fuente'], st.nationalities.map(n => [n.name, n.immigrants, n.emigrants, n.net, n.ratio, url('willcox')])), CSV)}><Download size={15} /> Descargar nacionalidades CSV</button>
           <Cite data={data} ids={['willcox']} />
         </div>
+      </div>
+
+      <div className="chart-card">
+        <div className="chart-header"><div><span className="eyebrow">MEDIO ORIENTE · 1871–1924</span><h2>Los llamados «turcos»</h2></div><button className="outline-button" onClick={() => onChapter('levant')}>Leer el capítulo <ArrowUpRight size={15} /></button></div>
+        <div className="chart-legend"><span><i style={{background: '#a3742f'}} />Entradas de «otomanos»</span><span><i className="hatch" />Salidas (desde 1891)</span></div>
+        <HBars rows={st.ottoman.map(o => ({label: o.period, value: o.immigrants, second: o.emigrants ?? undefined, color: '#a3742f'}))} secondLabel="Salidas" />
+        <p className="chart-note">{st.ottomanNote}</p>
+        <div className="mini-grid">{st.ottomanFacts.map(f => <article key={f.label}><strong>{f.value}</strong><p>{f.label}</p></article>)}</div>
+        <Cite data={data} ids={['willcox', 'jozami', 'bryce', 'boulgourdjian']} />
       </div>
 
       <div className="chart-card">

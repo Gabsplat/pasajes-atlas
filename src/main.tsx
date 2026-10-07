@@ -128,7 +128,7 @@ function App({data}: {data: Data}) {
       {tab === 'atlas' && <>
         <section className="intro">
           <div>
-            <div className="eyebrow"><span /> EUROPA → ARGENTINA <span className="eyebrow-line" /> 1850–1960</div>
+            <div className="eyebrow"><span /> EUROPA Y MEDIO ORIENTE → ARGENTINA <span className="eyebrow-line" /> 1850–1960</div>
             <h1>Un océano.<br /><em>Millones de cruces.</em></h1>
             <p>De dónde salieron, por dónde pasaron, a dónde fueron<br className="desktop-break" /> y cuántos volvieron. Con las cifras de los registros de la época.</p>
           </div>
@@ -175,7 +175,7 @@ function App({data}: {data: Data}) {
                   <button onClick={() => { setPlace(route.destination); setSelected(null); }}><MapPin size={15} /><span>{data.places[route.destination].kind === 'Naufragio' ? 'Fin del viaje' : 'Destino'}<br /><strong>{data.places[route.destination].name}</strong></span></button>
                 </div>
                 <p>{route.description}</p>
-                {route.stops?.length && <p className="stop-list"><strong>{route.id === 'ireland-ba' ? 'Puertos de embarque documentados:' : 'Escalas documentadas:'}</strong> {route.stops.map(id => data.places[id].name).join(' → ')}</p>}
+                {route.stops?.length && <p className="stop-list"><strong>{route.stopsLabel || 'Escalas documentadas:'}</strong> {route.stops.map(id => data.places[id].name).join(' → ')}</p>}
                 <Cite data={data} ids={route.sources} />
                 <details><summary>Cómo interpretar esta conexión <ChevronDown size={13} /></summary><p>{route.geometryNote} {route.dateNote}</p></details>
               </div>}
@@ -232,12 +232,12 @@ function App({data}: {data: Data}) {
         </section>
         <div className="map-caption"><span><strong>Una lectura histórica, no un registro de navegación.</strong> Curvas esquemáticas, sin volúmenes por ruta. Las cifras son nacionales y llevan su fuente.</span><button className="text-button" onClick={() => openChapter('methods')}>Ver metodología <ArrowUpRight size={14} /></button></div>
         <section className="below-grid">
-          <div className="section-heading"><span className="eyebrow">SEGUIR EXPLORANDO</span><h2>El viaje no terminó<br />en el puerto.</h2><p>Veintiséis capítulos con cifras, casos y debates. Tres puertas de entrada.</p></div>
+          <div className="section-heading"><span className="eyebrow">SEGUIR EXPLORANDO</span><h2>El viaje no terminó<br />en el puerto.</h2><p>{data.chapters.length} capítulos con cifras, casos y debates. Tres puertas de entrada.</p></div>
           {([['series', '01', 'La curva de las llegadas', 'Dos auges, dos derrumbes y un 1914 que empezó antes de la guerra.', <BarChart3 />], ['cases', '02', 'Ocho colonias, ocho contratos', 'De Esperanza a Tres Arroyos. Casi ningún acuerdo se cumplió como estaba escrito.', <MapPin />], ['myths', '03', 'Ocho afirmaciones, revisadas', '«Vinieron a quedarse», «eran campesinos» y otras frases frente a las fuentes.', <BookOpen />]] as [string, string, string, string, React.ReactNode][]).map(([id, n, title, desc, icon]) =>
             <button className="editorial-card" key={id} onClick={() => openChapter(id)}><span>{n} / CUADERNO DE INVESTIGACIÓN</span><div className="card-symbol">{icon}</div><h3>{title}</h3><p>{desc}</p><ArrowUpRight size={20} /></button>)}
         </section>
       </>}
-      {tab === 'cifras' && <Cifras data={data} onEra={openEra} onDestinations={showDestinations} />}
+      {tab === 'cifras' && <Cifras data={data} onEra={openEra} onDestinations={showDestinations} onChapter={openChapter} />}
       {tab === 'investigacion' && <Research data={data} chapter={chapter} setChapter={setChapter} />}
       {tab === 'cronologia' && <Chronology data={data} onEra={openEra} />}
       {tab === 'fuentes' && <SourcesPage data={data} />}

@@ -100,7 +100,44 @@ Después de la guerra cambió el mapa. Los nuevos Estados aparecen en la estadí
 
 Fuentes: [International Migrations, vol. I: Statistics. Tablas nacionales de Argentina](https://www.nber.org/chapters/c5136); [Argentina, en International Migrations, vol. II: Interpretations](https://www.nber.org/chapters/c5106); [La emigración gallega a la Argentina en la segunda posguerra: el caso de Catoira](https://dialnet.unirioja.es/descarga/articulo/6161254.pdf); [Cousins and Strangers: Spanish Immigrants in Buenos Aires, 1850–1930](https://www.ucpress.edu/book/9780520215269/cousins-and-strangers); [The Immigration Act of 1924](https://history.state.gov/milestones/1921-1936/immigration-act)
 
-## 05. El Atlántico de ida y vuelta
+## 05. Los llamados turcos
+
+*Sirios, libaneses, armenios y judíos del Imperio otomano llegaron con el mismo pasaporte y recibieron el mismo apodo.*
+
+- **157.185** entradas de «otomanos», 1857–1924
+- **15,1 %** de retorno en 1890–1909, frente a 58,6 % del total
+- **86,3 %** de los «turcos» de 1876–1895 se anotó como vendedor ambulante
+- **19.000** armenios en 1943, según la colectividad
+
+La inmigración a Argentina no vino solo de Europa. Entre 1857 y 1924 la estadística de ultramar anotó 157.185 entradas de «turcos» u otomanos, más que de alemanes o de austrohúngaros. Benjamin Bryce calcula que el 90 % llegó después de 1900. Antes de la Primera Guerra Mundial, Argentina fue el segundo destino americano de los súbditos otomanos, detrás de Estados Unidos. Brasil recibió 53.127 entre 1894 y 1913.
+
+Gladys Jozami reconstruyó la serie. En 1878 aparecen por primera vez 17 personas «griegas y turcas». Entre 1879 y 1886 no hay anotaciones, porque el Imperio restringía la salida, y desde 1887 llegan sin interrupción. El máximo fue entre 1904 y 1913. Entre 1887 y 1913 entraron 130.937 árabes y salieron 38.424. Lilia Ana Bertoni calculó un retorno de 15,1 % para 1890–1909, cuando el conjunto de la inmigración de ultramar tenía 58,6 %. Fue una de las corrientes que menos volvió.
+
+El censo de 1895 contó 876 «turcos». El de 1914 registró unos 64.000 «otomanos». La palabra describía un pasaporte y no un origen. Abdelwahed Akmir explica que se llamaba así a árabes, judíos, armenios y griegos del Imperio, y que pronto el término tomó un sentido despectivo. Un dirigente de la colectividad, Alejandro Schaumun, escribió en 1910 que nueve de cada diez otomanos del país eran sirios. «Sirio-libanés» se generalizó recién en la década de 1930.
+
+Eran en su mayoría cristianos. El embajador otomano estimó en 1910 que el 80 % de sus súbditos en Buenos Aires lo era. Caras y Caretas calculó en 1902 unos 22.000 maronitas, 4.000 o 5.000 ortodoxos y 2.000 o 3.000 drusos y musulmanes. En 1926, con categorías ya separadas, entraron 770 sirios, 224 libaneses, 423 turcos y 19 «árabes», y solo 204 de esos 1.436 eran musulmanes. La proporción de musulmanes creció después de la guerra, con el Mandato francés.
+
+Se embarcaba en Beirut. Desde 1888 regía una prohibición otomana de emigrar, que según Fergus Nicoll se aplicó con más rigor a los armenios que a los libaneses. En el puerto contaba más el dinero del pasaje que el permiso. El viaje seguía con un cambio de barco en Marsella o Le Havre. Este atlas no encontró una fuente verificable sobre la duración del trayecto ni sobre las compañías que lo hacían.
+
+El oficio de entrada fue la venta ambulante. La Dirección de Inmigración anotó como dedicados a ese comercio al 86,3 % de los «turcos» llegados entre 1876 y 1895. En Buenos Aires se concentraron en el «barrio de los turcos», sobre la calle Reconquista. Akmir entrevistó a viejos buhoneros en Tucumán. Ahorraban todo lo posible con la idea de volver, y uno de ellos contó que durmió cinco años sobre una tabla con un colchón. Según su encuesta, solo el 1,14 % de los llegados antes de 1914 trajo algún capital.
+
+El Noroeste es su geografía más propia. En 1895 vivía allí el 28 % de los «turcos» del país, y Tucumán reunía más de un tercio de ellos. En 1914 los 8.148 otomanos de la región eran el cuarto grupo extranjero, después de españoles, bolivianos e italianos. En Santiago del Estero, Catamarca y La Rioja los libaneses rondan el 40 % y los sirios el 60 %. En Tucumán, Salta y Jujuy los sirios son entre el 80 % y el 90 %.
+
+El Estado los recibió con recelo. La Constitución mandaba fomentar la inmigración europea. En su memoria de 1899 el director de Inmigración, Juan Alsina, escribió que entre «la población exótica que nos llega del exterior se distingue la cristiana procedente de la Turquía Asiática» En otros informes los describió «sucios y harapientos», dedicados a la venta ambulante, y habló de «la nulidad económica del inmigrante sirio». Bryce muestra la incoherencia de ese pensamiento. Los mismos funcionarios elogiaban a los rusos como buenos agricultores y despreciaban a los judíos de Rusia. Y cuando empezaron a llegar trabajadores de la India, China y Japón, los otomanos pasaron a contar como casi europeos.
+
+Los armenios llegaron como refugiados. Nélida Boulgourdjian sitúa el comienzo en 1909 y 1910, tras las matanzas de Cilicia, y el máximo en 1923, año del Tratado de Lausana. Venían de Marash, Hadjin y Aintab, y en Buenos Aires se asociaron por pueblo. Las fuentes argentinas no los distinguen: hasta 1920 figuran como otomanos. Las cuentas de la colectividad dan 200 personas en 1909, 1.000 en 1916, 9.400 en 1934 y 19.000 en 1943. El censo municipal de 1936 contó 3.054 con nacionalidad armenia.
+
+Un caso muestra el itinerario. Boghos y Elise Kanzabetian, de Marash, vivían en el campo de refugiados de Mdaouar, en Beirut. El 17 de diciembre de 1928 obtuvieron pasaportes del Mandato francés y visas del consulado argentino. Partieron el 23 con su hija en el vapor Mendoza y llegaron a Buenos Aires el 30 de enero de 1929. El archivo Houshamadyan conserva los documentos.
+
+Los judíos del mundo árabe y otomano formaron comunidades aparte de la mayoría asquenazí. Ignacio Klich distingue cuatro: marroquíes, alepinos, damasquinos y ladino-hablantes de Turquía, Grecia y los Balcanes. Los marroquíes llegaron desde 1860 y hablaban español. Los demás vinieron con la corriente siria de comienzos del siglo XX y entraron como «turcos». No hay cifras confiables por grupo.
+
+Lo que no se pudo establecer queda dicho. No hay recuento de sirios y libaneses en los censos publicados de 1947 y 1960 que este atlas haya podido leer. Tampoco hay datos firmes sobre palestinos antes de 1926, cuando los registros empiezan a anotarlos aparte, ni sobre griegos de Anatolia, asirios o egipcios.
+
+> **En discusión.** ¿Por qué «turcos»? La explicación habitual dice que fue un error. Akmir recuerda que viajaban con pasaporte turco, y Bryce muestra que los documentos argentinos de la época decían sobre todo «sirios». El apodo fue popular y despectivo antes que administrativo, y muchos de los nombrados así habían huido del Imperio.
+
+Fuentes: [International Migrations, vol. I: Statistics. Tablas nacionales de Argentina](https://www.nber.org/chapters/c5136); [Cuadernos del MUNTREF 3. Del Mediterráneo oriental a la Argentina](https://untref.edu.ar/muntref/wp-content/uploads/2025/10/Cuadernos-del-MUNTREF-N3-web.pdf); [Incoherencias en el pensamiento racial en el primer centenario argentino. La inmigración romaní, árabe y judía](https://dialnet.unirioja.es/servlet/articulo?codigo=10292121); [La inserción de los inmigrantes árabes en Argentina (1880–1980): implicaciones sociales](https://revistas.ucm.es/index.php/ANQE/article/download/ANQE9191110237A/4043/4970); [Exit from the Unbeloved Empire: Ottoman Passports and Mass Emigration from Mount Lebanon](https://movingstories.history.ox.ac.uk/article/exit-from-the-unbeloved-empire-ottoman-passports-and-mass-emigration-from-mount-lebanon); [La diáspora armenia en la Argentina. Rol de las redes asociativas y vínculos con la «madre patria»](https://eialonline.org/index.php/eial/article/download/658/619/2548); [Colección Kanzabetian / Chinchinian](https://houshamadyan.org/oda/americas/kanzabetianchinchinian-coll-arg.html); [Árabes, judíos y árabes judíos en la Argentina de la primera mitad del novecientos](https://eialonline.org/index.php/eial/article/download/1196/1224/4759); [Introduction: «Turco» Immigrants in Latin America](https://www.cambridge.org/core/product/804ED3022F9E88F86F0A9F40BBD24E11); [Marroquíes de origen judío en Argentina. Cohesión y dispersión comunitaria](https://revele.uncoma.edu.ar/index.php/historia/article/view/81)
+
+## 06. El Atlántico de ida y vuelta
 
 *Por cada cien entradas la estadística anotó cuarenta y siete salidas.*
 
@@ -121,7 +158,7 @@ Quien regresaba casi nunca deja rastro en la memoria familiar argentina. Aparece
 
 Fuentes: [International Migrations, vol. I: Statistics. Tablas nacionales de Argentina](https://www.nber.org/chapters/c5136); [Argentina, en International Migrations, vol. II: Interpretations](https://www.nber.org/chapters/c5106); [Análisis histórico-demográfico de la inmigración en la Argentina del Centenario al Bicentenario](https://www.redalyc.org/pdf/112/11248009008.pdf); [Cousins and Strangers: Spanish Immigrants in Buenos Aires, 1850–1930](https://www.ucpress.edu/book/9780520215269/cousins-and-strangers)
 
-## 06. La Argentina no estaba vacía
+## 07. La Argentina no estaba vacía
 
 *La llegada europea ocurrió sobre sociedades, territorios y relaciones de poder preexistentes.*
 
@@ -133,7 +170,7 @@ La historia afroargentina también fue desplazada del relato nacional. Orlando G
 
 Fuentes: [Ideas, políticas y prácticas migratorias argentinas, 1852–1950](https://www.persee.fr/doc/emixx_1245-2300_1999_num_2_7_1028); [La Conquista del Desierto a partir de diferentes fuentes](https://www.conicet.gov.ar/la-conquista-del-desierto-analizada-a-partir-de-diferentes-tipos-de-fuentes-2/); [¿Dónde está la afrodescendencia mendocina?](https://incihusa.conicet.gov.ar/donde-esta-la-afrodescendencia-mendocina/)
 
-## 07. Un pasaje necesitaba una red
+## 08. Un pasaje necesitaba una red
 
 *La pobreza explicaba necesidades. Los recursos y las relaciones ayudaban a hacer posible el viaje.*
 
@@ -145,7 +182,7 @@ La investigación económica reciente detecta selección positiva por alfabetiza
 
 Fuentes: [El camino de los inmigrantes](https://www.argentina.gob.ar/migraciones/museo-de-la-inmigracion/el-camino-de-los-inmigrantes); [Cousins and Strangers: Spanish Immigrants in Buenos Aires, 1850–1930](https://www.ucpress.edu/book/9780520215269/cousins-and-strangers); [The Age of Mass Migration in Argentina: Social Mobility, Effects on Growth, and Selection Patterns](https://www.bu.edu/econ/files/2023/06/DFP_Argentina_MassMig.pdf)
 
-## 08. La apertura tenía condiciones
+## 09. La apertura tenía condiciones
 
 *Promover la inmigración europea fue una política explícita, atravesada por intereses y jerarquías.*
 
@@ -170,7 +207,7 @@ Desde 1923 el Estado pidió más papeles: certificados de buena conducta, de sal
 
 Fuentes: [Constitución de la Nación Argentina](https://www.argentina.gob.ar/normativa/nacional/804/texto); [La legislación migratoria y la Ley 817](https://www.argentina.gob.ar/node/138266); [La inmigración subsidiada en la Argentina y la crisis económica de 1890](https://www.redalyc.org/journal/5798/579862687002/html/); [The Immigration Offices and Statistics from 1857 to 1903](https://www.gutenberg.org/ebooks/39230); [Argentina, en International Migrations, vol. II: Interpretations](https://www.nber.org/chapters/c5106); [Ideas, políticas y prácticas migratorias argentinas, 1852–1950](https://www.persee.fr/doc/emixx_1245-2300_1999_num_2_7_1028)
 
-## 09. El puerto era una etapa
+## 10. El puerto era una etapa
 
 *Pueblo, estación, puerto, barco y nuevo alojamiento podían formar una sola experiencia migratoria.*
 
@@ -195,7 +232,7 @@ El viaje tenía riesgos. El Sirio encalló en Cabo de Palos el 4 de agosto de 19
 
 Fuentes: [El camino de los inmigrantes](https://www.argentina.gob.ar/migraciones/museo-de-la-inmigracion/el-camino-de-los-inmigrantes); [El Hotel de Inmigrantes](https://www.argentina.gob.ar/migraciones/museo-de-la-inmigracion/el-hotel); [The Immigration Offices and Statistics from 1857 to 1903](https://www.gutenberg.org/ebooks/39230); [Navegación e historia de la ciencia: el naufragio del Sirio](https://investiga.upo.es/documentos/60482415301d210dbc375ac0); [Príncipe de Asturias: el barco español que se hundió entre Barcelona y Buenos Aires](https://billiken.lat/historia/principe-de-asturias-la-historia-de-este-barco-espanol-que-se-hundio-en-un-viaje-entre-barcelona-y-buenos-aires-con-las-piezas-originales-de-un-monumento-porteno/)
 
-## 10. A dónde iban
+## 11. A dónde iban
 
 *El Estado dejó registro de quiénes mandó al interior. El censo muestra dónde terminaron viviendo.*
 
@@ -218,7 +255,7 @@ El oficio declarado al desembarcar no predice el destino. De 1857 a 1926, el 33 
 
 Fuentes: [The Immigration Offices and Statistics from 1857 to 1903](https://www.gutenberg.org/ebooks/39230); [Argentina, en International Migrations, vol. II: Interpretations](https://www.nber.org/chapters/c5106); [Patrones de localización de italianos y españoles en la provincia de Buenos Aires, 1869–1914](https://www.aacademica.org/xviii.jornadas.aepa/2); [La legislación migratoria y la Ley 817](https://www.argentina.gob.ar/node/138266)
 
-## 11. Ocho colonias, ocho contratos
+## 12. Ocho colonias, ocho contratos
 
 *Cada colonia nació de un acuerdo distinto. Casi ninguno se cumplió como estaba escrito.*
 
@@ -247,7 +284,7 @@ Vistos juntos, los casos muestran un patrón. El contrato inicial falló en San 
 
 Fuentes: [Historia de Esperanza](https://esperanza.gob.ar/historia/); [Piemontesi nel mondo: la colonia San José de Entre Ríos](https://www.regione.piemonte.it/web/media/22093/download); [The Journey to Patagonia](https://www.peoplescollection.wales/story/378231); [Volga German Immigration to Argentina](https://www.volgagermans.org/history/immigration/argentina); [Los inicios de Colonia Caroya, según la historiadora Marta Copetti](https://www.cadena3.com/noticia/sociedad/amante-de-la-historia-cuenta-los-inicios-de-colonia-caroya_319271); [Fundación de Pigüé: proyecto de declaración](https://intranet.hcdiputados-ba.gov.ar/proyectos/10-11D4005012018-06-0510-31-53.pdf); [Los crímenes de Moisés Ville, capítulo 1: El viaje](https://www.columbiajournal.org/archive/2022-excerpt-from-chapter-1-the-journey-from-the-murders-of-moiss-ville); [Tres Arroyos y aquellos gauchos holandeses](https://www.lanacion.com.ar/economia/campo/tres-arroyos-y-aquellos-gauchos-holandeses-nid1584909/)
 
-## 12. Ser colono no significaba ser dueño
+## 13. Ser colono no significaba ser dueño
 
 *La agricultura reunió propietarios, arrendatarios, medieros y jornaleros.*
 
@@ -263,7 +300,7 @@ La expansión del trigo da la medida del cambio. Según Bunge y García Mata, la
 
 Fuentes: [Historia de Esperanza](https://esperanza.gob.ar/historia/); [La política de tierras en la Argentina del siglo XIX](https://laplata.conicet.gov.ar/la-politica-de-tierras-en-la-argentina-del-siglo-xix/); [El Grito de Alcorta](https://www.educ.ar/recursos/117858/el-grito-de-alcorta); [Argentina, en International Migrations, vol. II: Interpretations](https://www.nber.org/chapters/c5106)
 
-## 13. Del desembarco al alquiler
+## 14. Del desembarco al alquiler
 
 *El salario disponible dependía también de cuánto costaba habitar la ciudad.*
 
@@ -279,7 +316,7 @@ La provincia de Buenos Aires repite el patrón en sus ciudades y puertos. Calzin
 
 Fuentes: [Escobas y techos: huelga de inquilinos de 1907](https://www.argentina.gob.ar/node/259930); [The (South) American Dream](https://www.cambridge.org/core/journals/journal-of-economic-history/article/south-american-dream-mobility-and-economic-outcomes-of-first-and-secondgeneration-immigrants-in-nineteenthcentury-argentina/C5671D0E78620383CF940E949DA71A62); [Argentina, en International Migrations, vol. II: Interpretations](https://www.nber.org/chapters/c5106); [Patrones de localización de italianos y españoles en la provincia de Buenos Aires, 1869–1914](https://www.aacademica.org/xviii.jornadas.aepa/2)
 
-## 14. Las mujeres también construyeron las rutas
+## 15. Las mujeres también construyeron las rutas
 
 *Los registros de trabajo y los relatos familiares no siempre conservaron su contribución.*
 
@@ -304,7 +341,7 @@ La Ley de Residencia muestra otro costado. Los decretos de expulsión nombraban 
 
 Fuentes: [Extranjeras en la Argentina y argentinas en el extranjero](https://estadisticaciudad.gob.ar/pergamo/documento.php?id=PERGAMO.1.2817&recno=2817&ui=1); [La experiencia argentina de las mujeres gallegas](https://buenosaires.gob.ar/areas/cultura/cpphc/archivos/libros/temas_20.pdf); [Argentina, en International Migrations, vol. II: Interpretations](https://www.nber.org/chapters/c5106); [The Immigration Offices and Statistics from 1857 to 1903](https://www.gutenberg.org/ebooks/39230); [Ley de Residencia, clase trabajadora y género. Aplicación y alcance de la ley 4.144 en Argentina, 1902–1914](https://www.aacademica.org/carlos.alvarez/44)
 
-## 15. La movilidad existió; no fue universal
+## 16. La movilidad existió; no fue universal
 
 *Seguir personas a través del tiempo ofrece evidencia más sólida que comparar dos promedios.*
 
@@ -316,7 +353,7 @@ Las memorias familiares tienden a conservar a quienes se asentaron y dejaron des
 
 Fuentes: [The (South) American Dream](https://www.cambridge.org/core/journals/journal-of-economic-history/article/south-american-dream-mobility-and-economic-outcomes-of-first-and-secondgeneration-immigrants-in-nineteenthcentury-argentina/C5671D0E78620383CF940E949DA71A62); [Immigrants in the Lands of Promise](https://www.jstor.org/stable/10.7591/j.ctt1tm7jdw)
 
-## 16. Muchas Argentinas migratorias
+## 17. Muchas Argentinas migratorias
 
 *El puerto de Buenos Aires no es un resumen del país.*
 
@@ -328,7 +365,7 @@ Apóstoles recibió un contingente polaco y ucraniano en 1897. Galitzia era ento
 
 Fuentes: [Saber hacer el vino: instituciones y agentes](https://incihusa.conicet.gov.ar/saber-hacer-el-vino-instituciones-y-agentes-de-la-vitivinicultura-mendocina/); [Yerba mate y poblamiento de Misiones](https://nordeste.conicet.gov.ar/la-historia-ambiental-de-misiones-como-el-cultivo-de-la-yerba-mate-configuro-el-poblamiento-provincial/); [La inmigración: Apóstoles](https://www.misionestienehistoria.com.ar/media/pdfManual_/2023/03/14/APOSTOLES_manual.pdf); [Inmigración ucraniana y colonización en Apóstoles](https://www.hcdn.gob.ar/comisiones/permanentes/cpydhumano/proyecto.html?exp=1718-D-2015)
 
-## 17. La integración tuvo varios ritmos
+## 18. La integración tuvo varios ritmos
 
 *Hablar español, participar en una mutual y casarse fuera de la colectividad no son la misma variable.*
 
@@ -346,7 +383,7 @@ La pregunta por la mezcla depende de la escala. En una colonia cerrada como las 
 
 Fuentes: [Inmigrantes y colonos en la provincia de Buenos Aires](https://publicaciones.filo.uba.ar/sites/publicaciones.filo.uba.ar/files/Inmigrantes%20y%20colonos%20en%20la%20provincia%20de%20Buenos%20Aires_interactivo_0.pdf); [Patriotas, cosmopolitas y nacionalistas](https://fcede.es/site/es/libros/detalles.aspx?id_libro=2763); [Italian-Spanish Contact in Early 20th Century Argentina](https://www.memoria.fahce.unlp.edu.ar/art_revistas/pr.9987/pr.9987.pdf); [Immigrants in the Lands of Promise](https://www.jstor.org/stable/10.7591/j.ctt1tm7jdw); [La inmigración francesa en la Argentina, 1850–1914](https://bicyt.conicet.gov.ar/fichas/produccion/740621); [Ideas, políticas y prácticas migratorias argentinas, 1852–1950](https://www.persee.fr/doc/emixx_1245-2300_1999_num_2_7_1028)
 
-## 18. Trabajadores deseados, militantes vigilados
+## 19. Trabajadores deseados, militantes vigilados
 
 *La participación social de los extranjeros excedía sus derechos electorales.*
 
@@ -370,7 +407,7 @@ Españoles e italianos sumaban el 65,2 % de los deportados. El tercer grupo eran
 
 Fuentes: [La política de inmigración argentina en la era de las migraciones masivas, 1876–1932](https://revistas.ucm.es/index.php/HPOL/en/article/view/84163); [Población, año 1, número 2](https://www.argentina.gob.ar/sites/default/files/poblacion_02.pdf); [Debate de la Ley 7029, Defensa Social](https://www4.hcdn.gob.ar/dependencias/dip/wdebates/Ley.07029.Debate.Defensa.Social.pdf); [Mujeres ignoradas durante casi un siglo](https://www.conicet.gov.ar/mujeres-ignoradas-durante-casi-un-siglo/); [Ley de Residencia, clase trabajadora y género. Aplicación y alcance de la ley 4.144 en Argentina, 1902–1914](https://www.aacademica.org/carlos.alvarez/44)
 
-## 19. Una colonia, una comunidad, muchas nacionalidades
+## 20. Una colonia, una comunidad, muchas nacionalidades
 
 *La historia judía no puede reducirse a una sola ola migratoria.*
 
@@ -399,7 +436,7 @@ Después de la guerra las restricciones siguieron. Al menos 4.800 sobrevivientes
 
 Fuentes: [Moisés Ville y patrimonio de la inmigración](https://www.argentina.gob.ar/normativa/nacional/decreto-339-1999-57083/texto); [Colonización judía y patrimonio de Avigdor](https://www.argentina.gob.ar/capital-humano/cultura/monumentos/predio-que-ocupan-la-sinagoga-y-el-centro-union-israelita); [Derogación de la Circular 11](https://www.cancilleria.gob.ar/es/actualidad/comunicados/derogacion-de-la-circular-11); [Los crímenes de Moisés Ville, capítulo 1: El viaje](https://www.columbiajournal.org/archive/2022-excerpt-from-chapter-1-the-journey-from-the-murders-of-moiss-ville); [El refugio en América Latina](https://encyclopedia.ushmm.org/content/es/article/refuge-in-latin-america); [Circular 11: la historia secreta de la orden que prohibió el ingreso de judíos](https://www.lanacion.com.ar/lifestyle/circular-11-la-historia-secreta-de-la-orden-que-prohibio-el-ingreso-de-judios-a-la-argentina-durante-nid13072022/); [Indifferent Sanctuary: German-Speaking Refugees and Exiles in Argentina, 1933–1945](https://www.cambridge.org/core/journals/journal-of-interamerican-studies-and-world-affairs/article/indifferent-sanctuary-germanspeaking-refugees-and-exiles-in-argentina-19331945/F532ABCF8E0515C697F962EFF1038AC2)
 
-## 20. Mimosa y Massilia: dos cruces diferentes
+## 21. Mimosa y Massilia: dos cruces diferentes
 
 *Los documentos permiten acercarse a un viaje sin convertirlo en modelo de toda la inmigración.*
 
@@ -411,7 +448,7 @@ En ambos casos distinguimos acontecimientos comprobados y geometría. Los puerto
 
 Fuentes: [The Journey to Patagonia](https://www.peoplescollection.wales/story/378231); [Passengers’ Contract Ticket: Abraham Matthews and family](https://archives.library.wales/index.php/two-items-re-mimosa-and-welsh-settlement-in-patagonia?sf_culture=en); [Mimosa: registro del buque](https://emuseum.aberdeencity.gov.uk/objects/100108/mimosa); [En busca de un submarino: el Massilia](https://www.casamemorialasauceda.es/2019/07/08/estudio-sobre-el-traslado-de-republicanos-exiliados-a-argentina-en-el-vapor-massilia-de-barbara-ortuno-segun-las-cronicas-del-periodista-constantino-del-esla/)
 
-## 21. Volver a abrir el Atlántico
+## 22. Volver a abrir el Atlántico
 
 *La reconstrucción europea y las políticas de destino reordenaron las posibilidades de migrar.*
 
@@ -438,7 +475,7 @@ Sobre los criminales de guerra, la comisión oficial creada en 1997 identificó 
 
 Fuentes: [El Estado argentino frente a la oferta inmigratoria de la segunda posguerra, 1945–1955](https://bicyt.conicet.gov.ar/fichas/produccion/10153104); [Postwar Immigration through Pier 21](https://pier21.ca/blog/jan-raska-phd/postwar-immigration-through-pier-21); [Coming to belong: Australia’s immigration history](https://www.sea.museum/en/page/coming-to-belong-australias-immigration-history); [Adolf Eichmann](https://encyclopedia.ushmm.org/content/en/article/adolf-eichmann); [Italia y la emigración a América Latina: acuerdos bilaterales y participación en el CIME, 1946–1957](https://www.redalyc.org/journal/5798/579862687005/579862687005.pdf); [Análisis histórico-demográfico de la inmigración en la Argentina del Centenario al Bicentenario](https://www.redalyc.org/pdf/112/11248009008.pdf); [Informe final de la Comisión para el Esclarecimiento de las Actividades del Nazismo en la Argentina](https://cdi.mecon.gob.ar/bases/docelec/ceana/03.pdf)
 
-## 22. Había más de una América posible
+## 23. Había más de una América posible
 
 *Las políticas de entrada podían modificar los destinos disponibles.*
 
@@ -450,7 +487,7 @@ Este mapa incluye conexiones mundiales de contexto sin atribuirles volúmenes. L
 
 Fuentes: [Immigrants in the Lands of Promise](https://www.jstor.org/stable/10.7591/j.ctt1tm7jdw); [The Immigration Act of 1924](https://history.state.gov/milestones/1921-1936/immigration-act); [Acervo de listas de pasajeros y cartas de chamada](https://www.museudaimigracao.org.br/acervo/sobre-acervo)
 
-## 23. Los descendientes no son un porcentaje simple
+## 24. Los descendientes no son un porcentaje simple
 
 *Una persona puede pertenecer a muchas genealogías al mismo tiempo.*
 
@@ -462,7 +499,7 @@ Las memorias también seleccionan. Una familia puede recordar un pueblo europeo 
 
 Fuentes: [Ancestrías presentes en el ADN de los argentinos](https://www.conicet.gov.ar/un-estudio-genetico-logro-determinar-las-ancestrias-presentes-en-el-adn-de-los-argentinos/); [¿Dónde está la afrodescendencia mendocina?](https://incihusa.conicet.gov.ar/donde-esta-la-afrodescendencia-mendocina/); [Inmigrantes y colonos en la provincia de Buenos Aires](https://publicaciones.filo.uba.ar/sites/publicaciones.filo.uba.ar/files/Inmigrantes%20y%20colonos%20en%20la%20provincia%20de%20Buenos%20Aires_interactivo_0.pdf)
 
-## 24. Ocho afirmaciones corrientes, revisadas
+## 25. Ocho afirmaciones corrientes, revisadas
 
 *Frases que se repiten y lo que dicen las fuentes de este atlas.*
 
@@ -484,7 +521,7 @@ Fuentes: [Ancestrías presentes en el ADN de los argentinos](https://www.conicet
 
 Fuentes: [International Migrations, vol. I: Statistics. Tablas nacionales de Argentina](https://www.nber.org/chapters/c5136); [Argentina, en International Migrations, vol. II: Interpretations](https://www.nber.org/chapters/c5106); [Constitución de la Nación Argentina](https://www.argentina.gob.ar/normativa/nacional/804/texto); [Ley de Residencia, clase trabajadora y género. Aplicación y alcance de la ley 4.144 en Argentina, 1902–1914](https://www.aacademica.org/carlos.alvarez/44); [Circular 11: la historia secreta de la orden que prohibió el ingreso de judíos](https://www.lanacion.com.ar/lifestyle/circular-11-la-historia-secreta-de-la-orden-que-prohibio-el-ingreso-de-judios-a-la-argentina-durante-nid13072022/); [The Age of Mass Migration in Argentina: Social Mobility, Effects on Growth, and Selection Patterns](https://www.bu.edu/econ/files/2023/06/DFP_Argentina_MassMig.pdf); [Informe final de la Comisión para el Esclarecimiento de las Actividades del Nazismo en la Argentina](https://cdi.mecon.gob.ar/bases/docelec/ceana/03.pdf); [Ancestrías presentes en el ADN de los argentinos](https://www.conicet.gov.ar/un-estudio-genetico-logro-determinar-las-ancestrias-presentes-en-el-adn-de-los-argentinos/); [Análisis histórico-demográfico de la inmigración en la Argentina del Centenario al Bicentenario](https://www.redalyc.org/pdf/112/11248009008.pdf)
 
-## 25. Cómo seguir una vida en el archivo
+## 26. Cómo seguir una vida en el archivo
 
 *Una coincidencia de apellido abre una hipótesis; no demuestra una identidad.*
 
@@ -496,7 +533,7 @@ Una búsqueda negativa tampoco prueba que alguien no emigró. Puede haber otra v
 
 Fuentes: [Consulta de antecedentes migratorios, 1882–1937](https://www.argentina.gob.ar/interior/archivo-general-de-la-nacion/consulta-de-antecedentes-migratorios); [Registros históricos de inmigración](https://www.argentina.gob.ar/migraciones/museo-de-la-inmigracion/registros-historicos)
 
-## 26. Qué sabemos y qué falta
+## 27. Qué sabemos y qué falta
 
 *Una síntesis documental trazable, no un inventario de todos los viajes.*
 
@@ -505,6 +542,8 @@ Esta edición reúne fuentes primarias digitalizadas, trabajos académicos, pág
 Las rutas generales son una selección explicativa. Sus intervalos sirven para organizar épocas y no certifican salidas en cada año. Los mapas usan fronteras contemporáneas y puntos de referencia actuales. El atlas no recrea los límites de los imperios europeos ni las fronteras indígenas del siglo XIX.
 
 Quedan abiertas preguntas de escala más fina: retornos por cohorte, trayectorias femeninas, contratos rurales, circuitos por Brasil y Uruguay, y diferencias dentro de cada colectividad. Para responderlas hacen falta registros comparables y análisis específicos. Los datos de esta edición se descargan para que puedan revisarse y ampliarse.
+
+La sección sobre Medio Oriente se armó en dos pasos. Cuatro agentes de un modelo menor buscaron fuentes y trajeron datos con su cita. Después cada cifra se comprobó contra el PDF o la página original, y se descartó lo que solo aparecía en resúmenes de buscador. Por eso el capítulo no da duraciones de viaje, compañías navieras ni recuentos por confesión que no pudieron verificarse.
 
 La segunda edición agregó series transcritas de fuentes primarias. Las entradas y salidas anuales de 1857 a 1924 vienen de las tablas que Imre Ferenczi y Walter Willcox publicaron en 1929 con datos de la Dirección General de Inmigración. La transcripción se hizo con dos lecturas ópticas independientes de cada página y se verificó contra los totales impresos. Las entradas anuales suman exactamente 5.481.276 y las salidas 2.562.790.
 
@@ -593,7 +632,7 @@ Pasajeros extranjeros de segunda y tercera clase llegados o salidos por vía mar
 
 ## Entradas y salidas por nacionalidad, 1857–1924
 
-Nacionalidad según la clasificación administrativa de la época. «Rusos» incluye judíos del Imperio ruso y alemanes del Volga; «otomanos» incluye sirios y libaneses; «austrohúngaros» reúne a súbditos de muchas lenguas. La relación entre salidas y entradas no es una tasa de retorno por cohorte.
+Nacionalidad según la clasificación administrativa de la época. «Rusos» incluye judíos del Imperio ruso y alemanes del Volga; «otomanos» incluye sirios, libaneses, armenios y judíos del Imperio; «austrohúngaros» reúne a súbditos de muchas lenguas. La relación entre salidas y entradas no es una tasa de retorno por cohorte.
 
 | Nacionalidad | Entradas | Salidas | Salidas / entradas |
 |---|---|---|---|
@@ -652,6 +691,7 @@ Inmigrantes que la Oficina de Trabajo trasladó con pasaje del Estado entre 1894
 - **1853. Constitución nacional.** El artículo 20 reconoce a los extranjeros los derechos civiles del ciudadano. El artículo 25 ordena fomentar la inmigración europea.
 - **1856. Esperanza.** Familias suizas, alemanas y francesas inician en Santa Fe una colonia agrícola organizada por contrato.
 - **1857. Primera estadística y colonia San José.** La Comisión Filantrópica de Inmigración empieza a contar pasajeros: 4.951 en el año. Unos 530 colonos del Valais, Saboya y Piamonte se instalan en campos de Urquiza.
+- **1860. Primeros sefardíes y pioneros del Monte Líbano.** Empiezan a llegar judíos de Tetuán y Tánger. Desde esa década los habitantes del Monte Líbano inician la emigración a América.
 - **1865. El Mimosa llega a Golfo Nuevo.** Unos 150 galeses desembarcan en Patagonia a fines de julio.
 - **1869. Primer censo nacional.** 210.295 extranjeros, el 12,1 % de la población. La Comisión Central de Inmigración reemplaza a la sociedad filantrópica.
 - **1871. Fiebre amarilla.** La epidemia en Buenos Aires reduce las llegadas a la mitad: 15.088 frente a 30.898 del año anterior.
@@ -659,26 +699,32 @@ Inmigrantes que la Oficina de Trabajo trasladó con pasaje del Estado entre 1894
 - **1876. Ley 817 de Inmigración y Colonización.** Define al inmigrante como todo extranjero menor de sesenta años que llega en segunda o tercera clase para establecerse. Ofrece alojamiento, colocación y traslado gratuitos.
 - **1878. Alemanes del Volga y friulanos.** El 5 de enero se funda Hinojo. En julio se establecen las aldeas de Entre Ríos. Familias friulanas llegan a Colonia Caroya.
 - **1884. Pigüé.** Unas cuarenta familias del Aveyron llegan a la estación el 3 de diciembre.
+- **1887. Los «turcos» vuelven a los registros.** Tras ocho años sin anotaciones, los inmigrantes otomanos reaparecen en la estadística argentina y ya no dejan de llegar.
 - **1888. Pasajes subsidiados.** El Estado adelanta pasajes: 12.000 personas en 1888, 100.000 en 1889 y 20.000 en 1890, según Bunge y García Mata.
 - **1889. El año de las 218.744 llegadas.** Récord del siglo XIX. Llegan 71.151 españoles, 27.173 franceses, 8.666 belgas y 4.007 neerlandeses. El 14 de agosto ancla el Weser.
 - **1890. Crisis financiera.** Caen las llegadas a 77.815 y se abandona el sistema de pasajes subsidiados.
 - **1891. Saldo negativo.** Entran 28.266 personas y salen 72.380. Entre los italianos, 15.511 entradas y 57.920 salidas.
 - **1895. Segundo censo nacional.** 1.004.527 extranjeros, el 25,4 % de la población.
 - **1897. Apóstoles.** Un contingente polaco y ucraniano de Galitzia llega a Misiones el 27 de agosto.
+- **1899. Alsina y la «población exótica».** El director de Inmigración escribe en su memoria anual que entre «la población exótica» se distingue «la cristiana procedente de la Turquía Asiática». En otros informes criticó a los sirios por dedicarse a la venta ambulante.
 - **1902. Ley de Residencia.** La ley 4.144 permite al Poder Ejecutivo expulsar extranjeros sin juicio. Entre 1902 y 1914 los decretos alcanzaron a 560 personas.
 - **1906. Naufragio del Sirio.** El vapor encalla en Cabo de Palos el 4 de agosto. Ese año se registran 127.348 entradas de italianos, el máximo.
 - **1907. Huelga de inquilinos.** Los conventillos de Buenos Aires y Rosario dejan de pagar el alquiler. Empieza el auge de la inmigración golondrina.
+- **1909. Matanzas de Adana.** Comienza la llegada sostenida de armenios de Cilicia. Ese año vivían unos 200 en Buenos Aires, según fuentes de la colectividad.
 - **1910. Ley de Defensa Social.** La ley 7.029 prohíbe el ingreso de anarquistas y restringe reuniones y prensa.
 - **1911. Nuevo Hotel de Inmigrantes.** Edificio de hormigón con cuatro dormitorios por piso, cada uno para 250 personas. Alojamiento gratuito por cinco días.
 - **1912. Máximo histórico y Grito de Alcorta.** 323.403 llegadas en el año, 165.662 de españoles. En junio los arrendatarios del sur de Santa Fe van a la huelga.
 - **1914. Censo y reflujo.** 2.357.952 extranjeros, el 29,9 %. En el año entran 115.321 personas y salen 178.684. El reflujo empezó antes de la guerra.
+- **1915. Unión de Residentes de Hadjin.** Primera unión compatriótica armenia, en el año del genocidio. Le siguen las de Marash en 1924 y Aintab en 1929.
 - **1916. Príncipe de Asturias.** El vapor español se hunde frente a Ilhabela el 5 de marzo, en viaje de Barcelona a Buenos Aires.
 - **1918. Mínimo de la serie.** 13.701 llegadas. El movimiento total, entradas más salidas, es de unas 38.000 personas.
 - **1919. Semana Trágica.** Represión obrera en Buenos Aires, con ataques contra el barrio judío.
 - **1923. Recuperación.** 195.063 llegadas, el nivel de preguerra. Un nuevo reglamento exige certificados visados por el cónsul argentino.
 - **1924. Cuotas en Estados Unidos.** La ley Johnson-Reed cierra el principal destino para europeos del sur y del este.
 - **1926. Quiénes llegaban.** De 135.011 pasajeros de segunda y tercera clase, 113.352 declararon intención de quedarse y 18.036 ya habían estado en el país.
+- **1929. El Mendoza.** Una familia armenia de Marash llega a Buenos Aires el 30 de enero, tras salir de Beirut con pasaportes del Mandato francés.
 - **1930. Crisis y restricciones.** La depresión reduce las llegadas y el Estado endurece los requisitos consulares.
+- **1937. Hospital Sirio-Libanés.** Un grupo de inmigrantes prósperos abre el hospital en Buenos Aires. El término «sirio-libanés» se había generalizado en esa década.
 - **1938. Evian y la Circular 11.** El 12 de julio el canciller José María Cantilo ordena en secreto negar visas a quienes abandonan su país «como indeseables o expulsados».
 - **1939. Massilia.** El vapor sale de La Rochelle el 19 de octubre con exiliados republicanos y llega a Buenos Aires el 5 de noviembre.
 - **1947. Cuarto censo y acuerdo con Italia.** 2.435.927 extranjeros, el 15,3 %. Argentina e Italia firman el primero de dos acuerdos de emigración.
@@ -763,3 +809,13 @@ Inmigrantes que la Oficina de Trabajo trasladó con pasaje del Estado entre 1894
 - **Tres Arroyos y aquellos gauchos holandeses**. La Nación · suplemento Campo. Prensa. Nota periodística sobre el contingente de 1889. https://www.lanacion.com.ar/economia/campo/tres-arroyos-y-aquellos-gauchos-holandeses-nid1584909/
 - **Navegación e historia de la ciencia: el naufragio del Sirio**. Universidad Pablo de Olavide · ficha de investigación. Estudio. Resumen consultado. El número de víctimas difiere entre fuentes. https://investiga.upo.es/documentos/60482415301d210dbc375ac0
 - **Príncipe de Asturias: el barco español que se hundió entre Barcelona y Buenos Aires**. Billiken · nota de divulgación. Prensa. Divulgación. Fechas y cifras aproximadas del naufragio de 1916. https://billiken.lat/historia/principe-de-asturias-la-historia-de-este-barco-espanol-que-se-hundio-en-un-viaje-entre-barcelona-y-buenos-aires-con-las-piezas-originales-de-un-monumento-porteno/
+- **Cuadernos del MUNTREF 3. Del Mediterráneo oriental a la Argentina**. Gladys Jozami, Jorge Bestene, Hamurabi Noufouri y otros · Museo de la Inmigración, UNTREF, 2025. Estudio. Capítulo de Jozami sobre los árabes en el Noroeste: registros de ingreso desde 1887, censos de 1895, 1914 y 1947, retornos y proporción de sirios y libaneses por provincia. https://untref.edu.ar/muntref/wp-content/uploads/2025/10/Cuadernos-del-MUNTREF-N3-web.pdf
+- **Incoherencias en el pensamiento racial en el primer centenario argentino. La inmigración romaní, árabe y judía**. Benjamin Bryce · Travesía 25 (2), 2023. Estudio. Memorias de la Dirección General de Inmigración, correspondencia consular y prensa. Cita la memoria de Juan Alsina de 1899 y las estadísticas de 1925 y 1926. https://dialnet.unirioja.es/servlet/articulo?codigo=10292121
+- **La inserción de los inmigrantes árabes en Argentina (1880–1980): implicaciones sociales**. Abdelwahed Akmir · Anaquel de Estudios Árabes, 1991. Estudio. Venta ambulante, el «barrio de los turcos» de Buenos Aires y una encuesta propia a unas 1.040 personas. El autor advierte que sus porcentajes son estimaciones. https://revistas.ucm.es/index.php/ANQE/article/download/ANQE9191110237A/4043/4970
+- **Introduction: «Turco» Immigrants in Latin America**. Ignacio Klich y Jeffrey Lesser · The Americas 53 (1), 1996. Estudio. Origen y uso de la etiqueta «turco». Primera página y notas consultadas. https://www.cambridge.org/core/product/804ED3022F9E88F86F0A9F40BBD24E11
+- **Árabes, judíos y árabes judíos en la Argentina de la primera mitad del novecientos**. Ignacio Klich · Estudios Interdisciplinarios de América Latina y el Caribe. Estudio. Relaciones entre las colectividades. Distingue cuatro grupos de judíos sefardíes y orientales: marroquíes, alepinos, damasquinos y ladino-hablantes. https://eialonline.org/index.php/eial/article/download/1196/1224/4759
+- **Exit from the Unbeloved Empire: Ottoman Passports and Mass Emigration from Mount Lebanon**. Fergus Nicoll · Moving Stories, Universidad de Oxford, 2024. Estudio. Pasaportes otomanos, prohibición de 1888, embarque en Beirut y puertos de tránsito. Trata sobre todo la ruta a Estados Unidos. https://movingstories.history.ox.ac.uk/article/exit-from-the-unbeloved-empire-ottoman-passports-and-mass-emigration-from-mount-lebanon
+- **La diáspora armenia en la Argentina. Rol de las redes asociativas y vínculos con la «madre patria»**. Nélida Boulgourdjian-Toufeksian · EIAL 24 (2), 2013. Estudio. Etapas de la llegada, censo municipal de 1936, estimaciones comunitarias y uniones compatrióticas. https://eialonline.org/index.php/eial/article/download/658/619/2548
+- **The Armenians of Argentina**. David Zenian · AGBU Magazine, noviembre de 2000. Prensa. Revista de una institución de la colectividad. Fechas de instituciones y estimaciones sin aparato de citas. https://agbu.org/ola-buenos-aires/armenians-argentina
+- **Colección Kanzabetian / Chinchinian**. Houshamadyan · archivo digital de la vida armenia otomana. Archivo. Pasaportes, visas y fechas de viaje de dos familias de Marash que vivían en Beirut. No consigna el puerto de embarque. https://houshamadyan.org/oda/americas/kanzabetianchinchinian-coll-arg.html
+- **Marroquíes de origen judío en Argentina. Cohesión y dispersión comunitaria**. Diana Epstein · Revista de Historia 12, Universidad Nacional del Comahue, 2011. Estudio. Resumen consultado. Sitúa el inicio de la corriente en 1860. https://revele.uncoma.edu.ar/index.php/historia/article/view/81

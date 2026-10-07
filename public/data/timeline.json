@@ -28,6 +28,16 @@
     "kind": "colonia"
   },
   {
+    "year": 1860,
+    "title": "Primeros sefardíes y pioneros del Monte Líbano",
+    "text": "Empiezan a llegar judíos de Tetuán y Tánger. Desde esa década los habitantes del Monte Líbano inician la emigración a América.",
+    "sources": [
+      "epstein",
+      "jozami"
+    ],
+    "kind": "colonia"
+  },
+  {
     "year": 1865,
     "title": "El Mimosa llega a Golfo Nuevo",
     "text": "Unos 150 galeses desembarcan en Patagonia a fines de julio.",
@@ -96,6 +106,15 @@
     "kind": "colonia"
   },
   {
+    "year": 1887,
+    "title": "Los «turcos» vuelven a los registros",
+    "text": "Tras ocho años sin anotaciones, los inmigrantes otomanos reaparecen en la estadística argentina y ya no dejan de llegar.",
+    "sources": [
+      "jozami"
+    ],
+    "kind": "dato"
+  },
+  {
     "year": 1888,
     "title": "Pasajes subsidiados",
     "text": "El Estado adelanta pasajes: 12.000 personas en 1888, 100.000 en 1889 y 20.000 en 1890, según Bunge y García Mata.",
@@ -153,6 +172,15 @@
     "kind": "colonia"
   },
   {
+    "year": 1899,
+    "title": "Alsina y la «población exótica»",
+    "text": "El director de Inmigración escribe en su memoria anual que entre «la población exótica» se distingue «la cristiana procedente de la Turquía Asiática». En otros informes criticó a los sirios por dedicarse a la venta ambulante.",
+    "sources": [
+      "bryce"
+    ],
+    "kind": "conflicto"
+  },
+  {
     "year": 1902,
     "title": "Ley de Residencia",
     "text": "La ley 4.144 permite al Poder Ejecutivo expulsar extranjeros sin juicio. Entre 1902 y 1914 los decretos alcanzaron a 560 personas.",
@@ -180,6 +208,15 @@
       "bunge"
     ],
     "kind": "conflicto"
+  },
+  {
+    "year": 1909,
+    "title": "Matanzas de Adana",
+    "text": "Comienza la llegada sostenida de armenios de Cilicia. Ese año vivían unos 200 en Buenos Aires, según fuentes de la colectividad.",
+    "sources": [
+      "boulgourdjian"
+    ],
+    "kind": "crisis"
   },
   {
     "year": 1910,
@@ -219,6 +256,16 @@
       "willcox"
     ],
     "kind": "dato"
+  },
+  {
+    "year": 1915,
+    "title": "Unión de Residentes de Hadjin",
+    "text": "Primera unión compatriótica armenia, en el año del genocidio. Le siguen las de Marash en 1924 y Aintab en 1929.",
+    "sources": [
+      "zenian",
+      "boulgourdjian"
+    ],
+    "kind": "institución"
   },
   {
     "year": 1916,
@@ -278,6 +325,15 @@
     "kind": "dato"
   },
   {
+    "year": 1929,
+    "title": "El Mendoza",
+    "text": "Una familia armenia de Marash llega a Buenos Aires el 30 de enero, tras salir de Beirut con pasaportes del Mandato francés.",
+    "sources": [
+      "houshamadyan"
+    ],
+    "kind": "viaje"
+  },
+  {
     "year": 1930,
     "title": "Crisis y restricciones",
     "text": "La depresión reduce las llegadas y el Estado endurece los requisitos consulares.",
@@ -286,6 +342,15 @@
       "policy"
     ],
     "kind": "crisis"
+  },
+  {
+    "year": 1937,
+    "title": "Hospital Sirio-Libanés",
+    "text": "Un grupo de inmigrantes prósperos abre el hospital en Buenos Aires. El término «sirio-libanés» se había generalizado en esa década.",
+    "sources": [
+      "bryce"
+    ],
+    "kind": "institución"
   },
   {
     "year": 1938,

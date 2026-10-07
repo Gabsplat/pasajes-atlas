@@ -8,7 +8,7 @@ import {views, type Data, type Route, type View} from './types';
 
 const W = 1150, H = 650;
 const AREAS: Record<View, [number, number][]> = {Mundo: [], Atlántico: [[-94, -58], [48, 66]], Europa: [[-22, 32], [50, 63]], Argentina: [[-77, -55], [-49, -20]]};
-const ALWAYS_LABELLED = ['ba', 'genoa', 'naples', 'vigo', 'madryn', 'ny', 'sydney', 'halifax', 'santos', 'bremen', 'cabopalos', 'ilhabela'];
+const ALWAYS_LABELLED = ['ba', 'genoa', 'naples', 'vigo', 'madryn', 'ny', 'sydney', 'halifax', 'santos', 'bremen', 'cabopalos', 'ilhabela', 'beirut', 'tucuman'];
 
 type Tip = {x: number; y: number; title: string; sub?: string};
 type Props = {

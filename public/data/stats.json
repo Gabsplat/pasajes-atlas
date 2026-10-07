@@ -728,7 +728,7 @@
       "emigrants": 53513,
       "net": 103672,
       "ratio": 34.0,
-      "group": null
+      "group": "levant"
     },
     {
       "name": "Alemanes",
@@ -835,7 +835,7 @@
       "group": null
     }
   ],
-  "nationalitiesNote": "Nacionalidad según la clasificación administrativa de la época. «Rusos» incluye judíos del Imperio ruso y alemanes del Volga; «otomanos» incluye sirios y libaneses; «austrohúngaros» reúne a súbditos de muchas lenguas. La relación entre salidas y entradas no es una tasa de retorno por cohorte.",
+  "nationalitiesNote": "Nacionalidad según la clasificación administrativa de la época. «Rusos» incluye judíos del Imperio ruso y alemanes del Volga; «otomanos» incluye sirios, libaneses, armenios y judíos del Imperio; «austrohúngaros» reúne a súbditos de muchas lenguas. La relación entre salidas y entradas no es una tasa de retorno por cohorte.",
   "decades": [
     {
       "period": "1857–60",
@@ -1320,6 +1320,57 @@
       "period": "1947–1953",
       "value": 4800,
       "label": "sobrevivientes del Holocausto radicados, como mínimo"
+    }
+  ],
+  "ottoman": [
+    {
+      "period": "1871–80",
+      "immigrants": 672,
+      "emigrants": null
+    },
+    {
+      "period": "1881–90",
+      "immigrants": 3537,
+      "emigrants": null
+    },
+    {
+      "period": "1891–1900",
+      "immigrants": 11583,
+      "emigrants": 1011
+    },
+    {
+      "period": "1901–10",
+      "immigrants": 66558,
+      "emigrants": 31160
+    },
+    {
+      "period": "1911–20",
+      "immigrants": 59272,
+      "emigrants": 20220
+    },
+    {
+      "period": "1921–24",
+      "immigrants": 15563,
+      "emigrants": 1122
+    }
+  ],
+  "ottomanNote": "Pasajeros anotados como «turcos» u otomanos en la estadística de ultramar, sin distinción de lengua ni religión: incluye sirios, libaneses, palestinos, armenios y judíos del Imperio. La fuente agrupa por décadas y no publica las salidas anteriores a 1891.",
+  "ottomanFacts": [
+    {
+      "value": "157.185",
+      "label": "entradas de «otomanos», 1857–1924; el 90 % llegó desde 1900"
+    },
+    {
+      "value": "876",
+      "label": "«turcos» en el censo de 1895; unos 64.000 «otomanos» en el de 1914"
+    },
+    {
+      "value": "15,1 %",
+      "label": "de retorno entre 1890 y 1909, frente a 58,6 % del total de ultramar, según Bertoni"
+    },
+    {
+      "value": "≈ 10.000",
+      "label": "refugiados armenios radicados entre 1909 y 1938, según fuentes comunitarias"
     }
   ]
 }

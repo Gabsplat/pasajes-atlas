@@ -498,5 +498,105 @@
     ],
     "kind": "Naufragio",
     "note": "El Príncipe de Asturias se hundió frente a esta costa en marzo de 1916."
+  },
+  "beirut": {
+    "id": "beirut",
+    "name": "Beirut",
+    "coordinates": [
+      35.5,
+      33.89
+    ],
+    "kind": "Puerto",
+    "note": "Puerto principal de salida del Levante. Según Nicoll, allí importaba más tener el dinero del pasaje que el permiso de salida. En su barrio de Mdaouar vivieron refugiados armenios antes de seguir viaje."
+  },
+  "lebanon": {
+    "id": "lebanon",
+    "name": "Monte Líbano",
+    "coordinates": [
+      35.85,
+      34.25
+    ],
+    "kind": "Región de origen",
+    "note": "Distrito autónomo otomano desde 1861, de mayoría cristiana maronita. Sus habitantes fueron los pioneros de la emigración a América desde la década de 1860."
+  },
+  "homs": {
+    "id": "homs",
+    "name": "Homs y Hama",
+    "coordinates": [
+      36.72,
+      34.9
+    ],
+    "kind": "Región de origen",
+    "note": "Interior de Siria. Según Jozami, los sirios ingresaron en masa al Noroeste argentino a partir de 1904."
+  },
+  "aleppo": {
+    "id": "aleppo",
+    "name": "Alepo",
+    "coordinates": [
+      37.16,
+      36.2
+    ],
+    "kind": "Región de origen",
+    "note": "Origen de los judíos «alepinos», uno de los cuatro grupos sefardíes y orientales que distingue Klich, y lugar de paso de los refugiados armenios."
+  },
+  "damascus": {
+    "id": "damascus",
+    "name": "Damasco",
+    "coordinates": [
+      36.29,
+      33.51
+    ],
+    "kind": "Región de origen",
+    "note": "Origen de inmigrantes sirios de las tres religiones y de los judíos «damasquinos»."
+  },
+  "cilicia": {
+    "id": "cilicia",
+    "name": "Cilicia (Marash, Hadjin, Aintab)",
+    "coordinates": [
+      36.75,
+      37.55
+    ],
+    "kind": "Región de origen",
+    "note": "De aquí vino la mayor parte de los armenios de Argentina, tras las matanzas de 1909 y el genocidio. Sus uniones compatrióticas se fundaron en Buenos Aires en 1915, 1924 y 1929."
+  },
+  "marseille": {
+    "id": "marseille",
+    "name": "Marsella",
+    "coordinates": [
+      5.37,
+      43.3
+    ],
+    "kind": "Puerto de tránsito",
+    "note": "Puerto de trasbordo habitual de quienes salían del Levante hacia América, junto con Le Havre."
+  },
+  "tetuan": {
+    "id": "tetuan",
+    "name": "Tetuán y Tánger",
+    "coordinates": [
+      -5.5,
+      35.65
+    ],
+    "kind": "Región de origen",
+    "note": "Norte de Marruecos. De aquí llegaron desde 1860 los primeros judíos sefardíes, de lengua española."
+  },
+  "tucuman": {
+    "id": "tucuman",
+    "name": "San Miguel de Tucumán",
+    "coordinates": [
+      -65.22,
+      -26.82
+    ],
+    "kind": "Ciudad",
+    "note": "Principal destino árabe del Noroeste: en 1895 vivía aquí el 36,6 % de los «turcos» de la región. La industria azucarera y el ferrocarril atrajeron comercio."
+  },
+  "santiago": {
+    "id": "santiago",
+    "name": "Santiago del Estero",
+    "coordinates": [
+      -64.26,
+      -27.79
+    ],
+    "kind": "Ciudad",
+    "note": "Segundo destino del Noroeste. La actividad forestal abrió lugar al comercio. Los libaneses son cerca del 40 % de la población de lengua árabe de la provincia."
   }
 }

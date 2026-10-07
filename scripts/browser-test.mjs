@@ -82,7 +82,7 @@ try {
  assert.equal(await page.locator('.destination-circle').count(),24);
  // investigación
  await tab('La investigación');
- assert.equal(await page.locator('.chapter-nav button').count(),26);
+ assert.equal(await page.locator('.chapter-nav button').count(),27);
  assert(await page.locator('.fact-grid div').count()>=3);
  await page.getByLabel('Buscar en la investigación',{exact:true}).fill('golondrinas');
  assert(await page.locator('.chapter-nav button').count()>0);
@@ -91,17 +91,17 @@ try {
  await page.screenshot({path:'/home/sbx/atlas-investigacion.png'});
  // cronología
  await tab('Cronología');
- assert.equal(await page.locator('.chronology li').count(),36);
+ assert.equal(await page.locator('.chronology li').count(),43);
  await page.locator('.kind-filter').getByRole('button',{name:'viaje',exact:true}).click();
- assert(await page.locator('.chronology li').count()<36);
+ assert(await page.locator('.chronology li').count()<43);
  await page.screenshot({path:'/home/sbx/atlas-cronologia.png'});
  // fuentes y corpus
  await tab('Fuentes y archivo');
- assert.equal(await page.locator('.sources-list article').count(),75);
+ assert.equal(await page.locator('.sources-list article').count(),85);
  await page.getByLabel('Buscar fuentes',{exact:true}).fill('Massilia');
  assert(await page.locator('.sources-list article').count()>0);
  const corpus=JSON.parse(await saved(()=>page.getByRole('button',{name:'Descargar corpus'}).click(),'pasajes-corpus.json'));
- assert.equal(corpus.routes.length,43);
+ assert.equal(corpus.routes.length,50);
  assert.equal(corpus.stats.series.length,68);
  // móvil
  await page.setViewportSize({width:390,height:844});

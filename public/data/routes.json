@@ -1135,7 +1135,8 @@
     "stops": [
       "queenstown",
       "liverpool"
-    ]
+    ],
+    "stopsLabel": "Puertos de embarque documentados:"
   },
   {
     "id": "volga-vallemaria",
@@ -1717,6 +1718,425 @@
     "layer": "interior",
     "evidence": "Conexión regional",
     "via": [],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual y no reproducen el derrotero. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma viajes en cada año."
+  },
+  {
+    "id": "beirut-ba",
+    "group": "levant",
+    "origin": "beirut",
+    "destination": "ba",
+    "start": 1887,
+    "end": 1960,
+    "title": "Beirut → Buenos Aires",
+    "description": "En 1878 los registros argentinos anotan por primera vez a 17 personas «griegas y turcas». Entre 1879 y 1886 no aparecen, por las restricciones otomanas a la salida, y desde 1887 llegan sin interrupción. El máximo fue entre 1904 y 1913. Se embarcaba en Beirut, muchas veces sin permiso, y se cambiaba de barco en un puerto europeo. Entre 1887 y 1913 entraron 130.937 árabes y salieron 38.424, según Jozami. La línea no reproduce el recorrido de un vapor.",
+    "sources": [
+      "jozami",
+      "nicoll",
+      "willcox"
+    ],
+    "layer": "arrival",
+    "evidence": "Corriente histórica",
+    "via": [
+      [
+        31,
+        33.6
+      ],
+      [
+        22,
+        35.2
+      ],
+      [
+        13,
+        37.4
+      ],
+      [
+        8.5,
+        40.5
+      ],
+      [
+        5.37,
+        43.3
+      ],
+      [
+        4,
+        39
+      ],
+      [
+        -5.7,
+        35.9
+      ],
+      [
+        -14,
+        28
+      ],
+      [
+        -25,
+        8
+      ],
+      [
+        -33,
+        -7
+      ],
+      [
+        -40,
+        -20
+      ],
+      [
+        -50,
+        -30
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual y no reproducen el derrotero. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma viajes en cada año.",
+    "stops": [
+      "marseille"
+    ],
+    "stopsLabel": "Puerto de tránsito habitual:"
+  },
+  {
+    "id": "lebanon-tucuman",
+    "group": "levant",
+    "origin": "lebanon",
+    "destination": "tucuman",
+    "start": 1890,
+    "end": 1960,
+    "title": "Del Monte Líbano y Siria al Noroeste",
+    "description": "El censo de 1895 contó 876 «turcos» en el país y el 28 % vivía en el Noroeste. En 1914 eran 8.148 «otomanos» en la región, el cuarto grupo extranjero después de españoles, bolivianos e italianos. Tucumán, Santiago del Estero y Salta se volvieron los centros de atracción. En Santiago, Catamarca y La Rioja los libaneses son cerca del 40 % y los sirios el 60 %. En Tucumán, Salta y Jujuy los sirios llegan al 80 o 90 %.",
+    "sources": [
+      "jozami"
+    ],
+    "layer": "arrival",
+    "evidence": "Origen y asentamiento",
+    "via": [
+      [
+        35.5,
+        33.89
+      ],
+      [
+        31,
+        33.6
+      ],
+      [
+        22,
+        35.2
+      ],
+      [
+        13,
+        37.4
+      ],
+      [
+        8.5,
+        40.5
+      ],
+      [
+        4,
+        39
+      ],
+      [
+        -5.7,
+        35.9
+      ],
+      [
+        -14,
+        28
+      ],
+      [
+        -25,
+        8
+      ],
+      [
+        -33,
+        -7
+      ],
+      [
+        -40,
+        -20
+      ],
+      [
+        -50,
+        -30
+      ],
+      [
+        -58.38,
+        -34.6
+      ],
+      [
+        -64.26,
+        -27.79
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual y no reproducen el derrotero. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma viajes en cada año."
+  },
+  {
+    "id": "ba-tucuman",
+    "group": "levant",
+    "origin": "ba",
+    "destination": "tucuman",
+    "start": 1890,
+    "end": 1960,
+    "title": "Buenos Aires → Tucumán y Santiago del Estero",
+    "description": "El vendedor ambulante seguía las vías del ferrocarril y el calendario de las cosechas. Con el tiempo el buhonero abría un boliche o un almacén de ramos generales. En 1916 el diario Assalam publicó una nómina de comerciantes «sirio-otomanos» de toda la región.",
+    "sources": [
+      "jozami",
+      "akmir"
+    ],
+    "layer": "interior",
+    "evidence": "Conexión regional",
+    "via": [
+      [
+        -64.26,
+        -27.79
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual y no reproducen el derrotero. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma viajes en cada año."
+  },
+  {
+    "id": "cilicia-ba",
+    "group": "armenian",
+    "origin": "cilicia",
+    "destination": "ba",
+    "start": 1909,
+    "end": 1930,
+    "title": "De Cilicia a Buenos Aires",
+    "description": "La llegada creció desde 1909 y 1910, tras las matanzas de Adana, cayó durante la guerra y volvió a subir desde 1920. El saldo alcanzó su máximo en 1923, el año del Tratado de Lausana. Muchos pasaron antes por Alepo, Beirut, Grecia o Marsella. En Buenos Aires se agruparon por pueblo de origen: la Unión de Hadjin se fundó en 1915, la de Marash en 1924 y la de Aintab en 1929.",
+    "sources": [
+      "boulgourdjian",
+      "zenian"
+    ],
+    "layer": "arrival",
+    "evidence": "Origen y asentamiento",
+    "via": [
+      [
+        36.2,
+        36.2
+      ],
+      [
+        35.5,
+        33.89
+      ],
+      [
+        31,
+        33.6
+      ],
+      [
+        22,
+        35.2
+      ],
+      [
+        13,
+        37.4
+      ],
+      [
+        8.5,
+        40.5
+      ],
+      [
+        4,
+        39
+      ],
+      [
+        -5.7,
+        35.9
+      ],
+      [
+        -14,
+        28
+      ],
+      [
+        -25,
+        8
+      ],
+      [
+        -33,
+        -7
+      ],
+      [
+        -40,
+        -20
+      ],
+      [
+        -50,
+        -30
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual y no reproducen el derrotero. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma viajes en cada año."
+  },
+  {
+    "id": "mendoza1929",
+    "group": "armenian",
+    "origin": "beirut",
+    "destination": "ba",
+    "start": 1929,
+    "end": 1929,
+    "title": "Vapor Mendoza · una familia de Marash",
+    "description": "Boghos y Elise Kanzabetian, de Marash, vivían en el barrio de refugiados de Mdaouar, en Beirut. El 17 de diciembre de 1928 recibieron pasaportes del Mandato francés y visas aprobadas por el consulado argentino. Partieron el 23 de diciembre con su hija Makrouhi en el vapor Mendoza y llegaron a Buenos Aires el 30 de enero de 1929. El archivo conserva los documentos. No dice en qué puerto embarcaron.",
+    "sources": [
+      "houshamadyan"
+    ],
+    "layer": "arrival",
+    "evidence": "Viaje documentado",
+    "via": [
+      [
+        31,
+        33.6
+      ],
+      [
+        22,
+        35.2
+      ],
+      [
+        13,
+        37.4
+      ],
+      [
+        8.5,
+        40.5
+      ],
+      [
+        4,
+        39
+      ],
+      [
+        -5.7,
+        35.9
+      ],
+      [
+        -14,
+        28
+      ],
+      [
+        -25,
+        8
+      ],
+      [
+        -33,
+        -7
+      ],
+      [
+        -40,
+        -20
+      ],
+      [
+        -50,
+        -30
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual y no reproducen el derrotero. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Partida: 23/12/1928. Llegada a Buenos Aires: 30/01/1929. El punto de origen es el lugar de residencia; la fuente no consigna el puerto de embarque ni las escalas."
+  },
+  {
+    "id": "tetuan-ba",
+    "group": "sephardi",
+    "origin": "tetuan",
+    "destination": "ba",
+    "start": 1860,
+    "end": 1930,
+    "title": "De Tetuán a Buenos Aires",
+    "description": "Los judíos del norte de Marruecos fueron los primeros sefardíes en llegar, desde 1860. Hablaban español, lo que facilitó su inserción en el comercio de Buenos Aires y del interior. Diana Epstein estudió su cohesión y su dispersión por el país.",
+    "sources": [
+      "epstein",
+      "klich"
+    ],
+    "layer": "arrival",
+    "evidence": "Origen y asentamiento",
+    "via": [
+      [
+        -9,
+        34
+      ],
+      [
+        -14,
+        28
+      ],
+      [
+        -25,
+        8
+      ],
+      [
+        -33,
+        -7
+      ],
+      [
+        -40,
+        -20
+      ],
+      [
+        -50,
+        -30
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual y no reproducen el derrotero. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma viajes en cada año."
+  },
+  {
+    "id": "aleppo-ba",
+    "group": "sephardi",
+    "origin": "aleppo",
+    "destination": "ba",
+    "start": 1900,
+    "end": 1930,
+    "title": "De Alepo y Damasco a Buenos Aires",
+    "description": "Los judíos de Alepo y Damasco, de lengua árabe, llegaron en las primeras décadas del siglo XX junto con sus vecinos cristianos y musulmanes. En 1925 el director de Inmigración anotó que muchos de los 1.379 «turcos» ingresados ese año eran «israelitas». Formaron comunidades separadas entre sí y de la mayoría asquenazí.",
+    "sources": [
+      "klich",
+      "bryce"
+    ],
+    "layer": "arrival",
+    "evidence": "Origen y asentamiento",
+    "via": [
+      [
+        35.5,
+        33.89
+      ],
+      [
+        31,
+        33.6
+      ],
+      [
+        22,
+        35.2
+      ],
+      [
+        13,
+        37.4
+      ],
+      [
+        8.5,
+        40.5
+      ],
+      [
+        4,
+        39
+      ],
+      [
+        -5.7,
+        35.9
+      ],
+      [
+        -14,
+        28
+      ],
+      [
+        -25,
+        8
+      ],
+      [
+        -33,
+        -7
+      ],
+      [
+        -40,
+        -20
+      ],
+      [
+        -50,
+        -30
+      ]
+    ],
     "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual y no reproducen el derrotero. El grosor y la animación no representan volumen ni velocidad.",
     "dateNote": "Ventana histórica orientativa de la corriente; no afirma viajes en cada año."
   }

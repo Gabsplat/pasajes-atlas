@@ -159,6 +159,43 @@
     ]
   },
   {
+    "id": "levant",
+    "name": "Sirios y libaneses",
+    "color": "#a3742f",
+    "summary": "Los llamados «turcos», con pasaporte otomano.",
+    "detail": "Entre 1857 y 1924 la estadística anotó 157.185 entradas de «otomanos», y el 90 % llegó desde 1900. Eran sobre todo sirios y libaneses de lengua árabe, en su gran mayoría cristianos maronitas y ortodoxos, con minorías musulmanas, drusas y judías. Se los llamó «turcos» por el pasaporte. Muchos empezaron como vendedores ambulantes y se instalaron en todo el país, con un peso singular en el Noroeste. Volvieron poco: 15 % entre 1890 y 1909, cuando el promedio de ultramar era 59 %.",
+    "sources": [
+      "willcox",
+      "jozami",
+      "bryce",
+      "akmir"
+    ]
+  },
+  {
+    "id": "armenian",
+    "name": "Armenios",
+    "color": "#8a4f6a",
+    "summary": "Refugiados de un genocidio, anotados como turcos.",
+    "detail": "Llegaron desde 1909, tras las matanzas de Cilicia, y sobre todo entre 1920 y 1923. Venían de Marash, Hadjin y Aintab, muchas veces después de años en campos de refugiados de Alepo o Beirut. Las fuentes argentinas no los distinguían de otros otomanos. Las estimaciones comunitarias hablan de 200 personas en 1909, 1.000 en 1916, 9.400 en 1934 y 19.000 en 1943. El censo municipal porteño de 1936 contó 3.054 con nacionalidad armenia.",
+    "sources": [
+      "boulgourdjian",
+      "zenian",
+      "houshamadyan"
+    ]
+  },
+  {
+    "id": "sephardi",
+    "name": "Judíos sefardíes y orientales",
+    "color": "#3f7f8c",
+    "summary": "Cuatro comunidades distintas de la asquenazí.",
+    "detail": "Klich distingue cuatro grupos: marroquíes de Tetuán y Tánger, llegados desde 1860; alepinos y damasquinos, de lengua árabe, desde comienzos del siglo XX; y ladino-hablantes de Esmirna, Estambul, Rodas y los Balcanes. Viajaron por su cuenta, sin las asociaciones de colonización que trajeron a los judíos de Rusia. En los registros aparecen como «turcos», «sirios» o «marroquíes». No hay cifras confiables por grupo.",
+    "sources": [
+      "klich",
+      "epstein",
+      "bryce"
+    ]
+  },
+  {
     "id": "global",
     "name": "Otros destinos",
     "color": "#92958b",
