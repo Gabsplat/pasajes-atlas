@@ -157,3 +157,5 @@ table.decades, table.census-table { font-variant-numeric: tabular-nums; }
 @media print { .kind-filter, .chart-actions .outline-button, .segmented { display: none; } }
 
 @media (min-width: 761px) { .mobile-menu { display: none !important; } }
+footer span a { text-decoration: underline; text-underline-offset: 3px; }
+footer span a:hover { color: var(--accent); }

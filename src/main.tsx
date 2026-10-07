@@ -242,7 +242,7 @@ function App({data}: {data: Data}) {
       {tab === 'cronologia' && <Chronology data={data} onEra={openEra} />}
       {tab === 'fuentes' && <SourcesPage data={data} />}
     </main>
-    <footer><a className="brand" href="?tab=atlas&era=mass"><Compass size={23} /><span>pasajes.</span></a><p>Un atlas para mirar de cerca una historia compartida.</p><span>SEGUNDA EDICIÓN · OCTUBRE 2026</span></footer>
+    <footer><a className="brand" href="?tab=atlas&era=mass"><Compass size={23} /><span>pasajes.</span></a><p>Un atlas para mirar de cerca una historia compartida.</p><span>SEGUNDA EDICIÓN · OCTUBRE 2026 · <a href="https://github.com/Gabsplat/pasajes-atlas" target="_blank" rel="noreferrer">CÓDIGO Y DATOS EN GITHUB</a> · HECHO CON CLAUDE OPUS 5.5</span></footer>
     {notice && <div className="toast" role="status"><Check size={17} />{notice}</div>}
   </>;
 }
