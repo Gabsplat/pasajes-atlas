@@ -1,0 +1,35 @@
+{
+  "name": "atlas-migratorio",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 4570",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 4570 --strictPort",
+    "test": "node --test scripts/data.test.mjs",
+    "test:browser": "node scripts/browser-test.mjs",
+    "data": "python3 scripts/make-data.py && python3 scripts/enrich-data.py && python3 scripts/deepen-data.py && python3 scripts/make-research.py"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "d3": "^7.9.0",
+    "topojson-client": "^3.1.0",
+    "world-atlas": "2.0.2",
+    "lucide-react": "^0.468.0",
+    "@fontsource/dm-sans": "^5.2.0",
+    "@fontsource/libre-baskerville": "^5.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@types/d3": "^7.4.3",
+    "@types/topojson-client": "^3.1.5",
+    "@types/geojson": "^7946.0.16",
+    "typescript": "^5.9.3",
+    "vite": "^7.1.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "playwright": "^1.55.0"
+  }
+}

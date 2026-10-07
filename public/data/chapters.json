@@ -1,0 +1,760 @@
+[
+  {
+    "id": "scale",
+    "kicker": "01 / Demografía",
+    "title": "Un país que cambió de escala",
+    "lead": "En 1914, casi tres de cada diez habitantes eran extranjeros. Sus hijos nacidos aquí no entraban en esa categoría.",
+    "paragraphs": [
+      "La serie retrospectiva del censo de 1947 registra 210.295 extranjeros en 1869, 1.004.527 en 1895 y 2.357.952 en 1914. Sus proporciones eran 12,1 %, 25,4 % y 29,9 %. Es población residente clasificada por origen, no el acumulado de personas que desembarcaron. Incluye todos los orígenes extranjeros, no solamente Europa.",
+      "La proporción había bajado a 15,3 % en 1947, aunque el número de extranjeros seguía por encima de 2,4 millones. Creció mucho más el conjunto de la población. Esta distinción entre cantidad y porcentaje evita interpretar la reducción relativa como una desaparición súbita de inmigrantes.",
+      "Los primeros censos tienen exclusiones, estimaciones y criterios que deben conservarse al comparar. En 1914, el total de 7.885.237 corresponde a población enumerada; el INDEC identifica estimaciones complementarias para personas no relevadas. No combinamos esos denominadores con porcentajes calculados sobre otra población.",
+      "El censo de 1960 contó 2.604.447 nacidos en el exterior, la cifra absoluta más alta de la serie, pero ya eran el 13 % de la población. La proporción de 1914 no volvió a repetirse.",
+      "Extranjero no equivale a europeo. Según la reconstrucción de Vanina Modolo con datos del INDEC, los nacidos en países limítrofes eran el 19,7 % de los extranjeros en 1869, el 11,5 % en 1895, el 8,6 % en 1914 y el 12,9 % en 1947. El resto incluye también a sirios y libaneses, anotados como «otomanos»: 64.000 personas en 1914.",
+      "El censo de 1947 comparó la proporción argentina con la de otros países de inmigración. Canadá tenía 22,2 % de extranjeros en 1931, Australia 17,3 % en 1933, Estados Unidos 10,1 % en 1940 y Brasil 5,2 % en 1920. Bunge y García Mata señalaron que el 29,9 % argentino de 1914 duplicaba el máximo de Estados Unidos, alcanzado en 1910.",
+      "El promedio nacional esconde la concentración. En 1914, el 52 % de los varones mayores de veinte años había nacido en el extranjero. En la Capital había casi tres extranjeros por cada argentino de esa edad. El 68 % de los extranjeros vivía en centros urbanos, cuando la mitad de la población total era rural."
+    ],
+    "sources": [
+      "census",
+      "censushistory",
+      "modolo",
+      "bunge"
+    ],
+    "facts": [
+      {
+        "value": "29,9 %",
+        "label": "extranjeros en 1914, el máximo censal"
+      },
+      {
+        "value": "2.604.447",
+        "label": "nacidos en el exterior en 1960, el máximo absoluto"
+      },
+      {
+        "value": "52 %",
+        "label": "de los varones adultos de 1914 era extranjero"
+      },
+      {
+        "value": "91,4 %",
+        "label": "de los extranjeros de 1914 no venía de un país limítrofe"
+      }
+    ],
+    "debate": "La proporción de 1914 suele citarse como «un tercio de extranjeros». El cuadro retrospectivo del censo de 1947 da 29,9 %. Otros textos calculan 30,3 % porque usan denominadores distintos. Conviene citar la fuente junto con el número."
+  },
+  {
+    "id": "count",
+    "kicker": "02 / Cómo leer los números",
+    "title": "Llegar, quedarse y ser contado",
+    "lead": "Tres operaciones distintas producen cifras distintas.",
+    "paragraphs": [
+      "Los ingresos son movimientos. Una misma persona puede ingresar más de una vez. El saldo resta salidas de entradas durante un período. El censo observa residentes en un momento. A eso se suma la descendencia nacida en Argentina, que no pertenece al stock inmigrante por nacimiento.",
+      "Las cifras cambian según qué se cuente. Droller, Fiszbein y Pérez citan unos 5,8 millones de ingresos brutos y un saldo de 3,4 millones para 1857–1913. La serie oficial de pasajeros de segunda y tercera clase llegados por mar, sin la vía de Montevideo, suma 4.545.228 entradas y 1.841.217 salidas en los mismos años, con un saldo de 2.704.011. Ninguna de las dos cuenta personas: cuentan cruces.",
+      "La emigración temporal podía ser un proyecto deliberado. Ahorrar y regresar no era necesariamente un fracaso. Tampoco una permanencia prolongada demuestra prosperidad. Para saber por qué alguien volvió hacen falta documentos individuales; la estadística agregada no puede responderlo.",
+      "Bunge y García Mata, que dirigieron la estadística nacional, advirtieron en 1931 que las cifras oficiales eran «inexactas o incompletas». La Dirección de Inmigración y la Prefectura Marítima recibían los mismos partes de los vapores y publicaban totales distintos: en 1914 la diferencia fue de 14.435 personas. En el tráfico fluvial de 1914 a 1918 una oficina calculó un saldo de 117.243 y la otra de 4.102.",
+      "La ley llamaba inmigrante a quien llegaba en segunda o tercera clase. Recién en 1924 la Dirección empezó a preguntar por la intención del viaje. En 1926, de 135.011 pasajeros de esas clases, 113.352 dijeron que venían a quedarse, 18.036 ya habían vivido en el país, 2.492 seguían hacia otro destino y 1.131 pensaban irse antes de un año. Es decir, el 16 % de los «inmigrantes» de la estadística no lo era en sentido estricto.",
+      "Las fuentes primarias tampoco coinciden entre sí. El folleto oficial de 1904 da 98.898 llegadas para 1887 y 130.271 para 1888. La serie revisada que publicó Willcox en 1929 da 94.608 y 129.115. Este atlas usa la segunda porque sus sumas por década y por nacionalidad cierran con los totales impresos."
+    ],
+    "sources": [
+      "droller",
+      "journey",
+      "moya",
+      "bunge",
+      "willcox",
+      "stlouis"
+    ],
+    "facts": [
+      {
+        "value": "5.481.276",
+        "label": "entradas de ultramar en segunda y tercera clase, 1857–1924"
+      },
+      {
+        "value": "2.562.790",
+        "label": "salidas en el mismo período"
+      },
+      {
+        "value": "2.918.486",
+        "label": "saldo, el 53 % de las entradas"
+      },
+      {
+        "value": "16 %",
+        "label": "de los llegados en 1926 no venía a radicarse por primera vez"
+      }
+    ],
+    "debate": "¿Llegaron seis millones? Depende del universo. Con primera clase y la vía de Montevideo se supera esa cifra. La serie estricta de ultramar da 5,48 millones de entradas hasta 1924. El saldo ronda los tres millones, y los residentes extranjeros nunca pasaron de 2,6 millones en un censo."
+  },
+  {
+    "id": "series",
+    "kicker": "03 / Serie anual",
+    "title": "La curva de las llegadas",
+    "lead": "Sesenta y ocho años de registros muestran dos ciclos de auge, dos derrumbes y un final distinto del que suele contarse.",
+    "paragraphs": [
+      "En 1857 se anotaron 4.951 pasajeros. Diez años después eran 13.225 y en 1873 llegaron 48.382. La fiebre amarilla de 1871 redujo las entradas a la mitad en un solo año. La crisis financiera de 1874 a 1876 las bajó a 14.532, mientras la inmigración italiana caía un 75 % entre 1873 y 1876.",
+      "El primer gran ciclo culminó en 1889 con 218.744 llegadas, cifra que no se superó hasta 1906. Ese máximo fue en parte obra del Estado, que adelantó el pasaje a unas 100.000 personas. La composición de ese año es inusual: 71.151 españoles, 27.173 franceses, 8.666 belgas, 5.967 británicos y 4.007 neerlandeses.",
+      "La crisis de 1890 cortó el ciclo. En 1891 entraron 28.266 personas y salieron 72.380, un saldo negativo de 44.114. El reflujo fue sobre todo italiano: 15.511 entradas y 57.920 salidas. Durante los trece años siguientes el promedio fue de 67.000 llegadas anuales.",
+      "Entre 1904 y 1913 entraron 2.391.979 personas, 240.000 por año. El máximo de toda la serie es 1912, con 323.403. En casi todos esos años el saldo migratorio fue mayor que el crecimiento vegetativo de la población. Las salidas también crecieron hasta 156.829 en 1913, en parte por la inmigración golondrina.",
+      "El derrumbe de 1914 empezó antes de la guerra. Bunge y García Mata muestran que entre abril y mayo salían de 20.000 a 28.000 personas por mes, por el desempleo que siguió al auge. La declaración de guerra frenó las salidas: de 26.000 en julio a 9.000 en agosto. De 1914 a 1919 el país perdió 214.175 personas por migración. En 1918 llegaron 13.701.",
+      "La recuperación llevó las llegadas a 195.063 en 1923, con un saldo parecido al promedio de 1904 a 1913. La serie homogénea termina en 1924. Para los años posteriores existen estadísticas con otras definiciones, y este atlas no las empalma."
+    ],
+    "sources": [
+      "willcox",
+      "bunge"
+    ],
+    "facts": [
+      {
+        "value": "218.744",
+        "label": "llegadas en 1889, récord del siglo XIX"
+      },
+      {
+        "value": "323.403",
+        "label": "llegadas en 1912, máximo de la serie"
+      },
+      {
+        "value": "−44.114",
+        "label": "saldo de 1891"
+      },
+      {
+        "value": "−214.175",
+        "label": "saldo de 1914 a 1919"
+      }
+    ]
+  },
+  {
+    "id": "origins",
+    "kicker": "04 / Orígenes",
+    "title": "De dónde venían",
+    "lead": "Italia y España aportaron ocho de cada diez entradas, pero el orden entre ambas se invirtió y después de 1920 llegó otra Europa.",
+    "paragraphs": [
+      "Entre 1857 y 1924 la estadística anotó 2.604.029 entradas de italianos, el 47,5 % del total, y 1.780.295 de españoles, el 32,5 %. Los franceses fueron 226.894, los «rusos» 169.257, los «otomanos» 157.185, los alemanes 100.699 y los austrohúngaros 91.869. Ninguna otra nacionalidad llegó a 70.000.",
+      "Hasta 1870 los italianos eran cerca del 70 % de las llegadas. Los españoles empezaron con el 15 % y crecieron sin pausa. En 1908 los superaron por primera vez, con 125.497 entradas frente a 93.479, y, salvo en 1909, mantuvieron la delantera hasta 1921. En 1912 llegaron 165.662 españoles, el doble que italianos. En 1922 los italianos volvieron al primer lugar, con 57.827 entradas frente a 43.305.",
+      "La nacionalidad esconde la región. La emigración italiana temprana salió sobre todo del norte, del Piamonte, Liguria y Lombardía, y después de 1900 creció la del sur. Entre los españoles, los estudios sitúan a los gallegos entre el 45 % y el 55 % de las llegadas, y cerca de la mitad de los españoles de Buenos Aires en el primer tercio del siglo XX. La estadística argentina de puerto no registró la región de origen, de modo que esas proporciones surgen de fuentes españolas y de estudios locales.",
+      "Las categorías «ruso», «austrohúngaro» y «otomano» nombran imperios. Bajo «rusos» llegaron judíos de la Zona de Residencia, alemanes del Volga, polacos y ucranianos. La mayoría de los «otomanos» eran sirios y libaneses. En 1905 y 1906, años de pogromos y revolución, las entradas de «rusos» saltaron de 4.393 a 10.078 y a 17.424.",
+      "Después de la guerra cambió el mapa. Los nuevos Estados aparecen en la estadística desde 1915: 24.029 polacos y 7.497 yugoslavos entre 1921 y 1924. Los alemanes pasaron de 1.992 en 1919 a más de 10.000 por año en 1923 y 1924. Según Bunge y García Mata, la inmigración no latina era el 13 % antes de la guerra, el 25 % en 1923 y el 30 % en 1926. Las cuotas de Estados Unidos, de 1921 y 1924, desviaron parte de esa corriente hacia el Plata."
+    ],
+    "sources": [
+      "willcox",
+      "bunge",
+      "farias",
+      "moya",
+      "usquota"
+    ],
+    "facts": [
+      {
+        "value": "47,5 %",
+        "label": "de las entradas de 1857 a 1924 fueron de italianos"
+      },
+      {
+        "value": "32,5 %",
+        "label": "de españoles"
+      },
+      {
+        "value": "1908",
+        "label": "primer año con más españoles que italianos"
+      },
+      {
+        "value": "30 %",
+        "label": "de inmigración no latina en 1926, frente al 13 % de preguerra"
+      }
+    ],
+    "debate": "Los porcentajes de «descendientes de italianos» o «de españoles» que circulan no salen de ningún censo. Los censos preguntaron lugar de nacimiento, no ascendencia. Aquí solo se citan entradas, salidas y residentes."
+  },
+  {
+    "id": "return",
+    "kicker": "05 / Retornos",
+    "title": "El Atlántico de ida y vuelta",
+    "lead": "Por cada cien entradas la estadística anotó cuarenta y siete salidas.",
+    "paragraphs": [
+      "Entre 1857 y 1924 salieron 2.562.790 pasajeros de segunda y tercera clase. La relación entre salidas y entradas fue de 49,6 % entre los italianos, 42,5 % entre los españoles, 53 % entre los franceses y 70 % entre los británicos. Fue mucho más baja entre los daneses, con 30 %, los belgas, con 28 %, y los polacos de los primeros años veinte, con 5 %.",
+      "Esa relación no es una tasa de retorno. Compara cruces de años distintos, cuenta dos veces a quien fue y volvió y no distingue al que regresaba a su pueblo del que seguía hacia Brasil o Estados Unidos. Sirve para comparar grupos y épocas. La demografía histórica argentina estima el retorno en torno del 35 % de los inmigrantes, una proporción menor que la de otros países americanos.",
+      "Parte de las salidas responde a un fenómeno preciso. Bunge y García Mata describen a las «golondrinas», trabajadores europeos que llegaban entre octubre y diciembre para la cosecha y volvían en mayo o junio. Calculan entre 50.000 y 70.000 por temporada entre 1907 y 1913, años en que la guerra de tarifas entre navieras dejó el pasaje a precios muy bajos. La corriente desapareció en 1914 y no se rehízo, porque los pasajes de posguerra eran caros.",
+      "Las salidas crecían cuando la economía se frenaba. En 1891 salieron 72.380 personas y entraron 28.266. En 1914 salieron 178.684. Durante la guerra el saldo italiano fue negativo en 97.000 personas, en parte por la movilización militar. Estas cifras muestran una población que respondía rápido a la coyuntura y que conservaba la opción de volver.",
+      "Quien regresaba casi nunca deja rastro en la memoria familiar argentina. Aparece, en cambio, en los pueblos de origen: casas construidas con ahorros americanos, escuelas pagadas por sociedades de emigrados, apodos como «americano» o «indiano». La historia del retorno se escribe mejor desde los archivos europeos."
+    ],
+    "sources": [
+      "willcox",
+      "bunge",
+      "modolo",
+      "moya"
+    ],
+    "facts": [
+      {
+        "value": "46,8 %",
+        "label": "relación entre salidas y entradas, 1857–1924"
+      },
+      {
+        "value": "50.000–70.000",
+        "label": "golondrinas por temporada, 1907–1913"
+      },
+      {
+        "value": "178.684",
+        "label": "salidas en 1914, el máximo"
+      },
+      {
+        "value": "≈ 35 %",
+        "label": "retorno estimado por la demografía histórica"
+      }
+    ]
+  },
+  {
+    "id": "before",
+    "kicker": "06 / El territorio anterior",
+    "title": "La Argentina no estaba vacía",
+    "lead": "La llegada europea ocurrió sobre sociedades, territorios y relaciones de poder preexistentes.",
+    "paragraphs": [
+      "La migración española colonial debe diferenciarse de la inmigración de los siglos XIX y XX. Cambiaron la soberanía, el régimen de trabajo, los derechos y las condiciones de movilidad. La ascendencia europea de una familia no demuestra por sí sola que su historia comenzó en la gran inmigración.",
+      "Las campañas estatales sobre territorios indígenas abrieron tierras a nuevas formas de propiedad. Julio Vezub estudia fotografías, cartografía, correspondencia y partes militares para relacionar la ocupación con la mensura y privatización posterior. La palabra «desierto» era parte de un proyecto político; no un inventario neutral de habitantes.",
+      "La historia afroargentina también fue desplazada del relato nacional. Orlando Gabriel Morales recoge investigaciones que muestran integración y persistencia, frente a la idea de una desaparición absoluta. No hay fundamento para explicar toda la sociedad posterior como reemplazo completo de la anterior."
+    ],
+    "sources": [
+      "devoto",
+      "conquest",
+      "afro"
+    ]
+  },
+  {
+    "id": "causes",
+    "kicker": "07 / La decisión de partir",
+    "title": "Un pasaje necesitaba una red",
+    "lead": "La pobreza explicaba necesidades. Los recursos y las relaciones ayudaban a hacer posible el viaje.",
+    "paragraphs": [
+      "Las crisis agrarias, los mercados laborales y las desigualdades regionales europeas crearon motivos para emigrar. Pero la decisión concreta dependía de información, dinero y obligaciones familiares. Una familia podía enviar primero a una persona, esperar noticias y reunir después al resto.",
+      "Las redes no eran abstracciones: podían ofrecer una cama, el nombre de un empleador, un préstamo o la dirección de un paisano. Para reconstruirlas, la unidad útil suele ser un pueblo o una familia, además del país. Compartir nacionalidad no implica haber tenido los mismos contactos.",
+      "La investigación económica reciente detecta selección positiva por alfabetización entre italianos emigrados a Argentina respecto de quienes permanecieron en Italia. La comparación controla diferencias demográficas y regionales. Describe una selección histórica y educativa; no una capacidad innata asociada al origen."
+    ],
+    "sources": [
+      "journey",
+      "moya",
+      "droller"
+    ]
+  },
+  {
+    "id": "state",
+    "kicker": "08 / Estado y selección",
+    "title": "La apertura tenía condiciones",
+    "lead": "Promover la inmigración europea fue una política explícita, atravesada por intereses y jerarquías.",
+    "paragraphs": [
+      "Los artículos 20 y 25 de la Constitución ofrecen dos entradas al problema. El primero reconoce derechos civiles de los extranjeros. El segundo promueve la inmigración europea. La amplitud de derechos coexistió así con una preferencia de origen dentro del proyecto de organización nacional.",
+      "La Ley 817 de 1876 organizó instrumentos de recepción, información, colocación y traslado. Su definición de inmigrante incluyó condiciones de edad, aptitud, ocupación y clase de pasaje. Las estadísticas administrativas deben interpretarse desde esas definiciones, no desde nuestro uso cotidiano de la palabra.",
+      "Los pasajes subsidiados no fueron un beneficio universal. El programa de fines de la década de 1880 y la crisis de 1890, estudiados por Alejandro Fernández, muestran reclutamiento, dificultades de coordinación y situaciones de precariedad. La acción estatal convivió con financiamiento familiar y migración espontánea.",
+      "El texto de la Ley 817 es preciso. Su artículo 12 llama inmigrante a «todo extranjero jornalero, artesano, industrial, agricultor o profesor» menor de sesenta años que acredite moralidad y aptitudes y llegue en segunda o tercera clase, pague su pasaje o lo reciba del Estado. El artículo 13 permitía renunciar a esa condición y viajar como simple pasajero.",
+      "La proporción de quienes usaron los beneficios varió mucho. Según Bunge y García Mata, el 3 % de los llegados entre 1857 y 1860 se alojó a costa del Estado, el 33 % en la década de 1870 y casi el 50 % en la de 1880. En 1921–1926 era el 38 %. La mitad o más llegó siempre por fuera del circuito oficial, con parientes o conocidos esperando en el puerto.",
+      "Los pasajes subsidiados duraron tres años. El Estado adelantó el viaje a unas 12.000 personas en 1888, 100.000 en 1889 y 20.000 en 1890. El sistema se abandonó con la crisis. Dejó contingentes de orígenes poco frecuentes y un problema: muchos recién llegados no tenían red ni oficio adecuado, y una parte regresó.",
+      "Desde 1923 el Estado pidió más papeles: certificados de buena conducta, de salud y de no mendicidad, visados por el cónsul argentino. En la década de 1930 se sumaron el contrato de trabajo o la carta de llamada, y en 1938 el permiso de desembarco. La apertura constitucional siguió en pie, pero la puerta pasó a abrirse en los consulados."
+    ],
+    "sources": [
+      "constitution",
+      "law",
+      "subsidy",
+      "stlouis",
+      "bunge",
+      "devoto"
+    ],
+    "facts": [
+      {
+        "value": "1876",
+        "label": "Ley 817 de Inmigración y Colonización"
+      },
+      {
+        "value": "≈ 132.000",
+        "label": "pasajes adelantados por el Estado, 1888–1890"
+      },
+      {
+        "value": "50 %",
+        "label": "de los llegados en la década de 1880 usó el alojamiento oficial"
+      },
+      {
+        "value": "5 días",
+        "label": "de alojamiento gratuito reglamentario"
+      }
+    ]
+  },
+  {
+    "id": "travel",
+    "kicker": "09 / La travesía",
+    "title": "El puerto era una etapa",
+    "lead": "Pueblo, estación, puerto, barco y nuevo alojamiento podían formar una sola experiencia migratoria.",
+    "paragraphs": [
+      "Los mapas con una flecha entre dos países condensan una cadena de desplazamientos. El puerto de embarque no identifica necesariamente la nacionalidad o el nacimiento del pasajero. Los vapores conectaron regiones, mientras las compañías transportaban personas de diferentes procedencias en un mismo viaje.",
+      "Las condiciones variaban entre compañías, épocas y clases. El desarrollo del transporte abarató y aceleró los cruces, pero la experiencia material de la tercera clase podía ser difícil. Una fotografía de cubierta no resume alimentación, enfermedad, separación familiar o incertidumbre al desembarcar.",
+      "El Hotel de Inmigrantes ofrecía alojamiento gratuito por cinco días según reglamento, con extensiones en determinados casos, y servicios de colocación. Es una institución de recepción documentada; no una prueba de que todos los migrantes pasaron por ella. Quienes tenían familiares podían seguir otros recorridos.",
+      "El folleto oficial de 1904 describe el desembarco paso a paso. Una comisión con el inspector de inmigración, un médico de sanidad y un oficial de prefectura subía a cada vapor. Revisaba la higiene, la provisión de víveres y medicinas, el espacio por pasajero, los botes salvavidas y las quejas por malos tratos. A los admitidos se los llevaba en tranvía al hotel, y los changadores cargaban los equipajes.",
+      "El mismo documento fija la ración diaria por adulto: 600 gramos de carne, 500 de pan, 150 de papas, zanahorias o repollo, 100 de arroz, fideos o porotos, 25 de azúcar y 10 de café. Los niños recibían leche. Es propaganda destinada a la Exposición de St. Louis y describe la norma, no necesariamente la práctica. El testimonio de los viajeros suele ser menos amable.",
+      "El hotel que hoy es museo se construyó desde 1906 y es de hormigón armado. Cada piso tenía cuatro dormitorios para 250 personas, unas 3.000 plazas en total, y el comedor servía turnos de hasta mil. Antes, los recién llegados dormían en la Rotonda de Retiro. El complejo incluía desembarcadero, hospital, oficina de trabajo y una sucursal del Banco Nación.",
+      "El viaje tenía riesgos. El Sirio encalló en Cabo de Palos el 4 de agosto de 1906, dos días después de salir de Génova, y murieron entre 400 y 500 personas según la fuente. El Príncipe de Asturias se hundió frente a Ilhabela el 5 de marzo de 1916 en viaje de Barcelona a Buenos Aires, con unas 600 personas a bordo y menos de 150 sobrevivientes. El Principessa Mafalda naufragó frente a Brasil en octubre de 1927 con más de 300 muertos. Los tres hacían la línea del Plata."
+    ],
+    "sources": [
+      "journey",
+      "hotel",
+      "stlouis",
+      "sirio",
+      "asturias"
+    ],
+    "facts": [
+      {
+        "value": "≈ 3.000",
+        "label": "plazas del Hotel de Inmigrantes"
+      },
+      {
+        "value": "600 g",
+        "label": "de carne por adulto y por día, según el reglamento"
+      },
+      {
+        "value": "1906",
+        "label": "naufragio del Sirio"
+      },
+      {
+        "value": "1916",
+        "label": "naufragio del Príncipe de Asturias"
+      }
+    ]
+  },
+  {
+    "id": "where",
+    "kicker": "10 / Destinos",
+    "title": "A dónde iban",
+    "lead": "El Estado dejó registro de quiénes mandó al interior. El censo muestra dónde terminaron viviendo.",
+    "paragraphs": [
+      "La Ley 817 ofrecía pasaje gratuito hasta el lugar de destino. Entre 1894 y 1903 la Oficina de Trabajo trasladó así a 285.371 personas, el 38 % de las 751.366 llegadas en esos años. Santa Fe recibió 97.037, la provincia de Buenos Aires 91.746, Córdoba 28.498, Mendoza 17.454 y Entre Ríos 12.838. Esas cinco provincias suman el 87 %.",
+      "El resto del país recibió poco. Tucumán figura con 7.128, Misiones con 4.923 y San Juan con 2.254. Catamarca recibió 161 personas en diez años, La Rioja 209 y Neuquén 152. Bunge y García Mata resumieron el resultado en 1931: un tercio de los inmigrantes se quedó en la ciudad de Buenos Aires, la mayoría del resto en las provincias del litoral y solo uno de cada diez fue al interior y al sur.",
+      "La cifra de la Capital en ese registro, 12.538, engaña. Quien se quedaba en Buenos Aires por su cuenta no pedía pasaje y no figura. El censo de 1914 corrige la imagen: 1.611.000 extranjeros vivían en centros urbanos y 747.000 en el campo.",
+      "En la provincia de Buenos Aires los extranjeros pasaron de 63.655 en 1869, el 20,1 %, a 703.931 en 1914, el 34,1 %. Gianfranco Calzini muestra que los italianos fueron mayoría entre ellos durante todo el siglo XIX y que en 1914 los españoles casi los alcanzaban: 285.016 italianos y 273.755 españoles. También cambió la proporción entre sexos. En 1869 había 327 varones extranjeros por cada 100 mujeres, y en 1914 eran 182.",
+      "El oficio declarado al desembarcar no predice el destino. De 1857 a 1926, el 33 % de los llegados se anotó como agricultor y el 19 % como jornalero. La categoría de agricultor daba acceso a los beneficios de la ley. Muchos de ellos, anotan Bunge y García Mata, se quedaron en las ciudades. En 1914 los extranjeros eran el 72 % de los dueños de comercios."
+    ],
+    "sources": [
+      "stlouis",
+      "bunge",
+      "calzini",
+      "law"
+    ],
+    "facts": [
+      {
+        "value": "285.371",
+        "label": "inmigrantes trasladados por el Estado, 1894–1903"
+      },
+      {
+        "value": "34 %",
+        "label": "fueron a Santa Fe"
+      },
+      {
+        "value": "87 %",
+        "label": "fueron a cinco provincias"
+      },
+      {
+        "value": "68 %",
+        "label": "de los extranjeros de 1914 vivía en ciudades"
+      }
+    ],
+    "debate": "El lema de «poblar el desierto» y el resultado no coinciden. La política buscaba agricultores para el interior. La inmigración reforzó el litoral y las ciudades, y el desequilibrio regional que Alberdi quería corregir se profundizó."
+  },
+  {
+    "id": "cases",
+    "kicker": "11 / Casos",
+    "title": "Ocho colonias, ocho contratos",
+    "lead": "Cada colonia nació de un acuerdo distinto. Casi ninguno se cumplió como estaba escrito.",
+    "paragraphs": [
+      "Esperanza, 1856. El empresario Aarón Castellanos contrató familias suizas, alemanas, francesas y belgas para Santa Fe. Fue la primera colonia agrícola organizada que perduró. Su ejemplo alimentó durante décadas la idea de la colonización como política de Estado.",
+      "San José, 1857. Unos 530 colonos del Valais, con saboyanos y piamonteses, viajaban a Corrientes con un contrato que el gobierno provincial desconoció. Urquiza los instaló en sus campos de Entre Ríos y puso a Alejo Peyret como administrador. Doce años después, el 14,7 % de la colonia había nacido en el Piamonte y un tercio ya era argentino.",
+      "Chubut, 1865. Unos 150 galeses llegaron en el Mimosa con la promesa de tierras y autonomía cultural. Casi todos venían de valles mineros. Sobrevivieron los primeros años gracias al comercio con los tehuelches y a los subsidios del gobierno nacional. El riego del valle, hacia 1867, cambió la suerte de la colonia.",
+      "Hinojo, 1878. Los alemanes del Volga negociaron antes de venir. En agosto de 1877 sus delegados pidieron al ministro Irigoyen tierra para trigo, exención militar, libertad de culto y escuela propia. El Estado quería chacras dispersas y ellos exigieron vivir en aldeas, como en Rusia. A fines de 1878 eran 1.003 en Entre Ríos, 379 en Buenos Aires y 152 en Santa Fe.",
+      "Caroya, 1878. Una ley de 1876 creó la colonia nacional en la vieja estancia jesuítica, y las familias friulanas se alojaron en el propio casco. Los relatos locales dan cifras y fechas distintas, entre 60 y 100 familias. La colonia se volcó a la vid y a los chacinados que todavía la identifican.",
+      "Pigüé, 1884. Fue una empresa privada. Clément Cabanettes compró tierras a Eduardo Casey y reclutó en el Aveyron a unas cuarenta familias. Cada una debía aportar capital propio y recibía 200 hectáreas con la obligación de cultivarlas seis años. Según el relato legislativo, Cabanettes no llegó a pagarle la compra a Casey.",
+      "Moisés Ville, 1889. Las familias del Weser traían contratos por tierras que ya tenían dueño. Firmaron otro con Pedro Palacios, por lotes de 25 hectáreas a pagar en tres cuotas con 8 % de interés. Esperaron en un galpón del ferrocarril, sin la ayuda prometida. El médico Wilhelm Loewenthal denunció su situación en Europa y de ese informe nació la Jewish Colonization Association del barón Hirsch.",
+      "Tres Arroyos, 1889. Familias de Frisia y Groninga llegaron con pasajes adelantados por el Estado en el año del récord. No había colonia preparada. Parte del grupo regresó a los Países Bajos después de la crisis de 1890 y los que quedaron formaron la comunidad neerlandesa más numerosa del país.",
+      "Vistos juntos, los casos muestran un patrón. El contrato inicial falló en San José, en Moisés Ville y en Pigüé. La colonia sobrevivió cuando apareció un segundo actor: un caudillo, una asociación filantrópica, el gobierno nacional o las propias redes del grupo."
+    ],
+    "sources": [
+      "esperanza",
+      "sanjose",
+      "mimosa",
+      "volgacenter",
+      "caroya",
+      "pigue",
+      "sinay",
+      "dutch"
+    ],
+    "facts": [
+      {
+        "value": "1856",
+        "label": "Esperanza"
+      },
+      {
+        "value": "530",
+        "label": "colonos en San José, 1857"
+      },
+      {
+        "value": "1.534",
+        "label": "alemanes del Volga a fines de 1878"
+      },
+      {
+        "value": "824",
+        "label": "pasajeros del Weser según Sinay"
+      }
+    ]
+  },
+  {
+    "id": "colonies",
+    "kicker": "12 / Campo y propiedad",
+    "title": "Ser colono no significaba ser dueño",
+    "lead": "La agricultura reunió propietarios, arrendatarios, medieros y jornaleros.",
+    "paragraphs": [
+      "Esperanza permite observar una experiencia temprana de colonización organizada, con familias de distintos orígenes y actividades artesanales junto a la agricultura. Su trayectoria no debe tomarse como una plantilla de todo el campo argentino. Las formas de contrato y el acceso a recursos variaron.",
+      "Guillermo Banzato estudia la formación regional de los mercados de tierras. La concentración de la propiedad y la disponibilidad de capital condicionaban el acceso. El crecimiento agrario generaba trabajo, pero no distribuía automáticamente parcelas a cada recién llegado.",
+      "El Grito de Alcorta de 1912 pone en primer plano a los arrendatarios y sus conflictos contractuales. La condición inmigrante podía coexistir con explotación y organización gremial. Para evaluar la movilidad rural hay que seguir contratos, deudas y adquisiciones, además de los relatos de fundación.",
+      "La colonia fue la excepción. Entre 1857 y 1926 se anotaron como agricultores 1.912.000 personas, pero las colonias oficiales y privadas alojaron a una fracción pequeña. La forma dominante de acceso a la tierra en la región pampeana fue el arrendamiento por tres a cinco años, con obligación de dejar el campo sembrado de alfalfa.",
+      "La expansión del trigo da la medida del cambio. Según Bunge y García Mata, la exportación empezó en 1873 con cinco toneladas, llegó a 60.800 en 1883 y a 108.500 en 1884. Ese crecimiento se hizo con trabajo inmigrante sobre tierras que en su mayor parte ya tenían propietario."
+    ],
+    "sources": [
+      "esperanza",
+      "land",
+      "alcorta",
+      "bunge"
+    ]
+  },
+  {
+    "id": "cities",
+    "kicker": "13 / La vida urbana",
+    "title": "Del desembarco al alquiler",
+    "lead": "El salario disponible dependía también de cuánto costaba habitar la ciudad.",
+    "paragraphs": [
+      "Las ciudades ofrecían trabajo y relaciones, pero también alquileres, hacinamiento y riesgos. El conventillo funcionó como vivienda y espacio de convivencia. Compartir patio no eliminaba jerarquías, tensiones lingüísticas o conflictos; tampoco impedía ayuda y organización entre vecinos.",
+      "La huelga de inquilinos de 1907 dejó fotografías de patios, azoteas, desalojos y participación femenina. Esas imágenes permiten relacionar vivienda y protesta, pero no muestran por sí solas todos los hogares o las trayectorias de quienes aparecen. El archivo conserva una selección de lo vivido.",
+      "Una medida del bienestar necesita considerar estabilidad laboral, vivienda, salud y composición del hogar. Cambiar a una ocupación mejor remunerada es relevante, pero no revela toda la economía familiar. Esta precaución explica por qué pueden coexistir ascenso ocupacional y condiciones de vida difíciles.",
+      "En 1914 había en la Capital casi tres extranjeros por cada argentino mayor de veinte años. La ciudad era un lugar donde el recién llegado encontraba primero a otros recién llegados. El 72 % de los dueños de casas de comercio del país había nacido en el exterior, y el 62 % de los empleados del sector también.",
+      "La provincia de Buenos Aires repite el patrón en sus ciudades y puertos. Calzini muestra que los españoles se concentraron en los partidos más urbanos y en los servicios, mientras los italianos tenían una distribución más pareja entre campo y ciudad. En Avellaneda, hacia 1914, la mayoría de los adultos era extranjera."
+    ],
+    "sources": [
+      "tenants",
+      "perez",
+      "bunge",
+      "calzini"
+    ]
+  },
+  {
+    "id": "women",
+    "kicker": "14 / Género",
+    "title": "Las mujeres también construyeron las rutas",
+    "lead": "Los registros de trabajo y los relatos familiares no siempre conservaron su contribución.",
+    "paragraphs": [
+      "María Cristina Cacopardo aborda la visibilidad de las mujeres migrantes y los límites de las fuentes. La migración femenina tuvo proyectos propios y relaciones familiares diversas. Las categorías censales pueden ocultar trabajo doméstico remunerado, tareas por encargo o aportes a un negocio familiar.",
+      "Pilar Cagiao Vila estudia la experiencia argentina de las gallegas. La historia requiere integrar empleo, vínculos, cuidado y diferencias de generación. Describir a todas como acompañantes de un varón impide ver su capacidad de decisión y los recursos que sostenían el asentamiento.",
+      "La consecuencia metodológica es concreta: una investigación familiar debe buscar las ramas maternas y no depender sólo del apellido de un jefe de hogar. Actas, correspondencia y testimonios ayudan a reconstruir contribuciones ausentes de una lista de profesiones. Una casilla vacía no demuestra ausencia de trabajo.",
+      "Las mujeres fueron entre el 20 % y el 30 % de las llegadas en todas las décadas: 19,5 % en 1857–1860 y 30,4 % en 1881–1890. Su número variaba menos que el de los varones. En los años de crisis, cuando los hombres solos dejaban de venir, la proporción femenina subía.",
+      "La estadística de oficios las vuelve casi invisibles. Entre 1894 y 1903 se anotaron 28.194 costureras, 8.749 lavanderas, 6.051 modistas y una parte de los 28.450 sirvientes. Otras 8.111 figuran como «mujeres sin oficio». Bunge y García Mata explican que la categoría «sin profesión» reunía a mujeres casadas, niños y ancianos, es decir, a quienes el funcionario no preguntaba.",
+      "La proporción de casados entre los llegados subió del 30 % en 1901–1910 a más del 40 % en los años veinte. La reunificación familiar, y con ella la migración de mujeres y niños, pesó más cuando la corriente de trabajadores solos se debilitó. Después de 1945 las políticas de reunificación produjeron contingentes mayoritariamente femeninos.",
+      "La Ley de Residencia muestra otro costado. Los decretos de expulsión nombraban a varones, pero Carlos Álvarez encontró que al menos dos de cada tres deportados dejaron el país con su esposa e hijos. Fue un destierro que las fuentes oficiales no contaron."
+    ],
+    "sources": [
+      "women",
+      "galicianwomen",
+      "bunge",
+      "stlouis",
+      "alvarez"
+    ],
+    "facts": [
+      {
+        "value": "29 %",
+        "label": "de las entradas de 1857 a 1926 fueron mujeres"
+      },
+      {
+        "value": "28.194",
+        "label": "costureras declaradas, 1894–1903"
+      },
+      {
+        "value": "> 40 %",
+        "label": "de casados entre los llegados en los años veinte"
+      },
+      {
+        "value": "2 de 3",
+        "label": "deportados salieron con su familia"
+      }
+    ]
+  },
+  {
+    "id": "mobility",
+    "kicker": "15 / Ascenso social",
+    "title": "La movilidad existió; no fue universal",
+    "lead": "Seguir personas a través del tiempo ofrece evidencia más sólida que comparar dos promedios.",
+    "paragraphs": [
+      "Santiago Pérez enlaza registros masculinos de 1869 y 1895 y listas de pasajeros. Encuentra mejoras ocupacionales entre inmigrantes y resultados favorables entre sus hijos. El diseño permite observar trayectorias, evitando atribuir a una misma población cambios producidos por nuevas llegadas.",
+      "La muestra, sin embargo, no describe a todas las mujeres ni todas las cohortes posteriores. El enlace entre nombres plantea dificultades, y la ocupación es una aproximación parcial a la posición económica. Estos límites no anulan el hallazgo; definen para quiénes y para qué dimensiones vale.",
+      "Las memorias familiares tienden a conservar a quienes se asentaron y dejaron descendencia conocida. Quienes retornaron, se desplazaron o no dejaron archivo pueden desaparecer de la narración. Es un problema de selección de testimonios, distinto del análisis estadístico de la selección migratoria."
+    ],
+    "sources": [
+      "perez",
+      "baily"
+    ]
+  },
+  {
+    "id": "regions",
+    "kicker": "16 / Geografías",
+    "title": "Muchas Argentinas migratorias",
+    "lead": "El puerto de Buenos Aires no es un resumen del país.",
+    "paragraphs": [
+      "En Cuyo, la migración se vinculó a la transformación vitivinícola. Los estudios de Rodríguez Vázquez y Barrio muestran el papel de instituciones, conocimiento técnico y aprendizaje. El vino no comenzó con la inmigración: cambió la escala productiva y se discutió cómo mejorar su elaboración.",
+      "En Misiones, la colonización y la yerba mate generaron una geografía distinta. Las investigaciones de Cecilia Gallero incorporan incentivos, empresas y circuitos que cruzaban otras fronteras sudamericanas. Una línea Europa–Argentina puede esconder esos desplazamientos intermedios.",
+      "Apóstoles recibió un contingente polaco y ucraniano en 1897. Galitzia era entonces una región imperial, por lo que las categorías actuales no coinciden automáticamente con las del pasaporte. Para localizar una familia hay que conservar el nombre histórico del pueblo y verificar a qué soberanía pertenecía."
+    ],
+    "sources": [
+      "wine",
+      "misiones",
+      "apostoles",
+      "galitzia"
+    ]
+  },
+  {
+    "id": "integration",
+    "kicker": "17 / Pertenencia",
+    "title": "La integración tuvo varios ritmos",
+    "lead": "Hablar español, participar en una mutual y casarse fuera de la colectividad no son la misma variable.",
+    "paragraphs": [
+      "El debate entre crisol y pluralismo cambió la historia de la inmigración. Una interpretación destacó la mezcla; otra, la continuidad de instituciones y pertenencias de origen. Los estudios regionales encuentran combinaciones variables según grupo, generación, lugar y momento.",
+      "Lilia Ana Bertoni estudió la construcción de nacionalidad a través de escuelas, símbolos y debates públicos. Esa acción estatal convivió con asociaciones, periódicos y ámbitos de sociabilidad de los inmigrantes. La integración fue una experiencia cotidiana y también un proyecto político.",
+      "Juan Antonio Ennis analiza el contacto entre español y variedades italianas y advierte sobre la mediación de las fuentes teatrales. El cocoliche representado en escena no es una grabación del habla real. Las huellas italianas no explican por sí solas toda la diversidad lingüística argentina.",
+      "El debate tiene nombres propios. Gino Germani sostuvo en los años sesenta que la inmigración se fundió con rapidez en una sociedad nueva. En los ochenta, Samuel Baily, Mark Szuchman y otros midieron matrimonios y encontraron endogamia alta y duradera. Fernando Devoto y Hernán Otero propusieron salir de la disyuntiva y estudiar redes, barrios y generaciones.",
+      "La pregunta por la mezcla depende de la escala. En una colonia cerrada como las aldeas del Volga, la lengua y los casamientos dentro del grupo duraron tres generaciones. En un barrio porteño con vecinos de diez orígenes, los hijos hablaban castellano entre ellos. Los dos resultados son integración, por caminos distintos."
+    ],
+    "sources": [
+      "integration",
+      "bertoni",
+      "language",
+      "baily",
+      "otero",
+      "devoto"
+    ],
+    "debate": "«Crisol de razas» fue primero un programa de la élite y después una descripción académica. Ninguna de las dos versiones mide bien lo que pasó en cada lugar. Los estudios locales encuentran de todo."
+  },
+  {
+    "id": "conflict",
+    "kicker": "18 / Política",
+    "title": "Trabajadores deseados, militantes vigilados",
+    "lead": "La participación social de los extranjeros excedía sus derechos electorales.",
+    "paragraphs": [
+      "La inmigración amplió la fuerza de trabajo y también los espacios de organización. Quienes no se naturalizaban quedaban fuera de las elecciones nacionales, pero podían actuar en asociaciones, sindicatos y prensa. Por eso ausencia de voto no significa ausencia de política.",
+      "Sánchez-Alonso relaciona la persistencia de la apertura con los intereses de empleadores y las particularidades de la representación política. La protesta generó temor entre quienes se beneficiaban del ingreso de trabajadores. La restricción política y la demanda económica podían coexistir.",
+      "La Ley de Residencia de 1902 y la de Defensa Social de 1910 dieron instrumentos de exclusión y represión. La Semana Trágica de 1919 incluyó violencia antisemita junto a la represión obrera. Los testimonios recuperados por Vanesa Teitelbaum muestran también experiencias femeninas silenciadas.",
+      "La Ley 4.144 se votó en noviembre de 1902, en medio de una huelga general y con estado de sitio. Permitía al Ejecutivo expulsar a cualquier extranjero cuya conducta «comprometa la seguridad nacional o perturbe el orden público», sin intervención judicial. Estuvo vigente hasta 1958.",
+      "Durante décadas se repitió que hubo 500 deportados en la primera semana. Iaacov Oved mostró que fueron unos 500 detenidos y cerca de 70 deportados hasta el fin del estado de sitio. Carlos Álvarez reconstruyó el total con el libro Copiador Anarquismo de la Policía de la Capital. Los decretos de 1902 a 1914 alcanzaron a 560 personas y 552 fueron deportadas.",
+      "Españoles e italianos sumaban el 65,2 % de los deportados. El tercer grupo eran los «rusos», con 17,5 %, en su mayoría judíos del Imperio zarista llegados desde 1905. La cifra es pequeña frente a millones de inmigrantes. Su efecto fue otro: cualquier militante extranjero sabía que podía ser embarcado sin juicio."
+    ],
+    "sources": [
+      "policy",
+      "population",
+      "defense",
+      "tragic",
+      "alvarez"
+    ],
+    "facts": [
+      {
+        "value": "1902–1958",
+        "label": "vigencia de la Ley de Residencia"
+      },
+      {
+        "value": "560",
+        "label": "personas alcanzadas por decretos de expulsión, 1902–1914"
+      },
+      {
+        "value": "65,2 %",
+        "label": "de los deportados eran españoles o italianos"
+      }
+    ],
+    "debate": "La cifra de 500 deportados en una semana sigue en manuales y artículos. Las fuentes policiales no la sostienen. El caso muestra cómo un número repetido puede reemplazar al documento."
+  },
+  {
+    "id": "jewish",
+    "kicker": "19 / Persecución y refugio",
+    "title": "Una colonia, una comunidad, muchas nacionalidades",
+    "lead": "La historia judía no puede reducirse a una sola ola migratoria.",
+    "paragraphs": [
+      "Moisés Ville es un hito de colonización de 1889. La Jewish Colonization Association desarrolló asentamientos e instituciones. Esa dimensión rural debe sumarse a experiencias urbanas, religiosas, educativas y laborales, evitando representar a todos los inmigrantes judíos con una ocupación única.",
+      "Las personas perseguidas en Europa durante la década de 1930 encontraron obstáculos de entrada. La Cancillería reconoció al derogar formalmente la Circular 11 en 2005 que había restringido tácitamente la inmigración de personas judías. La existencia de una comunidad establecida no garantizaba una política estatal de refugio.",
+      "En los registros, la identificación judía puede coexistir con nacionalidades rusa, polaca, alemana u otras. Son categorías superpuestas. El atlas permite seleccionar este tema, pero no fabrica un total combinándolo con países como si fueran poblaciones mutuamente excluyentes.",
+      "El viaje fundador está bien documentado. El Weser salió de Bremen en julio de 1889 y ancló en Buenos Aires el 14 de agosto. Un error del inspector de desembarco retuvo a los pasajeros a bordo hasta el 17. Javier Sinay cuenta 824 personas en 136 familias y registra que otros autores dan 88, 104, 120, 129 o 130 familias.",
+      "Según el Museo del Holocausto de Estados Unidos, Argentina admitió a unos 79.000 inmigrantes judíos entre 1918 y 1933. Entre 1933 y 1943 las admisiones oficiales bajaron a 24.000, y otros 20.000 entraron de forma irregular por las fronteras con países vecinos. Toda América Latina admitió oficialmente a 84.000 refugiados judíos entre 1933 y 1945.",
+      "La Circular 11 lleva fecha del 12 de julio de 1938, el mes de la Conferencia de Evian, y la firmó el canciller José María Cantilo. Ordenaba a los cónsules negar la visa, «aun a título de turista o pasajero en tránsito», a quien abandonara su país «como indeseable o expulsado». No menciona a los judíos. La investigadora Beatriz Gurevich encontró una copia en 1998 en la embajada en Estocolmo, donde un embajador había desobedecido la orden de destruirla.",
+      "La aplicación fue desigual. Algunos cónsules cumplieron la orden y otros vendieron visas. El cónsul en La Paz escribió en 1939 que negar visaciones era inútil mientras se pudiera sobornar en la frontera. Ronald Newton tituló su estudio sobre los refugiados de habla alemana «Santuario indiferente». El país recibió a muchos y no quiso recibir a ninguno.",
+      "Después de la guerra las restricciones siguieron. Al menos 4.800 sobrevivientes del Holocausto se radicaron entre 1947 y 1953, buena parte con documentos falsos o cruzando desde Bolivia, Paraguay y Uruguay."
+    ],
+    "sources": [
+      "jewish",
+      "jca",
+      "circular",
+      "sinay",
+      "ushmm",
+      "circular11",
+      "newton"
+    ],
+    "facts": [
+      {
+        "value": "824",
+        "label": "pasajeros del Weser, 1889"
+      },
+      {
+        "value": "24.000",
+        "label": "refugiados judíos admitidos oficialmente, 1933–1943"
+      },
+      {
+        "value": "≈ 20.000",
+        "label": "ingresos irregulares en los mismos años"
+      },
+      {
+        "value": "2005",
+        "label": "derogación formal de la Circular 11"
+      }
+    ],
+    "debate": "¿Argentina cerró o abrió la puerta? Las dos cosas son ciertas con sujetos distintos. El Estado restringió. Cónsules, funcionarios de frontera y redes comunitarias dejaron pasar. En proporción a su población, el país recibió más refugiados judíos que casi cualquier otro, y la mitad lo hizo contra la norma."
+  },
+  {
+    "id": "ships",
+    "kicker": "20 / Viajes documentados",
+    "title": "Mimosa y Massilia: dos cruces diferentes",
+    "lead": "Los documentos permiten acercarse a un viaje sin convertirlo en modelo de toda la inmigración.",
+    "paragraphs": [
+      "El archivo galés conserva el billete de Abraham Matthews y su familia para el Mimosa. El barco partió de Liverpool el 28 de mayo de 1865 hacia Patagonia. Su contingente incluía trabajadores industriales y diferentes oficios. La imagen de un grupo formado exclusivamente por agricultores no se sostiene.",
+      "El Massilia partió de La Rochelle el 19 de octubre de 1939 y llegó a Buenos Aires el 5 de noviembre, con escalas documentadas en Río de Janeiro y Montevideo. Bárbara Ortuño estudia las crónicas de Constantino del Esla y las dificultades de desembarco de refugiados republicanos.",
+      "En ambos casos distinguimos acontecimientos comprobados y geometría. Los puertos y la relación entre ellos se documentan; la curva dibujada no contiene las coordenadas diarias del barco. Los puntos animados sirven para seguir el sentido del viaje, no para simular fechas o velocidades."
+    ],
+    "sources": [
+      "mimosa",
+      "mimosaticket",
+      "mimosamuseum",
+      "massilia"
+    ]
+  },
+  {
+    "id": "postwar",
+    "kicker": "21 / Segunda posguerra",
+    "title": "Volver a abrir el Atlántico",
+    "lead": "La reconstrucción europea y las políticas de destino reordenaron las posibilidades de migrar.",
+    "paragraphs": [
+      "Carolina Biernat estudia la oferta inmigratoria de 1945–1955 y las políticas del primer peronismo. Los acuerdos internacionales, la selección laboral y la asistencia buscaron orientar corrientes. Persistieron tensiones entre proyectos generales, criterios de admisión y prácticas administrativas.",
+      "Canadá y Australia también recibieron europeos y desplazados. El museo de Pier 21 documenta la recepción canadiense; el museo marítimo australiano describe acuerdos y pasajes asistidos británicos. Esos destinos permiten entender que Argentina participaba de un sistema con alternativas.",
+      "El ingreso de criminales nazis es un problema histórico específico, con redes de fuga y responsabilidades. El caso de Eichmann en Argentina está documentado por el Museo del Holocausto. No caracteriza a toda la inmigración alemana ni a todos los llegados después de 1945.",
+      "Italia y Argentina firmaron acuerdos de emigración en 1947 y 1948. Según los datos del instituto italiano de estadística que cita Eugenia Scarzanella, entre 1946 y 1951 salieron de Italia hacia Argentina 346.153 personas, frente a 56.337 hacia Venezuela y 34.542 hacia Brasil. Entre 1952 y 1959 fueron 149.489, y Venezuela pasó al primer lugar con 163.583.",
+      "En la negociación pesaron el trigo y las remesas. Italia necesitaba colocar desocupados y comprar cereal. Argentina quería técnicos y obreros industriales. En 1948 se creó la Comisión Nacional de Radicación de Industrias, que autorizó a 71 empresas europeas, el 80 % italianas, a instalarse con sus máquinas y su personal. Los trabajadores que emigraron con su empresa fueron el 28,7 % de los italianos llegados ese año.",
+      "El Comité Intergubernamental para las Migraciones Europeas nació en diciembre de 1951, financiado en un 48 % por Estados Unidos. Entre 1952 y 1959 pagó el traslado de 88.209 italianos a Argentina, incluidos 28.821 familiares en programas de reunificación. La mayoría de los emigrantes de posguerra, sin embargo, viajó por su cuenta, llamada por parientes.",
+      "El ciclo se cerró en la segunda mitad de los años cincuenta. La economía argentina se estancó, la italiana despegó y la emigración se orientó a Alemania, Suiza y Francia. Hubo retornos, que la prensa italiana presentó como fracasos. En 1960 los nacidos en países limítrofes ya eran el 17,9 % de los extranjeros y la proporción siguió creciendo.",
+      "Sobre los criminales de guerra, la comisión oficial creada en 1997 identificó al menos 180 que ingresaron al país, entre alemanes, croatas, belgas y franceses. La cifra es una estimación mínima de casos documentados. Frente a medio millón de italianos y a los cientos de miles de españoles de esos años, es un problema de responsabilidad estatal y no un rasgo de la corriente migratoria."
+    ],
+    "sources": [
+      "postwar",
+      "canada",
+      "australia",
+      "eichmann",
+      "scarzanella",
+      "modolo",
+      "ceana"
+    ],
+    "facts": [
+      {
+        "value": "346.153",
+        "label": "salidas de Italia hacia Argentina, 1946–1951"
+      },
+      {
+        "value": "149.489",
+        "label": "en 1952–1959"
+      },
+      {
+        "value": "88.209",
+        "label": "traslados pagados por el CIME"
+      },
+      {
+        "value": "≥ 180",
+        "label": "criminales de guerra identificados por la CEANA"
+      }
+    ]
+  },
+  {
+    "id": "world",
+    "kicker": "22 / Comparación mundial",
+    "title": "Había más de una América posible",
+    "lead": "Las políticas de entrada podían modificar los destinos disponibles.",
+    "paragraphs": [
+      "Baily compara la integración de italianos en Buenos Aires y Nueva York. La estructura económica y las instituciones de cada ciudad importan tanto como el origen. No se puede transferir una conclusión de una ciudad a otra sin comprobar sus condiciones.",
+      "La ley estadounidense de 1924 estableció cuotas por orígenes nacionales. Brasil desarrolló mecanismos propios de recepción y registro: el Museu da Imigração conserva listas vinculadas al puerto de Santos y documentos de llamada familiar. Son archivos comparables en ciertas preguntas, pero sus coberturas no son idénticas.",
+      "Este mapa incluye conexiones mundiales de contexto sin atribuirles volúmenes. La ausencia de una ruta dibujada no prueba ausencia histórica de migración. China, India, África y las migraciones americanas requieren corpus propios; quedan fuera del alcance temático europeo-argentino de esta edición."
+    ],
+    "sources": [
+      "baily",
+      "usquota",
+      "santos"
+    ]
+  },
+  {
+    "id": "identity",
+    "kicker": "23 / Memoria e identidad",
+    "title": "Los descendientes no son un porcentaje simple",
+    "lead": "Una persona puede pertenecer a muchas genealogías al mismo tiempo.",
+    "paragraphs": [
+      "Ascendencia, nacionalidad, lugar de nacimiento, lengua e identidad no son equivalentes. Alguien puede descender de italianos, españoles y poblaciones indígenas. Sumar estimaciones de descendientes por colectividad genera duplicaciones; no produce una partición válida del país.",
+      "La investigación genética reportada por CONICET identifica aportes europeos, indígenas americanos y africanos. Sus muestras y métodos no son una encuesta de identidades. Un promedio de ancestría no permite asignar una categoría individual ni reemplaza la historia social.",
+      "Las memorias también seleccionan. Una familia puede recordar un pueblo europeo y desconocer otras ramas. La afirmación «todos descendemos de los barcos» convierte una experiencia importante en un origen universal que las fuentes no sostienen. La historia requiere conservar esa diversidad."
+    ],
+    "sources": [
+      "ancestry",
+      "afro",
+      "integration"
+    ]
+  },
+  {
+    "id": "myths",
+    "kicker": "24 / Revisión",
+    "title": "Ocho afirmaciones corrientes, revisadas",
+    "lead": "Frases que se repiten y lo que dicen las fuentes de este atlas.",
+    "paragraphs": [
+      "«Llegaron seis millones de europeos.» Llegaron entre 5,5 y 6,5 millones de cruces según qué se cuente, hasta 1924. No todos eran europeos, muchas personas cruzaron más de una vez y casi la mitad de los movimientos tuvo una salida equivalente.",
+      "«Vinieron a quedarse.» La relación entre salidas y entradas fue de 47 %. Entre 1907 y 1913, de 50.000 a 70.000 trabajadores por año vinieron solo para la cosecha. Quedarse fue una decisión que muchos tomaron después de llegar.",
+      "«Eran campesinos que poblaron el campo.» Un tercio se declaró agricultor al desembarcar. En 1914 el 68 % de los extranjeros vivía en ciudades.",
+      "«Argentina abrió la puerta a todos.» La Constitución ordena fomentar la inmigración europea, con ese adjetivo. La ley de 1876 excluía a enfermos, mayores de sesenta y «mendigos». Desde 1902 se pudo expulsar sin juicio. En 1938 una circular secreta mandó negar visas a los perseguidos.",
+      "«Los inmigrantes eran analfabetos.» Entre el 23 % y el 25 % de los llegados no sabía leer, y en 1926 era el 20,6 %. La población nativa tenía índices peores. Droller, Fiszbein y Pérez muestran que en 1895 los inmigrantes de todos los orígenes principales estaban más alfabetizados que los argentinos.",
+      "«El país recibió a los nazis.» Entraron al menos 180 criminales de guerra documentados, con protección oficial. En los mismos años entraron también sobrevivientes del Holocausto, exiliados republicanos y cientos de miles de trabajadores italianos y españoles.",
+      "«Los argentinos descendemos de los barcos.» Los estudios genéticos del CONICET encuentran ancestría europea, indígena americana y africana en proporciones que varían por región. La inmigración cambió el país. No lo fundó ni reemplazó a quienes ya vivían en él.",
+      "«La inmigración terminó en 1914.» Hubo una segunda gran corriente en los años veinte y una tercera entre 1947 y 1955. El máximo absoluto de nacidos en el exterior es el del censo de 1960."
+    ],
+    "sources": [
+      "willcox",
+      "bunge",
+      "constitution",
+      "alvarez",
+      "circular11",
+      "droller",
+      "ceana",
+      "ancestry",
+      "modolo"
+    ]
+  },
+  {
+    "id": "archive",
+    "kicker": "25 / Investigación familiar",
+    "title": "Cómo seguir una vida en el archivo",
+    "lead": "Una coincidencia de apellido abre una hipótesis; no demuestra una identidad.",
+    "paragraphs": [
+      "El buscador del Archivo General de la Nación consulta entradas marítimas por Buenos Aires entre 1882 y 1937. Los resultados pueden enlazar documentación digitalizada. Su cobertura no incluye todas las fronteras, todos los años ni todos los registros posibles.",
+      "Conviene comenzar con actas familiares y avanzar hacia atrás, contrastando edades, parentescos, domicilios, ocupaciones y nombres. Las variantes ortográficas, las traducciones de nombres y los cambios de soberanía exigen ampliar la búsqueda. El puerto anotado no prueba el lugar de nacimiento.",
+      "Una búsqueda negativa tampoco prueba que alguien no emigró. Puede haber otra vía de entrada, un período no cubierto o un error de transcripción. Los registros de Migraciones y CEMLA complementan el trabajo; las actas civiles y parroquiales ayudan a enlazar los dos lados del viaje."
+    ],
+    "sources": [
+      "agn",
+      "records"
+    ]
+  },
+  {
+    "id": "methods",
+    "kicker": "26 / Alcance de esta edición",
+    "title": "Qué sabemos y qué falta",
+    "lead": "Una síntesis documental trazable, no un inventario de todos los viajes.",
+    "paragraphs": [
+      "Esta edición reúne fuentes primarias digitalizadas, trabajos académicos, páginas institucionales y fichas bibliográficas. Cada ficha distingue su tipo. Un catálogo editorial confirma una obra y su enfoque; no equivale a haber leído el libro completo. La investigación no incluyó consulta presencial de archivos.",
+      "Las rutas generales son una selección explicativa. Sus intervalos sirven para organizar épocas y no certifican salidas en cada año. Los mapas usan fronteras contemporáneas y puntos de referencia actuales. El atlas no recrea los límites de los imperios europeos ni las fronteras indígenas del siglo XIX.",
+      "Quedan abiertas preguntas de escala más fina: retornos por cohorte, trayectorias femeninas, contratos rurales, circuitos por Brasil y Uruguay, y diferencias dentro de cada colectividad. Para responderlas hacen falta registros comparables y análisis específicos. Los datos de esta edición se descargan para que puedan revisarse y ampliarse.",
+      "La segunda edición agregó series transcritas de fuentes primarias. Las entradas y salidas anuales de 1857 a 1924 vienen de las tablas que Imre Ferenczi y Walter Willcox publicaron en 1929 con datos de la Dirección General de Inmigración. La transcripción se hizo con dos lecturas ópticas independientes de cada página y se verificó contra los totales impresos. Las entradas anuales suman exactamente 5.481.276 y las salidas 2.562.790.",
+      "Quedaron tres discrepancias menores, que se informan. La suma anual de salidas de españoles difiere en 5 del total impreso. El total impreso de «nacionalidad sin especificar» parece decir 119.968 y la suma de sus parciales da 119.964, cifra que se adoptó. El folleto oficial de 1904 difiere de la serie de 1929 en cinco años, con diferencias de hasta 4.290 personas.",
+      "Las cifras de colonias y contingentes proceden de estudios, archivos y, en algunos casos, de historia local y prensa. Cuando los recuentos difieren, el texto da el rango y nombra la fuente. Las fichas marcan como «Prensa» las notas periodísticas y aclaran qué documentos se localizaron sin leerse completos.",
+      "Los círculos del mapa de destinos representan una sola variable: inmigrantes trasladados por la Oficina de Trabajo entre 1894 y 1903. No son población extranjera por provincia. Las líneas siguen sin ancho proporcional porque no existe una tabla de pasajeros por puerto de origen y destino final."
+    ],
+    "sources": [
+      "world",
+      "censushistory",
+      "agn",
+      "willcox",
+      "stlouis",
+      "bunge"
+    ]
+  }
+]

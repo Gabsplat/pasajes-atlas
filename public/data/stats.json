@@ -1,0 +1,1325 @@
+{
+  "series": [
+    {
+      "year": 1857,
+      "immigrants": 4951,
+      "emigrants": null,
+      "net": null,
+      "italianIn": 3021,
+      "italianOut": 1216,
+      "spanishIn": 854,
+      "spanishOut": 356
+    },
+    {
+      "year": 1858,
+      "immigrants": 4658,
+      "emigrants": null,
+      "net": null,
+      "italianIn": 2976,
+      "italianOut": 1151,
+      "spanishIn": 784,
+      "spanishOut": 531
+    },
+    {
+      "year": 1859,
+      "immigrants": 4735,
+      "emigrants": null,
+      "net": null,
+      "italianIn": 3009,
+      "italianOut": 1612,
+      "spanishIn": 802,
+      "spanishOut": 288
+    },
+    {
+      "year": 1860,
+      "immigrants": 5656,
+      "emigrants": null,
+      "net": null,
+      "italianIn": 3349,
+      "italianOut": 1633,
+      "spanishIn": 930,
+      "spanishOut": 376
+    },
+    {
+      "year": 1861,
+      "immigrants": 6301,
+      "emigrants": null,
+      "net": null,
+      "italianIn": 4807,
+      "italianOut": 2646,
+      "spanishIn": 786,
+      "spanishOut": 369
+    },
+    {
+      "year": 1862,
+      "immigrants": 6716,
+      "emigrants": null,
+      "net": null,
+      "italianIn": 4902,
+      "italianOut": 2514,
+      "spanishIn": 934,
+      "spanishOut": 480
+    },
+    {
+      "year": 1863,
+      "immigrants": 10408,
+      "emigrants": null,
+      "net": null,
+      "italianIn": 7836,
+      "italianOut": 3979,
+      "spanishIn": 1092,
+      "spanishOut": 503
+    },
+    {
+      "year": 1864,
+      "immigrants": 11682,
+      "emigrants": null,
+      "net": null,
+      "italianIn": 8422,
+      "italianOut": 5507,
+      "spanishIn": 1608,
+      "spanishOut": 818
+    },
+    {
+      "year": 1865,
+      "immigrants": 11767,
+      "emigrants": null,
+      "net": null,
+      "italianIn": 7697,
+      "italianOut": 3853,
+      "spanishIn": 1981,
+      "spanishOut": 1010
+    },
+    {
+      "year": 1866,
+      "immigrants": 13696,
+      "emigrants": null,
+      "net": null,
+      "italianIn": 9212,
+      "italianOut": 4861,
+      "spanishIn": 2074,
+      "spanishOut": 274
+    },
+    {
+      "year": 1867,
+      "immigrants": 13225,
+      "emigrants": null,
+      "net": null,
+      "italianIn": 7221,
+      "italianOut": 4133,
+      "spanishIn": 3186,
+      "spanishOut": 789
+    },
+    {
+      "year": 1868,
+      "immigrants": 25919,
+      "emigrants": null,
+      "net": null,
+      "italianIn": 18937,
+      "italianOut": 9667,
+      "spanishIn": 3834,
+      "spanishOut": 950
+    },
+    {
+      "year": 1869,
+      "immigrants": 28958,
+      "emigrants": null,
+      "net": null,
+      "italianIn": 21419,
+      "italianOut": 12902,
+      "spanishIn": 3744,
+      "spanishOut": 1055
+    },
+    {
+      "year": 1870,
+      "immigrants": 30898,
+      "emigrants": null,
+      "net": null,
+      "italianIn": 23101,
+      "italianOut": 13854,
+      "spanishIn": 3388,
+      "spanishOut": 812
+    },
+    {
+      "year": 1871,
+      "immigrants": 15088,
+      "emigrants": 10686,
+      "net": 4402,
+      "italianIn": 8170,
+      "italianOut": 5518,
+      "spanishIn": 2554,
+      "spanishOut": 1113
+    },
+    {
+      "year": 1872,
+      "immigrants": 26218,
+      "emigrants": 9153,
+      "net": 17065,
+      "italianIn": 14769,
+      "italianOut": 9977,
+      "spanishIn": 4411,
+      "spanishOut": 1822
+    },
+    {
+      "year": 1873,
+      "immigrants": 48382,
+      "emigrants": 18236,
+      "net": 30146,
+      "italianIn": 26878,
+      "italianOut": 18845,
+      "spanishIn": 9185,
+      "spanishOut": 4018
+    },
+    {
+      "year": 1874,
+      "immigrants": 40674,
+      "emigrants": 21340,
+      "net": 19334,
+      "italianIn": 23904,
+      "italianOut": 16910,
+      "spanishIn": 8272,
+      "spanishOut": 3570
+    },
+    {
+      "year": 1875,
+      "immigrants": 18332,
+      "emigrants": 25578,
+      "net": -7246,
+      "italianIn": 9130,
+      "italianOut": 6422,
+      "spanishIn": 4036,
+      "spanishOut": 1788
+    },
+    {
+      "year": 1876,
+      "immigrants": 14532,
+      "emigrants": 13487,
+      "net": 1045,
+      "italianIn": 6950,
+      "italianOut": 5876,
+      "spanishIn": 3463,
+      "spanishOut": 1530
+    },
+    {
+      "year": 1877,
+      "immigrants": 14675,
+      "emigrants": 18350,
+      "net": -3675,
+      "italianIn": 7556,
+      "italianOut": 5389,
+      "spanishIn": 2700,
+      "spanishOut": 1205
+    },
+    {
+      "year": 1878,
+      "immigrants": 23624,
+      "emigrants": 14860,
+      "net": 8764,
+      "italianIn": 13514,
+      "italianOut": 10474,
+      "spanishIn": 3371,
+      "spanishOut": 1517
+    },
+    {
+      "year": 1879,
+      "immigrants": 32717,
+      "emigrants": 23696,
+      "net": 9021,
+      "italianIn": 22774,
+      "italianOut": 17729,
+      "spanishIn": 3422,
+      "spanishOut": 1872
+    },
+    {
+      "year": 1880,
+      "immigrants": 26643,
+      "emigrants": 20377,
+      "net": 6266,
+      "italianIn": 18416,
+      "italianOut": 17696,
+      "spanishIn": 3112,
+      "spanishOut": 1395
+    },
+    {
+      "year": 1881,
+      "immigrants": 31431,
+      "emigrants": 22374,
+      "net": 9057,
+      "italianIn": 20506,
+      "italianOut": 3330,
+      "spanishIn": 3444,
+      "spanishOut": 1413
+    },
+    {
+      "year": 1882,
+      "immigrants": 41041,
+      "emigrants": 8720,
+      "net": 32321,
+      "italianIn": 29587,
+      "italianOut": 2691,
+      "spanishIn": 3520,
+      "spanishOut": 1118
+    },
+    {
+      "year": 1883,
+      "immigrants": 52472,
+      "emigrants": 9510,
+      "net": 42962,
+      "italianIn": 37043,
+      "italianOut": 4631,
+      "spanishIn": 5023,
+      "spanishOut": 1753
+    },
+    {
+      "year": 1884,
+      "immigrants": 49623,
+      "emigrants": 14444,
+      "net": 35179,
+      "italianIn": 31983,
+      "italianOut": 1315,
+      "spanishIn": 6832,
+      "spanishOut": 1516
+    },
+    {
+      "year": 1885,
+      "immigrants": 80618,
+      "emigrants": 14585,
+      "net": 66033,
+      "italianIn": 63501,
+      "italianOut": 15514,
+      "spanishIn": 4314,
+      "spanishOut": 939
+    },
+    {
+      "year": 1886,
+      "immigrants": 65655,
+      "emigrants": 13907,
+      "net": 51748,
+      "italianIn": 43328,
+      "italianOut": 13265,
+      "spanishIn": 9895,
+      "spanishOut": 1974
+    },
+    {
+      "year": 1887,
+      "immigrants": 94608,
+      "emigrants": 13630,
+      "net": 80978,
+      "italianIn": 65139,
+      "italianOut": 16936,
+      "spanishIn": 15618,
+      "spanishOut": 2009
+    },
+    {
+      "year": 1888,
+      "immigrants": 129115,
+      "emigrants": 16842,
+      "net": 112273,
+      "italianIn": 75029,
+      "italianOut": 10179,
+      "spanishIn": 25407,
+      "spanishOut": 4933
+    },
+    {
+      "year": 1889,
+      "immigrants": 218744,
+      "emigrants": 40649,
+      "net": 178095,
+      "italianIn": 88647,
+      "italianOut": 13048,
+      "spanishIn": 71151,
+      "spanishOut": 4798
+    },
+    {
+      "year": 1890,
+      "immigrants": 77815,
+      "emigrants": 48794,
+      "net": 29021,
+      "italianIn": 39122,
+      "italianOut": 47408,
+      "spanishIn": 13560,
+      "spanishOut": 3814
+    },
+    {
+      "year": 1891,
+      "immigrants": 28266,
+      "emigrants": 72380,
+      "net": -44114,
+      "italianIn": 15511,
+      "italianOut": 57920,
+      "spanishIn": 4290,
+      "spanishOut": 10159
+    },
+    {
+      "year": 1892,
+      "immigrants": 39973,
+      "emigrants": 29893,
+      "net": 10080,
+      "italianIn": 27850,
+      "italianOut": 14678,
+      "spanishIn": 5650,
+      "spanishOut": 2938
+    },
+    {
+      "year": 1893,
+      "immigrants": 52067,
+      "emigrants": 26055,
+      "net": 26012,
+      "italianIn": 37977,
+      "italianOut": 13024,
+      "spanishIn": 7100,
+      "spanishOut": 4161
+    },
+    {
+      "year": 1894,
+      "immigrants": 54720,
+      "emigrants": 20586,
+      "net": 34134,
+      "italianIn": 37699,
+      "italianOut": 19905,
+      "spanishIn": 8122,
+      "spanishOut": 5127
+    },
+    {
+      "year": 1895,
+      "immigrants": 61226,
+      "emigrants": 20390,
+      "net": 40836,
+      "italianIn": 41203,
+      "italianOut": 11341,
+      "spanishIn": 11288,
+      "spanishOut": 7824
+    },
+    {
+      "year": 1896,
+      "immigrants": 102673,
+      "emigrants": 20415,
+      "net": 82258,
+      "italianIn": 75202,
+      "italianOut": 14705,
+      "spanishIn": 18051,
+      "spanishOut": 9666
+    },
+    {
+      "year": 1897,
+      "immigrants": 72978,
+      "emigrants": 31192,
+      "net": 41786,
+      "italianIn": 45678,
+      "italianOut": 23516,
+      "spanishIn": 18316,
+      "spanishOut": 1229
+    },
+    {
+      "year": 1898,
+      "immigrants": 67130,
+      "emigrants": 30802,
+      "net": 36328,
+      "italianIn": 39135,
+      "italianOut": 20644,
+      "spanishIn": 18716,
+      "spanishOut": 1663
+    },
+    {
+      "year": 1899,
+      "immigrants": 84442,
+      "emigrants": 38397,
+      "net": 46045,
+      "italianIn": 53295,
+      "italianOut": 25604,
+      "spanishIn": 19798,
+      "spanishOut": 7520
+    },
+    {
+      "year": 1900,
+      "immigrants": 84851,
+      "emigrants": 38334,
+      "net": 46517,
+      "italianIn": 52143,
+      "italianOut": 23138,
+      "spanishIn": 20383,
+      "spanishOut": 7876
+    },
+    {
+      "year": 1901,
+      "immigrants": 90127,
+      "emigrants": 48697,
+      "net": 41430,
+      "italianIn": 58314,
+      "italianOut": 22089,
+      "spanishIn": 18066,
+      "spanishOut": 5634
+    },
+    {
+      "year": 1902,
+      "immigrants": 57992,
+      "emigrants": 44558,
+      "net": 13434,
+      "italianIn": 32314,
+      "italianOut": 12315,
+      "spanishIn": 13911,
+      "spanishOut": 4353
+    },
+    {
+      "year": 1903,
+      "immigrants": 75227,
+      "emigrants": 40610,
+      "net": 34617,
+      "italianIn": 42358,
+      "italianOut": 16280,
+      "spanishIn": 21917,
+      "spanishOut": 10018
+    },
+    {
+      "year": 1904,
+      "immigrants": 125567,
+      "emigrants": 38923,
+      "net": 86644,
+      "italianIn": 67598,
+      "italianOut": 23970,
+      "spanishIn": 39851,
+      "spanishOut": 19020
+    },
+    {
+      "year": 1905,
+      "immigrants": 177117,
+      "emigrants": 42869,
+      "net": 134248,
+      "italianIn": 88950,
+      "italianOut": 26122,
+      "spanishIn": 53029,
+      "spanishOut": 19533
+    },
+    {
+      "year": 1906,
+      "immigrants": 252536,
+      "emigrants": 60124,
+      "net": 192412,
+      "italianIn": 127348,
+      "italianOut": 37534,
+      "spanishIn": 79517,
+      "spanishOut": 12556
+    },
+    {
+      "year": 1907,
+      "immigrants": 209103,
+      "emigrants": 90190,
+      "net": 118913,
+      "italianIn": 90282,
+      "italianOut": 57686,
+      "spanishIn": 82606,
+      "spanishOut": 18486
+    },
+    {
+      "year": 1908,
+      "immigrants": 255710,
+      "emigrants": 85412,
+      "net": 170298,
+      "italianIn": 93479,
+      "italianOut": 48065,
+      "spanishIn": 125497,
+      "spanishOut": 23701
+    },
+    {
+      "year": 1909,
+      "immigrants": 231084,
+      "emigrants": 94644,
+      "net": 136440,
+      "italianIn": 93528,
+      "italianOut": 51642,
+      "spanishIn": 86798,
+      "spanishOut": 27464
+    },
+    {
+      "year": 1910,
+      "immigrants": 289640,
+      "emigrants": 97854,
+      "net": 191786,
+      "italianIn": 102019,
+      "italianOut": 48398,
+      "spanishIn": 131466,
+      "spanishOut": 23719
+    },
+    {
+      "year": 1911,
+      "immigrants": 225772,
+      "emigrants": 120709,
+      "net": 105063,
+      "italianIn": 58185,
+      "italianOut": 60329,
+      "spanishIn": 118723,
+      "spanishOut": 39801
+    },
+    {
+      "year": 1912,
+      "immigrants": 323403,
+      "emigrants": 120260,
+      "net": 203143,
+      "italianIn": 80583,
+      "italianOut": 48063,
+      "spanishIn": 165662,
+      "spanishOut": 41118
+    },
+    {
+      "year": 1913,
+      "immigrants": 302047,
+      "emigrants": 156829,
+      "net": 145218,
+      "italianIn": 114252,
+      "italianOut": 59920,
+      "spanishIn": 122271,
+      "spanishOut": 59133
+    },
+    {
+      "year": 1914,
+      "immigrants": 115321,
+      "emigrants": 178684,
+      "net": -63363,
+      "italianIn": 36122,
+      "italianOut": 60602,
+      "spanishIn": 52186,
+      "spanishOut": 77646
+    },
+    {
+      "year": 1915,
+      "immigrants": 45290,
+      "emigrants": 111459,
+      "net": -66169,
+      "italianIn": 11309,
+      "italianOut": 55775,
+      "spanishIn": 25250,
+      "spanishOut": 45205
+    },
+    {
+      "year": 1916,
+      "immigrants": 32990,
+      "emigrants": 73348,
+      "net": -40358,
+      "italianIn": 5205,
+      "italianOut": 21364,
+      "spanishIn": 21768,
+      "spanishOut": 42558
+    },
+    {
+      "year": 1917,
+      "immigrants": 18064,
+      "emigrants": 50995,
+      "net": -32931,
+      "italianIn": 1698,
+      "italianOut": 11422,
+      "spanishIn": 12499,
+      "spanishOut": 33838
+    },
+    {
+      "year": 1918,
+      "immigrants": 13701,
+      "emigrants": 24075,
+      "net": -10374,
+      "italianIn": 855,
+      "italianOut": 3608,
+      "spanishIn": 9188,
+      "spanishOut": 17545
+    },
+    {
+      "year": 1919,
+      "immigrants": 41299,
+      "emigrants": 42279,
+      "net": -980,
+      "italianIn": 8966,
+      "italianOut": 8380,
+      "spanishIn": 20824,
+      "spanishOut": 21599
+    },
+    {
+      "year": 1920,
+      "immigrants": 87032,
+      "emigrants": 57187,
+      "net": 29845,
+      "italianIn": 30213,
+      "italianOut": 20915,
+      "spanishIn": 40722,
+      "spanishOut": 29172
+    },
+    {
+      "year": 1921,
+      "immigrants": 98086,
+      "emigrants": 44638,
+      "net": 53448,
+      "italianIn": 39965,
+      "italianOut": 16329,
+      "spanishIn": 40119,
+      "spanishOut": 18182
+    },
+    {
+      "year": 1922,
+      "immigrants": 129263,
+      "emigrants": 45993,
+      "net": 83270,
+      "italianIn": 57827,
+      "italianOut": 14472,
+      "spanishIn": 43305,
+      "spanishOut": 19289
+    },
+    {
+      "year": 1923,
+      "immigrants": 195063,
+      "emigrants": 46810,
+      "net": 148253,
+      "italianIn": 91992,
+      "italianOut": 14153,
+      "spanishIn": 48428,
+      "spanishOut": 19063
+    },
+    {
+      "year": 1924,
+      "immigrants": 159939,
+      "emigrants": 46105,
+      "net": 113834,
+      "italianIn": 73119,
+      "italianOut": 16200,
+      "spanishIn": 45691,
+      "spanishOut": 16763
+    }
+  ],
+  "seriesNote": "Pasajeros extranjeros de segunda y tercera clase llegados o salidos por vía marítima. No incluye primera clase ni el tráfico fluvial con Montevideo. Una persona que cruzó varias veces cuenta varias veces. La emigración anual se publica desde 1871; para 1857–1870 la fuente da 8.900 y 82.976 salidas agrupadas.",
+  "seriesTotals": {
+    "immigrants": 5481276,
+    "emigrants": 2562790,
+    "net": 2918486,
+    "from_": 1857,
+    "to": 1924
+  },
+  "nationalities": [
+    {
+      "name": "Italianos",
+      "immigrants": 2604029,
+      "emigrants": 1292789,
+      "net": 1311240,
+      "ratio": 49.6,
+      "group": "italian"
+    },
+    {
+      "name": "Españoles",
+      "immigrants": 1780295,
+      "emigrants": 756262,
+      "net": 1024033,
+      "ratio": 42.5,
+      "group": "spanish"
+    },
+    {
+      "name": "Franceses",
+      "immigrants": 226894,
+      "emigrants": 120258,
+      "net": 106636,
+      "ratio": 53.0,
+      "group": "french"
+    },
+    {
+      "name": "Rusos",
+      "immigrants": 169257,
+      "emigrants": 70899,
+      "net": 98358,
+      "ratio": 41.9,
+      "group": "eastern"
+    },
+    {
+      "name": "Otomanos («turcos»)",
+      "immigrants": 157185,
+      "emigrants": 53513,
+      "net": 103672,
+      "ratio": 34.0,
+      "group": null
+    },
+    {
+      "name": "Alemanes",
+      "immigrants": 100699,
+      "emigrants": 49252,
+      "net": 51447,
+      "ratio": 48.9,
+      "group": "german"
+    },
+    {
+      "name": "Austrohúngaros",
+      "immigrants": 91869,
+      "emigrants": 37802,
+      "net": 54067,
+      "ratio": 41.1,
+      "group": "eastern"
+    },
+    {
+      "name": "Británicos",
+      "immigrants": 64426,
+      "emigrants": 45370,
+      "net": 19056,
+      "ratio": 70.4,
+      "group": "welsh"
+    },
+    {
+      "name": "Portugueses",
+      "immigrants": 38196,
+      "emigrants": 17465,
+      "net": 20731,
+      "ratio": 45.7,
+      "group": null
+    },
+    {
+      "name": "Suizos",
+      "immigrants": 37017,
+      "emigrants": 14709,
+      "net": 22308,
+      "ratio": 39.7,
+      "group": "swiss"
+    },
+    {
+      "name": "Polacos (desde 1915)",
+      "immigrants": 24714,
+      "emigrants": 1179,
+      "net": 23535,
+      "ratio": 4.8,
+      "group": "eastern"
+    },
+    {
+      "name": "Belgas",
+      "immigrants": 24142,
+      "emigrants": 6812,
+      "net": 17330,
+      "ratio": 28.2,
+      "group": null
+    },
+    {
+      "name": "Daneses",
+      "immigrants": 12896,
+      "emigrants": 3869,
+      "net": 9027,
+      "ratio": 30.0,
+      "group": "danish"
+    },
+    {
+      "name": "Yugoslavos (desde 1915)",
+      "immigrants": 9250,
+      "emigrants": 1015,
+      "net": 8235,
+      "ratio": 11.0,
+      "group": null
+    },
+    {
+      "name": "Estadounidenses",
+      "immigrants": 9028,
+      "emigrants": 5527,
+      "net": 3501,
+      "ratio": 61.2,
+      "group": null
+    },
+    {
+      "name": "Neerlandeses",
+      "immigrants": 8751,
+      "emigrants": 4266,
+      "net": 4485,
+      "ratio": 48.7,
+      "group": null
+    },
+    {
+      "name": "Suecos",
+      "immigrants": 2664,
+      "emigrants": 1171,
+      "net": 1493,
+      "ratio": 44.0,
+      "group": null
+    },
+    {
+      "name": "Sin especificar",
+      "immigrants": 119964,
+      "emigrants": 80632,
+      "net": 39332,
+      "ratio": 67.2,
+      "group": null
+    }
+  ],
+  "nationalitiesNote": "Nacionalidad según la clasificación administrativa de la época. «Rusos» incluye judíos del Imperio ruso y alemanes del Volga; «otomanos» incluye sirios y libaneses; «austrohúngaros» reúne a súbditos de muchas lenguas. La relación entre salidas y entradas no es una tasa de retorno por cohorte.",
+  "decades": [
+    {
+      "period": "1857–60",
+      "immigrants": 20,
+      "emigrants": 9,
+      "balance": 11,
+      "malePercent": 80.5,
+      "hotelPercent": 3.0
+    },
+    {
+      "period": "1861–70",
+      "immigrants": 160,
+      "emigrants": 83,
+      "balance": 77,
+      "malePercent": 76.4,
+      "hotelPercent": 15.9
+    },
+    {
+      "period": "1871–80",
+      "immigrants": 261,
+      "emigrants": 176,
+      "balance": 85,
+      "malePercent": 70.4,
+      "hotelPercent": 32.7
+    },
+    {
+      "period": "1881–90",
+      "immigrants": 841,
+      "emigrants": 203,
+      "balance": 638,
+      "malePercent": 69.6,
+      "hotelPercent": 49.8
+    },
+    {
+      "period": "1891–1900",
+      "immigrants": 648,
+      "emigrants": 328,
+      "balance": 320,
+      "malePercent": 70.6,
+      "hotelPercent": 43.0
+    },
+    {
+      "period": "1901–10",
+      "immigrants": 1764,
+      "emigrants": 644,
+      "balance": 1120,
+      "malePercent": 72.6,
+      "hotelPercent": 47.1
+    },
+    {
+      "period": "1911–20",
+      "immigrants": 1205,
+      "emigrants": 936,
+      "balance": 269,
+      "malePercent": 69.9,
+      "hotelPercent": null
+    },
+    {
+      "period": "1921–26",
+      "immigrants": 843,
+      "emigrants": 289,
+      "balance": 554,
+      "malePercent": 70.2,
+      "hotelPercent": 38.4
+    }
+  ],
+  "interior": [
+    {
+      "name": "Santa Fe",
+      "forwarded": 97037,
+      "percent": 34.0,
+      "coordinates": [
+        -60.9,
+        -30.9
+      ]
+    },
+    {
+      "name": "Buenos Aires",
+      "forwarded": 91746,
+      "percent": 32.1,
+      "coordinates": [
+        -60.3,
+        -36.6
+      ]
+    },
+    {
+      "name": "Córdoba",
+      "forwarded": 28498,
+      "percent": 10.0,
+      "coordinates": [
+        -63.8,
+        -32.2
+      ]
+    },
+    {
+      "name": "Mendoza",
+      "forwarded": 17454,
+      "percent": 6.1,
+      "coordinates": [
+        -68.6,
+        -34.2
+      ]
+    },
+    {
+      "name": "Entre Ríos",
+      "forwarded": 12838,
+      "percent": 4.5,
+      "coordinates": [
+        -59.2,
+        -32.0
+      ]
+    },
+    {
+      "name": "Capital Federal",
+      "forwarded": 12538,
+      "percent": 4.4,
+      "coordinates": [
+        -58.42,
+        -34.61
+      ]
+    },
+    {
+      "name": "Tucumán",
+      "forwarded": 7128,
+      "percent": 2.5,
+      "coordinates": [
+        -65.35,
+        -26.95
+      ]
+    },
+    {
+      "name": "Misiones",
+      "forwarded": 4923,
+      "percent": 1.7,
+      "coordinates": [
+        -54.7,
+        -26.9
+      ]
+    },
+    {
+      "name": "San Juan",
+      "forwarded": 2254,
+      "percent": 0.8,
+      "coordinates": [
+        -68.9,
+        -30.9
+      ]
+    },
+    {
+      "name": "Corrientes",
+      "forwarded": 1778,
+      "percent": 0.6,
+      "coordinates": [
+        -57.8,
+        -28.8
+      ]
+    },
+    {
+      "name": "Pampa Central",
+      "forwarded": 1305,
+      "percent": 0.5,
+      "coordinates": [
+        -65.4,
+        -37.1
+      ]
+    },
+    {
+      "name": "Santiago del Estero",
+      "forwarded": 1259,
+      "percent": 0.4,
+      "coordinates": [
+        -63.3,
+        -27.8
+      ]
+    },
+    {
+      "name": "San Luis",
+      "forwarded": 1239,
+      "percent": 0.4,
+      "coordinates": [
+        -66.0,
+        -33.8
+      ]
+    },
+    {
+      "name": "Salta",
+      "forwarded": 1170,
+      "percent": 0.4,
+      "coordinates": [
+        -64.8,
+        -24.9
+      ]
+    },
+    {
+      "name": "Jujuy",
+      "forwarded": 858,
+      "percent": 0.3,
+      "coordinates": [
+        -65.8,
+        -23.2
+      ]
+    },
+    {
+      "name": "Río Negro",
+      "forwarded": 828,
+      "percent": 0.3,
+      "coordinates": [
+        -67.2,
+        -40.4
+      ]
+    },
+    {
+      "name": "Chubut",
+      "forwarded": 688,
+      "percent": 0.2,
+      "coordinates": [
+        -68.5,
+        -43.8
+      ]
+    },
+    {
+      "name": "Chaco",
+      "forwarded": 402,
+      "percent": 0.1,
+      "coordinates": [
+        -60.8,
+        -26.4
+      ]
+    },
+    {
+      "name": "Santa Cruz",
+      "forwarded": 390,
+      "percent": 0.1,
+      "coordinates": [
+        -69.9,
+        -48.8
+      ]
+    },
+    {
+      "name": "Formosa",
+      "forwarded": 328,
+      "percent": 0.1,
+      "coordinates": [
+        -59.9,
+        -24.9
+      ]
+    },
+    {
+      "name": "La Rioja",
+      "forwarded": 209,
+      "percent": 0.1,
+      "coordinates": [
+        -67.0,
+        -29.7
+      ]
+    },
+    {
+      "name": "Tierra del Fuego",
+      "forwarded": 188,
+      "percent": 0.1,
+      "coordinates": [
+        -67.8,
+        -54.2
+      ]
+    },
+    {
+      "name": "Catamarca",
+      "forwarded": 161,
+      "percent": 0.1,
+      "coordinates": [
+        -66.9,
+        -27.3
+      ]
+    },
+    {
+      "name": "Neuquén",
+      "forwarded": 152,
+      "percent": 0.1,
+      "coordinates": [
+        -70.1,
+        -38.6
+      ]
+    }
+  ],
+  "interiorNote": "Inmigrantes que la Oficina de Trabajo trasladó con pasaje del Estado entre 1894 y 1903: 285.371 personas sobre 751.366 llegadas en esos diez años. Quien se quedaba por su cuenta en Buenos Aires no figura, y por eso la Capital aparece con pocos casos.",
+  "trades": [
+    {
+      "name": "Agricultores",
+      "value": 312723
+    },
+    {
+      "name": "Jornaleros",
+      "value": 118223
+    },
+    {
+      "name": "Niños, sin oficio",
+      "value": 113433
+    },
+    {
+      "name": "Comerciantes",
+      "value": 30996
+    },
+    {
+      "name": "Sirvientes y sirvientas",
+      "value": 28450
+    },
+    {
+      "name": "Costureras",
+      "value": 28194
+    },
+    {
+      "name": "Dependientes",
+      "value": 10755
+    },
+    {
+      "name": "Cocineros y cocineras",
+      "value": 9265
+    },
+    {
+      "name": "Lavanderas",
+      "value": 8749
+    },
+    {
+      "name": "Albañiles",
+      "value": 8500
+    },
+    {
+      "name": "Mujeres sin oficio declarado",
+      "value": 8111
+    },
+    {
+      "name": "Marineros",
+      "value": 7739
+    },
+    {
+      "name": "Carpinteros",
+      "value": 7142
+    },
+    {
+      "name": "Tejedores y tejedoras",
+      "value": 6546
+    },
+    {
+      "name": "Zapateros",
+      "value": 6094
+    },
+    {
+      "name": "Modistas",
+      "value": 6051
+    }
+  ],
+  "tradesTotal": 751366,
+  "tradesNote": "Oficio declarado al desembarcar, 1894–1903. La categoría «agricultor» daba acceso a los beneficios de la ley y no prueba la ocupación posterior.",
+  "census": [
+    {
+      "year": 1869,
+      "total": 1737076,
+      "foreign": 210295,
+      "percent": 12.1,
+      "nonBorder": 80.3,
+      "urban": 26.4
+    },
+    {
+      "year": 1895,
+      "total": 3954911,
+      "foreign": 1004527,
+      "percent": 25.4,
+      "nonBorder": 88.5,
+      "urban": 37.4
+    },
+    {
+      "year": 1914,
+      "total": 7885237,
+      "foreign": 2357952,
+      "percent": 29.9,
+      "nonBorder": 91.4,
+      "urban": 52.7
+    },
+    {
+      "year": 1947,
+      "total": 15893827,
+      "foreign": 2435927,
+      "percent": 15.3,
+      "nonBorder": 87.1,
+      "urban": 62.5
+    },
+    {
+      "year": 1960,
+      "total": 20013793,
+      "foreign": 2604447,
+      "percent": 13.0,
+      "nonBorder": 82.1,
+      "urban": null
+    }
+  ],
+  "censusNote": "1869–1947: cuadro 9 del censo de 1947. 1960 y proporción de nacidos fuera de los países limítrofes: Modolo (2016), con base en INDEC. «No limítrofes» incluye orígenes no europeos, como el Imperio otomano.",
+  "comparison": [
+    {
+      "country": "Argentina",
+      "year": 1914,
+      "percent": 29.9
+    },
+    {
+      "country": "Canadá",
+      "year": 1931,
+      "percent": 22.2
+    },
+    {
+      "country": "Australia",
+      "year": 1933,
+      "percent": 17.3
+    },
+    {
+      "country": "Argentina",
+      "year": 1947,
+      "percent": 15.3
+    },
+    {
+      "country": "Estados Unidos",
+      "year": 1940,
+      "percent": 10.1
+    },
+    {
+      "country": "Brasil",
+      "year": 1920,
+      "percent": 5.2
+    }
+  ],
+  "comparisonNote": "Cuadro 8 del censo argentino de 1947. La cifra de Estados Unidos excluye a la población negra y la de Australia cubre tres estados. Sirve como orden de magnitud.",
+  "facts1914": [
+    {
+      "value": "52 %",
+      "label": "de los varones mayores de 20 años había nacido en el extranjero"
+    },
+    {
+      "value": "68 %",
+      "label": "de los extranjeros vivía en centros urbanos: 1.611.000 frente a 747.000 en el campo"
+    },
+    {
+      "value": "930.000",
+      "label": "italianos y 830.000 españoles, juntos el 23,5 % de la población"
+    },
+    {
+      "value": "94.000",
+      "label": "«rusos» y 64.000 «otomanos», según las categorías del censo"
+    }
+  ],
+  "postwar": [
+    {
+      "period": "1946–1951",
+      "value": 346153,
+      "label": "salidas de Italia hacia Argentina, datos ISTAT"
+    },
+    {
+      "period": "1952–1959",
+      "value": 149489,
+      "label": "salidas de Italia hacia Argentina, datos ISTAT"
+    },
+    {
+      "period": "1952–1959",
+      "value": 88209,
+      "label": "de esos traslados, financiados por el CIME"
+    }
+  ],
+  "refuge": [
+    {
+      "period": "1918–1933",
+      "value": 79000,
+      "label": "inmigrantes judíos admitidos, según el USHMM"
+    },
+    {
+      "period": "1933–1943",
+      "value": 24000,
+      "label": "admitidos de forma oficial"
+    },
+    {
+      "period": "1933–1943",
+      "value": 20000,
+      "label": "ingresos irregulares estimados desde países vecinos"
+    },
+    {
+      "period": "1947–1953",
+      "value": 4800,
+      "label": "sobrevivientes del Holocausto radicados, como mínimo"
+    }
+  ]
+}

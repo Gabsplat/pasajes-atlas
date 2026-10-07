@@ -1,0 +1,26 @@
+[
+  {
+    "year": 1869,
+    "total": 1737076,
+    "foreign": 210295,
+    "percent": 12.1
+  },
+  {
+    "year": 1895,
+    "total": 3954911,
+    "foreign": 1004527,
+    "percent": 25.4
+  },
+  {
+    "year": 1914,
+    "total": 7885237,
+    "foreign": 2357952,
+    "percent": 29.9
+  },
+  {
+    "year": 1947,
+    "total": 15893827,
+    "foreign": 2435927,
+    "percent": 15.3
+  }
+]

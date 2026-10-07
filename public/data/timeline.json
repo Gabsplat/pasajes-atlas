@@ -1,0 +1,346 @@
+[
+  {
+    "year": 1853,
+    "title": "Constitución nacional",
+    "text": "El artículo 20 reconoce a los extranjeros los derechos civiles del ciudadano. El artículo 25 ordena fomentar la inmigración europea.",
+    "sources": [
+      "constitution"
+    ],
+    "kind": "política"
+  },
+  {
+    "year": 1856,
+    "title": "Esperanza",
+    "text": "Familias suizas, alemanas y francesas inician en Santa Fe una colonia agrícola organizada por contrato.",
+    "sources": [
+      "esperanza"
+    ],
+    "kind": "colonia"
+  },
+  {
+    "year": 1857,
+    "title": "Primera estadística y colonia San José",
+    "text": "La Comisión Filantrópica de Inmigración empieza a contar pasajeros: 4.951 en el año. Unos 530 colonos del Valais, Saboya y Piamonte se instalan en campos de Urquiza.",
+    "sources": [
+      "bunge",
+      "sanjose"
+    ],
+    "kind": "colonia"
+  },
+  {
+    "year": 1865,
+    "title": "El Mimosa llega a Golfo Nuevo",
+    "text": "Unos 150 galeses desembarcan en Patagonia a fines de julio.",
+    "sources": [
+      "mimosa"
+    ],
+    "kind": "viaje"
+  },
+  {
+    "year": 1869,
+    "title": "Primer censo nacional",
+    "text": "210.295 extranjeros, el 12,1 % de la población. La Comisión Central de Inmigración reemplaza a la sociedad filantrópica.",
+    "sources": [
+      "census",
+      "bunge"
+    ],
+    "kind": "dato"
+  },
+  {
+    "year": 1871,
+    "title": "Fiebre amarilla",
+    "text": "La epidemia en Buenos Aires reduce las llegadas a la mitad: 15.088 frente a 30.898 del año anterior.",
+    "sources": [
+      "bunge",
+      "willcox"
+    ],
+    "kind": "crisis"
+  },
+  {
+    "year": 1873,
+    "title": "Primer pico",
+    "text": "48.382 llegadas. Las colonias de Santa Fe y Entre Ríos crecen y empieza la exportación de trigo.",
+    "sources": [
+      "bunge",
+      "willcox"
+    ],
+    "kind": "dato"
+  },
+  {
+    "year": 1876,
+    "title": "Ley 817 de Inmigración y Colonización",
+    "text": "Define al inmigrante como todo extranjero menor de sesenta años que llega en segunda o tercera clase para establecerse. Ofrece alojamiento, colocación y traslado gratuitos.",
+    "sources": [
+      "law",
+      "stlouis"
+    ],
+    "kind": "política"
+  },
+  {
+    "year": 1878,
+    "title": "Alemanes del Volga y friulanos",
+    "text": "El 5 de enero se funda Hinojo. En julio se establecen las aldeas de Entre Ríos. Familias friulanas llegan a Colonia Caroya.",
+    "sources": [
+      "volgacenter",
+      "caroya"
+    ],
+    "kind": "colonia"
+  },
+  {
+    "year": 1884,
+    "title": "Pigüé",
+    "text": "Unas cuarenta familias del Aveyron llegan a la estación el 3 de diciembre.",
+    "sources": [
+      "pigue"
+    ],
+    "kind": "colonia"
+  },
+  {
+    "year": 1888,
+    "title": "Pasajes subsidiados",
+    "text": "El Estado adelanta pasajes: 12.000 personas en 1888, 100.000 en 1889 y 20.000 en 1890, según Bunge y García Mata.",
+    "sources": [
+      "bunge",
+      "subsidy"
+    ],
+    "kind": "política"
+  },
+  {
+    "year": 1889,
+    "title": "El año de las 218.744 llegadas",
+    "text": "Récord del siglo XIX. Llegan 71.151 españoles, 27.173 franceses, 8.666 belgas y 4.007 neerlandeses. El 14 de agosto ancla el Weser.",
+    "sources": [
+      "willcox",
+      "sinay"
+    ],
+    "kind": "dato"
+  },
+  {
+    "year": 1890,
+    "title": "Crisis financiera",
+    "text": "Caen las llegadas a 77.815 y se abandona el sistema de pasajes subsidiados.",
+    "sources": [
+      "bunge",
+      "subsidy"
+    ],
+    "kind": "crisis"
+  },
+  {
+    "year": 1891,
+    "title": "Saldo negativo",
+    "text": "Entran 28.266 personas y salen 72.380. Entre los italianos, 15.511 entradas y 57.920 salidas.",
+    "sources": [
+      "willcox"
+    ],
+    "kind": "crisis"
+  },
+  {
+    "year": 1895,
+    "title": "Segundo censo nacional",
+    "text": "1.004.527 extranjeros, el 25,4 % de la población.",
+    "sources": [
+      "census"
+    ],
+    "kind": "dato"
+  },
+  {
+    "year": 1897,
+    "title": "Apóstoles",
+    "text": "Un contingente polaco y ucraniano de Galitzia llega a Misiones el 27 de agosto.",
+    "sources": [
+      "apostoles"
+    ],
+    "kind": "colonia"
+  },
+  {
+    "year": 1902,
+    "title": "Ley de Residencia",
+    "text": "La ley 4.144 permite al Poder Ejecutivo expulsar extranjeros sin juicio. Entre 1902 y 1914 los decretos alcanzaron a 560 personas.",
+    "sources": [
+      "alvarez"
+    ],
+    "kind": "política"
+  },
+  {
+    "year": 1906,
+    "title": "Naufragio del Sirio",
+    "text": "El vapor encalla en Cabo de Palos el 4 de agosto. Ese año se registran 127.348 entradas de italianos, el máximo.",
+    "sources": [
+      "sirio",
+      "willcox"
+    ],
+    "kind": "viaje"
+  },
+  {
+    "year": 1907,
+    "title": "Huelga de inquilinos",
+    "text": "Los conventillos de Buenos Aires y Rosario dejan de pagar el alquiler. Empieza el auge de la inmigración golondrina.",
+    "sources": [
+      "tenants",
+      "bunge"
+    ],
+    "kind": "conflicto"
+  },
+  {
+    "year": 1910,
+    "title": "Ley de Defensa Social",
+    "text": "La ley 7.029 prohíbe el ingreso de anarquistas y restringe reuniones y prensa.",
+    "sources": [
+      "defense"
+    ],
+    "kind": "política"
+  },
+  {
+    "year": 1911,
+    "title": "Nuevo Hotel de Inmigrantes",
+    "text": "Edificio de hormigón con cuatro dormitorios por piso, cada uno para 250 personas. Alojamiento gratuito por cinco días.",
+    "sources": [
+      "hotel"
+    ],
+    "kind": "institución"
+  },
+  {
+    "year": 1912,
+    "title": "Máximo histórico y Grito de Alcorta",
+    "text": "323.403 llegadas en el año, 165.662 de españoles. En junio los arrendatarios del sur de Santa Fe van a la huelga.",
+    "sources": [
+      "willcox",
+      "alcorta"
+    ],
+    "kind": "dato"
+  },
+  {
+    "year": 1914,
+    "title": "Censo y reflujo",
+    "text": "2.357.952 extranjeros, el 29,9 %. En el año entran 115.321 personas y salen 178.684. El reflujo empezó antes de la guerra.",
+    "sources": [
+      "census",
+      "bunge",
+      "willcox"
+    ],
+    "kind": "dato"
+  },
+  {
+    "year": 1916,
+    "title": "Príncipe de Asturias",
+    "text": "El vapor español se hunde frente a Ilhabela el 5 de marzo, en viaje de Barcelona a Buenos Aires.",
+    "sources": [
+      "asturias"
+    ],
+    "kind": "viaje"
+  },
+  {
+    "year": 1918,
+    "title": "Mínimo de la serie",
+    "text": "13.701 llegadas. El movimiento total, entradas más salidas, es de unas 38.000 personas.",
+    "sources": [
+      "willcox",
+      "bunge"
+    ],
+    "kind": "crisis"
+  },
+  {
+    "year": 1919,
+    "title": "Semana Trágica",
+    "text": "Represión obrera en Buenos Aires, con ataques contra el barrio judío.",
+    "sources": [
+      "tragic"
+    ],
+    "kind": "conflicto"
+  },
+  {
+    "year": 1923,
+    "title": "Recuperación",
+    "text": "195.063 llegadas, el nivel de preguerra. Un nuevo reglamento exige certificados visados por el cónsul argentino.",
+    "sources": [
+      "willcox",
+      "bunge",
+      "devoto"
+    ],
+    "kind": "dato"
+  },
+  {
+    "year": 1924,
+    "title": "Cuotas en Estados Unidos",
+    "text": "La ley Johnson-Reed cierra el principal destino para europeos del sur y del este.",
+    "sources": [
+      "usquota"
+    ],
+    "kind": "política"
+  },
+  {
+    "year": 1926,
+    "title": "Quiénes llegaban",
+    "text": "De 135.011 pasajeros de segunda y tercera clase, 113.352 declararon intención de quedarse y 18.036 ya habían estado en el país.",
+    "sources": [
+      "bunge"
+    ],
+    "kind": "dato"
+  },
+  {
+    "year": 1930,
+    "title": "Crisis y restricciones",
+    "text": "La depresión reduce las llegadas y el Estado endurece los requisitos consulares.",
+    "sources": [
+      "devoto",
+      "policy"
+    ],
+    "kind": "crisis"
+  },
+  {
+    "year": 1938,
+    "title": "Evian y la Circular 11",
+    "text": "El 12 de julio el canciller José María Cantilo ordena en secreto negar visas a quienes abandonan su país «como indeseables o expulsados».",
+    "sources": [
+      "circular",
+      "circular11"
+    ],
+    "kind": "política"
+  },
+  {
+    "year": 1939,
+    "title": "Massilia",
+    "text": "El vapor sale de La Rochelle el 19 de octubre con exiliados republicanos y llega a Buenos Aires el 5 de noviembre.",
+    "sources": [
+      "massilia"
+    ],
+    "kind": "viaje"
+  },
+  {
+    "year": 1947,
+    "title": "Cuarto censo y acuerdo con Italia",
+    "text": "2.435.927 extranjeros, el 15,3 %. Argentina e Italia firman el primero de dos acuerdos de emigración.",
+    "sources": [
+      "census",
+      "scarzanella"
+    ],
+    "kind": "dato"
+  },
+  {
+    "year": 1951,
+    "title": "CIME",
+    "text": "Se crea el Comité Intergubernamental para las Migraciones Europeas. Entre 1952 y 1959 financió 88.209 traslados de italianos a Argentina.",
+    "sources": [
+      "scarzanella"
+    ],
+    "kind": "institución"
+  },
+  {
+    "year": 1958,
+    "title": "Derogación de la Ley de Residencia",
+    "text": "El Congreso anula la ley 4.144 después de 56 años.",
+    "sources": [
+      "alvarez"
+    ],
+    "kind": "política"
+  },
+  {
+    "year": 1960,
+    "title": "Quinto censo",
+    "text": "2.604.447 nacidos en el exterior, el 13 % de la población. El 17,9 % de ellos nació en un país limítrofe.",
+    "sources": [
+      "modolo"
+    ],
+    "kind": "dato"
+  }
+]

@@ -1,0 +1,1723 @@
+[
+  {
+    "id": "genoa-ba",
+    "group": "italian",
+    "origin": "genoa",
+    "destination": "ba",
+    "start": 1850,
+    "end": 1960,
+    "title": "Génova → Buenos Aires",
+    "description": "Génova fue el principal puerto de la emigración italiana al Río de la Plata. La estadística argentina anotó 2.604.029 entradas de italianos entre 1857 y 1924, sin distinguir puerto de embarque. El máximo anual fue 1906, con 127.348. En 1891, tras la crisis, entraron 15.511 y salieron 57.920. La línea representa la corriente y no el recorrido de un barco.",
+    "sources": [
+      "journey",
+      "baily",
+      "willcox"
+    ],
+    "layer": "arrival",
+    "evidence": "Corriente histórica",
+    "via": [
+      [
+        4,
+        39
+      ],
+      [
+        -5.7,
+        35.9
+      ],
+      [
+        -14,
+        28
+      ],
+      [
+        -25,
+        8
+      ],
+      [
+        -33,
+        -7
+      ],
+      [
+        -40,
+        -20
+      ],
+      [
+        -50,
+        -30
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "naples-ba",
+    "group": "italian",
+    "origin": "naples",
+    "destination": "ba",
+    "start": 1880,
+    "end": 1960,
+    "title": "Nápoles → Buenos Aires",
+    "description": "La emigración desde el sur de Italia se integró a circuitos transatlánticos. El puerto indica una salida marítima, no la región natal de todos los pasajeros.",
+    "sources": [
+      "journey",
+      "language"
+    ],
+    "layer": "arrival",
+    "evidence": "Corriente histórica",
+    "via": [
+      [
+        12,
+        38
+      ],
+      [
+        4,
+        39
+      ],
+      [
+        -5.7,
+        35.9
+      ],
+      [
+        -14,
+        28
+      ],
+      [
+        -25,
+        8
+      ],
+      [
+        -33,
+        -7
+      ],
+      [
+        -40,
+        -20
+      ],
+      [
+        -50,
+        -30
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "trieste-ba",
+    "group": "italian",
+    "origin": "trieste",
+    "destination": "ba",
+    "start": 1880,
+    "end": 1960,
+    "title": "Trieste → Buenos Aires",
+    "description": "Trieste conectó territorios centroeuropeos con ultramar. Su soberanía cambió en el período. Esta ruta está agrupada con puertos de la península italiana por conveniencia de navegación, no como clasificación étnica de sus pasajeros.",
+    "sources": [
+      "journey",
+      "devoto"
+    ],
+    "layer": "arrival",
+    "evidence": "Corriente histórica",
+    "via": [
+      [
+        16,
+        41
+      ],
+      [
+        18,
+        37
+      ],
+      [
+        10,
+        37
+      ],
+      [
+        -5.7,
+        35.9
+      ],
+      [
+        -14,
+        28
+      ],
+      [
+        -25,
+        8
+      ],
+      [
+        -33,
+        -7
+      ],
+      [
+        -40,
+        -20
+      ],
+      [
+        -50,
+        -30
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "vigo-ba",
+    "group": "spanish",
+    "origin": "vigo",
+    "destination": "ba",
+    "start": 1880,
+    "end": 1960,
+    "title": "Vigo → Buenos Aires",
+    "description": "Vigo y A Coruña concentraron la salida gallega. Las entradas de españoles pasaron de 20.383 en 1900 a 165.662 en 1912, el máximo de la serie. Las cartas de llamada y la ayuda de parientes orientaban destino y primer empleo. La cifra es nacional y no se reparte entre puertos.",
+    "sources": [
+      "moya",
+      "journey",
+      "galicianwomen",
+      "willcox"
+    ],
+    "layer": "arrival",
+    "evidence": "Corriente histórica",
+    "via": [
+      [
+        -12,
+        38
+      ],
+      [
+        -19,
+        22
+      ],
+      [
+        -28,
+        5
+      ],
+      [
+        -35,
+        -10
+      ],
+      [
+        -43,
+        -25
+      ],
+      [
+        -52,
+        -33
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "coruna-ba",
+    "group": "spanish",
+    "origin": "coruna",
+    "destination": "ba",
+    "start": 1880,
+    "end": 1960,
+    "title": "A Coruña → Buenos Aires",
+    "description": "El noroeste español participó de corrientes de ida y retorno. La línea relaciona el puerto con el destino; no adjudica a toda la migración gallega la misma salida.",
+    "sources": [
+      "moya",
+      "galicianwomen"
+    ],
+    "layer": "arrival",
+    "evidence": "Corriente histórica",
+    "via": [
+      [
+        -12,
+        38
+      ],
+      [
+        -19,
+        22
+      ],
+      [
+        -28,
+        5
+      ],
+      [
+        -35,
+        -10
+      ],
+      [
+        -43,
+        -25
+      ],
+      [
+        -52,
+        -33
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "barcelona-ba",
+    "group": "spanish",
+    "origin": "barcelona",
+    "destination": "ba",
+    "start": 1880,
+    "end": 1960,
+    "title": "Barcelona → Buenos Aires",
+    "description": "Un vínculo mediterráneo dentro de la emigración española. Los centros y asociaciones conservaron pertenencias regionales, mientras las trayectorias laborales se construían en Argentina.",
+    "sources": [
+      "moya",
+      "journey"
+    ],
+    "layer": "arrival",
+    "evidence": "Corriente histórica",
+    "via": [
+      [
+        4,
+        39
+      ],
+      [
+        -5.7,
+        35.9
+      ],
+      [
+        -14,
+        28
+      ],
+      [
+        -25,
+        8
+      ],
+      [
+        -33,
+        -7
+      ],
+      [
+        -40,
+        -20
+      ],
+      [
+        -50,
+        -30
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "bordeaux-ba",
+    "group": "french",
+    "origin": "bordeaux",
+    "destination": "ba",
+    "start": 1850,
+    "end": 1913,
+    "title": "Burdeos → Buenos Aires",
+    "description": "La documentación general identifica Burdeos entre los puertos de salida. El sudoeste francés tuvo redes migratorias propias. Los destinos de los pasajeros no se reducían a la capital.",
+    "sources": [
+      "journey",
+      "otero",
+      "subsidy"
+    ],
+    "layer": "arrival",
+    "evidence": "Corriente histórica",
+    "via": [
+      [
+        -12,
+        38
+      ],
+      [
+        -19,
+        22
+      ],
+      [
+        -28,
+        5
+      ],
+      [
+        -35,
+        -10
+      ],
+      [
+        -43,
+        -25
+      ],
+      [
+        -52,
+        -33
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "havre-ba",
+    "group": "french",
+    "origin": "havre",
+    "destination": "ba",
+    "start": 1850,
+    "end": 1929,
+    "title": "Le Havre → Buenos Aires",
+    "description": "Los puertos franceses transportaron también personas de otros orígenes. Lugar de embarque, nacimiento y nacionalidad no son sinónimos.",
+    "sources": [
+      "journey",
+      "otero"
+    ],
+    "layer": "arrival",
+    "evidence": "Corriente histórica",
+    "via": [
+      [
+        -5,
+        50
+      ],
+      [
+        -12,
+        42
+      ],
+      [
+        -19,
+        25
+      ],
+      [
+        -28,
+        5
+      ],
+      [
+        -35,
+        -10
+      ],
+      [
+        -43,
+        -25
+      ],
+      [
+        -52,
+        -33
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "hamburg-ba",
+    "group": "german",
+    "origin": "hamburg",
+    "destination": "ba",
+    "start": 1880,
+    "end": 1960,
+    "title": "Hamburgo → Buenos Aires",
+    "description": "Hamburgo fue una puerta de salida hacia el Atlántico. La categoría germanohablante reúne experiencias diversas; no identifica la nacionalidad de todos sus pasajeros.",
+    "sources": [
+      "journey",
+      "devoto"
+    ],
+    "layer": "arrival",
+    "evidence": "Corriente histórica",
+    "via": [
+      [
+        7,
+        54
+      ],
+      [
+        1,
+        53
+      ],
+      [
+        -5,
+        50
+      ],
+      [
+        -12,
+        42
+      ],
+      [
+        -19,
+        25
+      ],
+      [
+        -28,
+        5
+      ],
+      [
+        -35,
+        -10
+      ],
+      [
+        -43,
+        -25
+      ],
+      [
+        -52,
+        -33
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "mimosa",
+    "group": "welsh",
+    "origin": "liverpool",
+    "destination": "madryn",
+    "start": 1865,
+    "end": 1865,
+    "title": "Mimosa · Liverpool → Golfo Nuevo",
+    "description": "Unos 150 galeses zarparon de Liverpool el 28 de mayo de 1865 en el clíper Mimosa, al mando de George Pepperell. La mayoría venía de zonas mineras e industriales como Mountain Ash y Aberdare. Durante el viaje murieron cuatro niños y nacieron dos. Llegaron a Golfo Nuevo la noche del 26 de julio. El contrato de pasaje de Abraham Matthews consigna Liverpool–New Bay. El territorio tenía habitantes: los tehuelches comerciaron con la colonia desde el primer año.",
+    "sources": [
+      "mimosa",
+      "mimosaticket",
+      "mimosamuseum"
+    ],
+    "layer": "arrival",
+    "evidence": "Viaje documentado",
+    "via": [
+      [
+        -6,
+        52
+      ],
+      [
+        -12,
+        40
+      ],
+      [
+        -22,
+        20
+      ],
+      [
+        -32,
+        0
+      ],
+      [
+        -40,
+        -20
+      ],
+      [
+        -55,
+        -38
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Fecha del viaje documentado. La línea no reproduce el derrotero náutico."
+  },
+  {
+    "id": "massilia",
+    "group": "exile",
+    "origin": "rochelle",
+    "destination": "ba",
+    "start": 1939,
+    "end": 1939,
+    "title": "Massilia · el viaje de 1939",
+    "description": "El viaje del Massilia llevó refugiados y exiliados republicanos desde Francia a Buenos Aires. La investigación de Bárbara Ortuño reconstruye su travesía y los problemas de ingreso. La salida de Francia no vuelve franceses a los pasajeros.",
+    "sources": [
+      "massilia",
+      "exile"
+    ],
+    "layer": "arrival",
+    "evidence": "Viaje documentado",
+    "via": [
+      [
+        -12,
+        38
+      ],
+      [
+        -19,
+        22
+      ],
+      [
+        -28,
+        5
+      ],
+      [
+        -35,
+        -10
+      ],
+      [
+        -43.17,
+        -22.9
+      ],
+      [
+        -49,
+        -28
+      ],
+      [
+        -56.16,
+        -34.9
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Salida: La Rochelle, 19/10/1939. Llegada: Buenos Aires, 05/11/1939. Escalas documentadas: Río de Janeiro y Montevideo. Sin derrotero náutico diario.",
+    "stops": [
+      "rio",
+      "montevideo"
+    ]
+  },
+  {
+    "id": "swiss-esperanza",
+    "group": "swiss",
+    "origin": "swiss",
+    "destination": "esperanza",
+    "start": 1856,
+    "end": 1856,
+    "title": "Suiza → Esperanza",
+    "description": "Conexión entre región de origen y colonia. La fundación de 1856 está documentada, pero esta línea omite el puerto, los transbordos y los medios de transporte que variaron entre familias.",
+    "sources": [
+      "esperanza"
+    ],
+    "layer": "arrival",
+    "evidence": "Origen y asentamiento",
+    "via": [
+      [
+        2,
+        44
+      ],
+      [
+        -7,
+        38
+      ],
+      [
+        -19,
+        22
+      ],
+      [
+        -28,
+        5
+      ],
+      [
+        -35,
+        -10
+      ],
+      [
+        -43,
+        -25
+      ],
+      [
+        -52,
+        -33
+      ],
+      [
+        -58,
+        -34
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "galitzia-apostoles",
+    "group": "eastern",
+    "origin": "galitzia",
+    "destination": "apostoles",
+    "start": 1897,
+    "end": 1929,
+    "title": "Galitzia → Apóstoles",
+    "description": "La llegada inicial de 1897 y la posterior colonización se documentan en la historia regional. La línea une una región histórica con un asentamiento; no reconstruye el camino ferroviario ni el puerto de cada familia.",
+    "sources": [
+      "apostoles",
+      "galitzia"
+    ],
+    "layer": "arrival",
+    "evidence": "Origen y asentamiento",
+    "via": [
+      [
+        14,
+        46
+      ],
+      [
+        8,
+        44
+      ],
+      [
+        4,
+        39
+      ],
+      [
+        -5.7,
+        35.9
+      ],
+      [
+        -14,
+        28
+      ],
+      [
+        -25,
+        8
+      ],
+      [
+        -33,
+        -7
+      ],
+      [
+        -40,
+        -20
+      ],
+      [
+        -50,
+        -30
+      ],
+      [
+        -58,
+        -34
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "ba-rosario",
+    "group": "italian",
+    "origin": "ba",
+    "destination": "rosario",
+    "start": 1850,
+    "end": 1960,
+    "title": "Buenos Aires → Rosario",
+    "description": "Santa Fe fue el primer destino de los inmigrantes que el Estado trasladó al interior: 97.037 de 285.371 entre 1894 y 1903. Hubo circulación fluvial y ferroviaria, con muchos destinos intermedios.",
+    "sources": [
+      "integration",
+      "baily",
+      "stlouis"
+    ],
+    "layer": "interior",
+    "evidence": "Conexión regional",
+    "via": [],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "ba-mendoza",
+    "group": "italian",
+    "origin": "ba",
+    "destination": "mendoza",
+    "start": 1880,
+    "end": 1960,
+    "title": "Buenos Aires → Mendoza",
+    "description": "Mendoza recibió 17.454 inmigrantes internados por el Estado entre 1894 y 1903. La expansión vitivinícola atrajo trabajadores, técnicos y empresarios. No todos ingresaron por Buenos Aires.",
+    "sources": [
+      "cuyo",
+      "wine",
+      "stlouis"
+    ],
+    "layer": "interior",
+    "evidence": "Conexión regional",
+    "via": [],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "ba-cordoba",
+    "group": "spanish",
+    "origin": "ba",
+    "destination": "cordoba",
+    "start": 1880,
+    "end": 1960,
+    "title": "Buenos Aires → Córdoba",
+    "description": "Córdoba fue el tercer destino del traslado estatal, con 28.498 personas entre 1894 y 1903. La inserción incluyó colonias del sudeste provincial, oficios urbanos y comercio.",
+    "sources": [
+      "perez",
+      "integration",
+      "stlouis"
+    ],
+    "layer": "interior",
+    "evidence": "Conexión regional",
+    "via": [],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "ba-tandil",
+    "group": "french",
+    "origin": "ba",
+    "destination": "tandil",
+    "start": 1850,
+    "end": 1913,
+    "title": "Buenos Aires → Tandil",
+    "description": "Tandil es un caso de estudio de redes e integración de inmigrantes franceses. La línea es una relación entre lugares y no el viaje individual de todas las familias.",
+    "sources": [
+      "otero"
+    ],
+    "layer": "interior",
+    "evidence": "Conexión regional",
+    "via": [],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "ba-esperanza",
+    "group": "swiss",
+    "origin": "ba",
+    "destination": "esperanza",
+    "start": 1856,
+    "end": 1913,
+    "title": "Hacia las colonias santafesinas",
+    "description": "La colonización articuló proyectos públicos y privados. Buenos Aires funciona aquí como referencia de entrada; el trazado no identifica las escalas de cada contingente de Esperanza.",
+    "sources": [
+      "esperanza",
+      "law"
+    ],
+    "layer": "interior",
+    "evidence": "Conexión regional",
+    "via": [],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "ba-moises",
+    "group": "jewish",
+    "origin": "ba",
+    "destination": "moises",
+    "start": 1889,
+    "end": 1929,
+    "title": "Buenos Aires → Moisés Ville",
+    "description": "Moisés Ville recibió su primer grupo de familias en 1889. Las colonias judías ofrecieron un proyecto agrícola, instituciones y nuevas relaciones con el espacio rural argentino.",
+    "sources": [
+      "jewish",
+      "jca"
+    ],
+    "layer": "interior",
+    "evidence": "Conexión regional",
+    "via": [],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "ba-apostoles",
+    "group": "eastern",
+    "origin": "ba",
+    "destination": "apostoles",
+    "start": 1897,
+    "end": 1929,
+    "title": "Buenos Aires → Apóstoles",
+    "description": "La llegada a Misiones requirió una segunda etapa de desplazamiento. El mapa no reproduce todas las escalas fluviales o terrestres del contingente de 1897.",
+    "sources": [
+      "apostoles",
+      "galitzia"
+    ],
+    "layer": "interior",
+    "evidence": "Conexión regional",
+    "via": [],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "ba-eldorado",
+    "group": "german",
+    "origin": "ba",
+    "destination": "eldorado",
+    "start": 1919,
+    "end": 1960,
+    "title": "Hacia las colonias de Misiones",
+    "description": "Esquema de redistribución hacia un espacio de colonización. No agota los circuitos que pasaron por Brasil y otros territorios sudamericanos.",
+    "sources": [
+      "misiones"
+    ],
+    "layer": "interior",
+    "evidence": "Conexión regional",
+    "via": [],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "madryn-gaiman",
+    "group": "welsh",
+    "origin": "madryn",
+    "destination": "gaiman",
+    "start": 1865,
+    "end": 1913,
+    "title": "Golfo Nuevo → valle del Chubut",
+    "description": "El desembarco y el asentamiento agrícola fueron etapas diferentes. La relación entre los lugares ayuda a distinguir el punto de llegada marítima del espacio donde se organizó la colonia.",
+    "sources": [
+      "mimosa",
+      "mimosamuseum"
+    ],
+    "layer": "interior",
+    "evidence": "Conexión regional",
+    "via": [],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "ba-genoa-return",
+    "group": "italian",
+    "origin": "ba",
+    "destination": "genoa",
+    "start": 1880,
+    "end": 1929,
+    "title": "El regreso a Italia",
+    "description": "Entre 1857 y 1924 se anotaron 1.292.789 salidas de italianos, casi la mitad de las entradas. En 1891 y entre 1914 y 1918 las salidas superaron a las llegadas. La estadística no dice quién volvía por haber cumplido su plan y quién por haber fracasado.",
+    "sources": [
+      "journey",
+      "droller",
+      "willcox"
+    ],
+    "layer": "return",
+    "evidence": "Corriente histórica",
+    "via": [
+      [
+        -50,
+        -30
+      ],
+      [
+        -40,
+        -20
+      ],
+      [
+        -33,
+        -7
+      ],
+      [
+        -25,
+        8
+      ],
+      [
+        -14,
+        28
+      ],
+      [
+        -5.7,
+        35.9
+      ],
+      [
+        4,
+        39
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "ba-vigo-return",
+    "group": "spanish",
+    "origin": "ba",
+    "destination": "vigo",
+    "start": 1880,
+    "end": 1960,
+    "title": "El regreso a España",
+    "description": "Se anotaron 756.262 salidas de españoles hasta 1924, el 42 % de las entradas. En 1914 salieron 77.646 y entraron 52.186. Parte de quienes volvían cruzó de nuevo más tarde, y cada cruce cuenta como un movimiento.",
+    "sources": [
+      "moya",
+      "journey",
+      "willcox"
+    ],
+    "layer": "return",
+    "evidence": "Corriente histórica",
+    "via": [
+      [
+        -52,
+        -33
+      ],
+      [
+        -43,
+        -25
+      ],
+      [
+        -35,
+        -10
+      ],
+      [
+        -28,
+        5
+      ],
+      [
+        -19,
+        22
+      ],
+      [
+        -12,
+        38
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "genoa-ny",
+    "group": "global",
+    "origin": "genoa",
+    "destination": "ny",
+    "start": 1870,
+    "end": 1914,
+    "title": "Otra América · Nueva York",
+    "description": "La comparación de Baily estudia italianos en Buenos Aires y Nueva York. La ruta muestra una alternativa dentro del sistema atlántico; no implica que quienes viajaron a Nueva York pasaran por Argentina.",
+    "sources": [
+      "baily"
+    ],
+    "layer": "context",
+    "evidence": "Corriente histórica",
+    "via": [
+      [
+        4,
+        39
+      ],
+      [
+        -6,
+        36
+      ],
+      [
+        -20,
+        36
+      ],
+      [
+        -45,
+        39
+      ],
+      [
+        -65,
+        40
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "genoa-santos",
+    "group": "global",
+    "origin": "genoa",
+    "destination": "santos",
+    "start": 1888,
+    "end": 1960,
+    "title": "Otra América · Santos",
+    "description": "El acervo del Museu da Imigração conserva listas de buques con desembarque previsto en Santos. Génova funciona como puerto europeo representativo; no es la procedencia exclusiva del conjunto documental.",
+    "sources": [
+      "santos"
+    ],
+    "layer": "context",
+    "evidence": "Corriente histórica",
+    "via": [
+      [
+        4,
+        39
+      ],
+      [
+        -5.7,
+        35.9
+      ],
+      [
+        -14,
+        28
+      ],
+      [
+        -25,
+        8
+      ],
+      [
+        -33,
+        -7
+      ],
+      [
+        -40,
+        -20
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "liverpool-halifax",
+    "group": "global",
+    "origin": "liverpool",
+    "destination": "halifax",
+    "start": 1946,
+    "end": 1960,
+    "title": "Posguerra · Halifax",
+    "description": "Pier 21 fue un lugar de recepción de migrantes y desplazados europeos. Liverpool es un punto de referencia británico en este esquema comparativo, no el puerto de todos los pasajeros.",
+    "sources": [
+      "canada"
+    ],
+    "layer": "context",
+    "evidence": "Corriente histórica",
+    "via": [
+      [
+        -10,
+        52
+      ],
+      [
+        -30,
+        49
+      ],
+      [
+        -48,
+        47
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "london-sydney",
+    "group": "global",
+    "origin": "london",
+    "destination": "sydney",
+    "start": 1946,
+    "end": 1960,
+    "title": "Posguerra · Australia",
+    "description": "El museo marítimo australiano documenta acuerdos y pasajes asistidos de posguerra. Esta conexión mundial muestra origen y destino generales; la guía por el océano no representa una ruta de un buque ni una elección entre Suez y el Cabo.",
+    "sources": [
+      "australia"
+    ],
+    "layer": "context",
+    "evidence": "Corriente histórica",
+    "via": [
+      [
+        -5,
+        50
+      ],
+      [
+        -15,
+        30
+      ],
+      [
+        -20,
+        0
+      ],
+      [
+        10,
+        -35
+      ],
+      [
+        45,
+        -40
+      ],
+      [
+        90,
+        -42
+      ],
+      [
+        130,
+        -40
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual, no escalas verificadas. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma servicio continuo ni viajes en cada año."
+  },
+  {
+    "id": "ireland-ba",
+    "group": "irish",
+    "origin": "ireland",
+    "destination": "ba",
+    "start": 1850,
+    "end": 1889,
+    "title": "Irlanda → Buenos Aires",
+    "description": "La cría ovina atrajo a familias de Westmeath, Longford y Wexford desde la década de 1840. De 6.447 irlandeses con puerto conocido, el 54 % embarcó en Liverpool y el 28 % en Queenstown. Las estimaciones del total van de 10.500 radicados a más de 40.000 emigrados con la mitad de reemigración.",
+    "sources": [
+      "irish",
+      "irishtravel"
+    ],
+    "layer": "arrival",
+    "evidence": "Origen y asentamiento",
+    "via": [
+      [
+        -8.29,
+        51.85
+      ],
+      [
+        -2.98,
+        53.408
+      ],
+      [
+        -6,
+        52
+      ],
+      [
+        -12,
+        42
+      ],
+      [
+        -19,
+        25
+      ],
+      [
+        -28,
+        5
+      ],
+      [
+        -35,
+        -10
+      ],
+      [
+        -43,
+        -25
+      ],
+      [
+        -52,
+        -33
+      ]
+    ],
+    "geometryNote": "Los dos puertos marcados son los más frecuentes en los registros, no una escala sucesiva de un mismo viaje. Curva esquemática, sin escala de volumen.",
+    "dateNote": "Intervalo editorial para una corriente histórica; no representa viajes continuos.",
+    "stops": [
+      "queenstown",
+      "liverpool"
+    ]
+  },
+  {
+    "id": "volga-vallemaria",
+    "group": "volga",
+    "origin": "volga",
+    "destination": "vallemaria",
+    "start": 1878,
+    "end": 1913,
+    "title": "Del Volga a las aldeas entrerrianas",
+    "description": "El establecimiento de colonias en 1878 es un hito documentado. La línea conecta regiones; no presupone un puerto ruso común ni reproduce los transbordos europeos de los colonos.",
+    "sources": [
+      "volga"
+    ],
+    "layer": "arrival",
+    "evidence": "Origen y asentamiento",
+    "via": [
+      [
+        -8,
+        48
+      ],
+      [
+        -18,
+        28
+      ],
+      [
+        -30,
+        5
+      ],
+      [
+        -40,
+        -22
+      ],
+      [
+        -53,
+        -33
+      ]
+    ],
+    "geometryNote": "Origen y asentamiento documentados; puntos intermedios exclusivamente esquemáticos. Sin identificación de puertos individuales ni escala de volumen.",
+    "dateNote": "Intervalo editorial para una corriente histórica; no representa viajes continuos."
+  },
+  {
+    "id": "denmark-tandil",
+    "group": "danish",
+    "origin": "denmark",
+    "destination": "tandil",
+    "start": 1850,
+    "end": 1929,
+    "title": "Dinamarca → Tandil",
+    "description": "Una conexión entre región de origen y asentamiento estudiada por la historia migratoria. No dibuja la vía exacta de salida de cada familia danesa.",
+    "sources": [
+      "danish"
+    ],
+    "layer": "arrival",
+    "evidence": "Origen y asentamiento",
+    "via": [
+      [
+        -8,
+        48
+      ],
+      [
+        -18,
+        28
+      ],
+      [
+        -30,
+        5
+      ],
+      [
+        -40,
+        -22
+      ],
+      [
+        -53,
+        -33
+      ]
+    ],
+    "geometryNote": "Origen y asentamiento documentados; puntos intermedios exclusivamente esquemáticos. Sin identificación de puertos individuales ni escala de volumen.",
+    "dateNote": "Intervalo editorial para una corriente histórica; no representa viajes continuos."
+  },
+  {
+    "id": "weser",
+    "group": "jewish",
+    "origin": "bremen",
+    "destination": "ba",
+    "start": 1889,
+    "end": 1889,
+    "title": "Weser · Bremen → Buenos Aires",
+    "description": "El vapor Weser zarpó de Bremen en julio de 1889 con familias judías de Podolia, en el Imperio ruso. Ancló en Buenos Aires el 14 de agosto y los pasajeros recién pudieron desembarcar el 17. Javier Sinay cuenta 824 personas en 136 familias, y advierte que otros recuentos dan entre 88 y 130 familias. Las tierras prometidas estaban ocupadas. El 28 de agosto firmaron un contrato con Pedro Palacios por lotes de 25 hectáreas en Santa Fe, donde nació Moisés Ville.",
+    "sources": [
+      "sinay",
+      "jewish"
+    ],
+    "layer": "arrival",
+    "evidence": "Viaje documentado",
+    "via": [
+      [
+        7.5,
+        54.2
+      ],
+      [
+        2.5,
+        52
+      ],
+      [
+        -5,
+        49.5
+      ],
+      [
+        -12,
+        42
+      ],
+      [
+        -19,
+        25
+      ],
+      [
+        -28,
+        5
+      ],
+      [
+        -35,
+        -10
+      ],
+      [
+        -43,
+        -25
+      ],
+      [
+        -52,
+        -33.5
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual y no reproducen el derrotero. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Llegada a Buenos Aires: 14/08/1889. Desembarco: 17/08/1889. Sin derrotero náutico."
+  },
+  {
+    "id": "volga-hinojo",
+    "group": "volga",
+    "origin": "volga",
+    "destination": "hinojo",
+    "start": 1878,
+    "end": 1878,
+    "title": "Del Volga a Hinojo",
+    "description": "En agosto de 1877 cuatro delegados de un grupo establecido en el sur de Brasil negociaron en Buenos Aires con el ministro Bernardo de Irigoyen. Pedían tierra apta para trigo, exención del servicio militar, libertad de culto y escuela en alemán. El primer grupo, ocho familias y tres solteros, llegó a Buenos Aires el 24 de diciembre de 1877. Viajó en tren hasta Azul y en carretas hasta el arroyo Hinojo, adonde llegó el 5 de enero de 1878.",
+    "sources": [
+      "volgacenter",
+      "volga"
+    ],
+    "layer": "arrival",
+    "evidence": "Contingente documentado",
+    "via": [
+      [
+        -8,
+        48
+      ],
+      [
+        -18,
+        28
+      ],
+      [
+        -30,
+        5
+      ],
+      [
+        -40,
+        -22
+      ],
+      [
+        -53,
+        -33
+      ],
+      [
+        -58.38,
+        -34.6
+      ],
+      [
+        -59.86,
+        -36.78
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual y no reproducen el derrotero. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Llegada a Buenos Aires: 24/12/1877. Llegada a Hinojo: 05/01/1878. La línea no reproduce la salida de Rusia ni el paso previo por Brasil de otros grupos."
+  },
+  {
+    "id": "aveyron-pigue",
+    "group": "french",
+    "origin": "aveyron",
+    "destination": "pigüé",
+    "start": 1884,
+    "end": 1884,
+    "title": "Del Aveyron a Pigüé",
+    "description": "Clément Cabanettes y François Issaly reunieron a unas cuarenta familias del Aveyron. El grupo salió de Rodez el 23 de octubre de 1884, embarcó en Burdeos y llegó a la estación de Pigüé el 3 de diciembre. La fundación se conmemora el 4. Los relatos difieren en el recuento: unos hablan de cuarenta familias y otros de 162 personas. Entre los colonos había agricultores, albañiles, un herrero, un maestro y un sacerdote.",
+    "sources": [
+      "pigue",
+      "otero"
+    ],
+    "layer": "arrival",
+    "evidence": "Contingente documentado",
+    "via": [
+      [
+        -0.58,
+        44.84
+      ],
+      [
+        -12,
+        38
+      ],
+      [
+        -19,
+        22
+      ],
+      [
+        -28,
+        5
+      ],
+      [
+        -35,
+        -10
+      ],
+      [
+        -43,
+        -25
+      ],
+      [
+        -52,
+        -33
+      ],
+      [
+        -58.38,
+        -34.6
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual y no reproducen el derrotero. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Salida de Rodez: 23/10/1884. Llegada a Pigüé: 03/12/1884.",
+    "stops": [
+      "bordeaux",
+      "ba"
+    ]
+  },
+  {
+    "id": "valais-sanjose",
+    "group": "swiss",
+    "origin": "valais",
+    "destination": "sanjose",
+    "start": 1857,
+    "end": 1857,
+    "title": "Del Valais a San José",
+    "description": "Unos 530 colonos del Valais, con familias de Saboya y del Piamonte, viajaban hacia Corrientes con un contrato que el gobierno provincial no cumplió. Recurrieron a Justo José de Urquiza, que los instaló en sus campos. La fundación se fecha el 2 de julio de 1857 y Alejo Peyret quedó a cargo de la administración. En el censo de 1869 el 14,7 % de la colonia había nacido en el Piamonte.",
+    "sources": [
+      "sanjose"
+    ],
+    "layer": "arrival",
+    "evidence": "Contingente documentado",
+    "via": [
+      [
+        2,
+        44
+      ],
+      [
+        -7,
+        38
+      ],
+      [
+        -19,
+        22
+      ],
+      [
+        -28,
+        5
+      ],
+      [
+        -35,
+        -10
+      ],
+      [
+        -43,
+        -25
+      ],
+      [
+        -52,
+        -33
+      ],
+      [
+        -58,
+        -34
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual y no reproducen el derrotero. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Fundación: 02/07/1857. El puerto de embarque no se reconstruye."
+  },
+  {
+    "id": "friuli-caroya",
+    "group": "italian",
+    "origin": "friuli",
+    "destination": "caroya",
+    "start": 1878,
+    "end": 1878,
+    "title": "Del Friuli a Colonia Caroya",
+    "description": "Una ley de 1876 creó la colonia nacional en tierras de la antigua estancia jesuítica de Caroya, en Córdoba. Las familias friulanas llegaron en 1878 y se alojaron primero en la propia estancia. La historia local habla de 295 personas, cerca de cien familias, y da el 15 de marzo como fecha de llegada. Otras versiones sitúan el desembarco en Buenos Aires en enero y reparten el contingente entre Santa Fe, Chaco y Córdoba.",
+    "sources": [
+      "caroya",
+      "law"
+    ],
+    "layer": "arrival",
+    "evidence": "Contingente documentado",
+    "via": [
+      [
+        8.9,
+        44.4
+      ],
+      [
+        4,
+        39
+      ],
+      [
+        -5.7,
+        35.9
+      ],
+      [
+        -14,
+        28
+      ],
+      [
+        -25,
+        8
+      ],
+      [
+        -33,
+        -7
+      ],
+      [
+        -40,
+        -20
+      ],
+      [
+        -50,
+        -30
+      ],
+      [
+        -58.38,
+        -34.6
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual y no reproducen el derrotero. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Año de llegada: 1878. Día y recuento discutidos entre relatos.",
+    "stops": [
+      "ba"
+    ]
+  },
+  {
+    "id": "netherlands-tresarroyos",
+    "group": "dutch",
+    "origin": "netherlands",
+    "destination": "tresarroyos",
+    "start": 1889,
+    "end": 1889,
+    "title": "De Frisia a Tres Arroyos",
+    "description": "En 1889 familias de Frisia y Groninga llegaron a Tres Arroyos con los pasajes que el Estado adelantaba ese año. La serie oficial registra 4.007 neerlandeses en 1889 y 395 en 1890. Parte del grupo regresó después de la crisis. Quienes quedaron formaron la comunidad neerlandesa más numerosa del país.",
+    "sources": [
+      "dutch",
+      "willcox",
+      "bunge"
+    ],
+    "layer": "arrival",
+    "evidence": "Contingente documentado",
+    "via": [
+      [
+        2.5,
+        52
+      ],
+      [
+        -5,
+        49.5
+      ],
+      [
+        -12,
+        42
+      ],
+      [
+        -19,
+        25
+      ],
+      [
+        -28,
+        5
+      ],
+      [
+        -35,
+        -10
+      ],
+      [
+        -43,
+        -25
+      ],
+      [
+        -55,
+        -36
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual y no reproducen el derrotero. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Año de llegada: 1889."
+  },
+  {
+    "id": "sirio",
+    "group": "italian",
+    "origin": "genoa",
+    "destination": "cabopalos",
+    "start": 1906,
+    "end": 1906,
+    "title": "Sirio · el naufragio de 1906",
+    "description": "El vapor Sirio salió de Génova el 2 de agosto de 1906 con emigrantes hacia Brasil, Uruguay y Argentina. El 4 de agosto encalló en los bajos de Cabo de Palos, en la costa de Murcia. Las fuentes difieren sobre las víctimas, entre unas 400 y 500 personas, porque el barco llevaba pasajeros sin registrar. Fue el mayor desastre de la emigración italiana al Plata y nunca llegó a destino.",
+    "sources": [
+      "sirio"
+    ],
+    "layer": "arrival",
+    "evidence": "Viaje documentado",
+    "via": [
+      [
+        6.5,
+        42.6
+      ],
+      [
+        3.4,
+        41.2
+      ],
+      [
+        1.2,
+        39.4
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual y no reproducen el derrotero. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Salida: 02/08/1906. Naufragio: 04/08/1906. El viaje terminó frente a Cabo de Palos."
+  },
+  {
+    "id": "asturias",
+    "group": "spanish",
+    "origin": "barcelona",
+    "destination": "ilhabela",
+    "start": 1916,
+    "end": 1916,
+    "title": "Príncipe de Asturias · 1916",
+    "description": "El vapor español zarpó de Barcelona el 17 de febrero de 1916 hacia Buenos Aires con unas 600 personas. En la madrugada del 5 de marzo chocó contra los arrecifes frente a Ilhabela, en la costa de San Pablo. Las crónicas cuentan menos de 150 sobrevivientes. Viajaba en plena guerra, cuando las llegadas españolas a Argentina habían caído a 21.768 en el año.",
+    "sources": [
+      "asturias",
+      "willcox"
+    ],
+    "layer": "arrival",
+    "evidence": "Viaje documentado",
+    "via": [
+      [
+        0,
+        38
+      ],
+      [
+        -5.7,
+        35.9
+      ],
+      [
+        -14,
+        28
+      ],
+      [
+        -25,
+        8
+      ],
+      [
+        -33,
+        -7
+      ],
+      [
+        -40,
+        -20
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual y no reproducen el derrotero. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Salida: 17/02/1916. Naufragio: 05/03/1916. El viaje terminó frente a Ilhabela."
+  },
+  {
+    "id": "golondrinas",
+    "group": "italian",
+    "origin": "ba",
+    "destination": "genoa",
+    "start": 1904,
+    "end": 1913,
+    "title": "Golondrinas · cosecha y regreso",
+    "description": "Bunge y García Mata describen una «inmigración flotante» de trabajadores europeos que llegaban entre octubre y diciembre, levantaban la cosecha y volvían en mayo o junio con sus ahorros. La estiman entre 50.000 y 70.000 personas por temporada, sobre todo entre 1907 y 1913, cuando la competencia entre navieras abarató el pasaje. Desapareció en 1914. Explica parte de las salidas: en 1913 se anotaron 156.829.",
+    "sources": [
+      "bunge",
+      "willcox"
+    ],
+    "layer": "return",
+    "evidence": "Corriente estacional",
+    "via": [
+      [
+        -50,
+        -30
+      ],
+      [
+        -40,
+        -20
+      ],
+      [
+        -33,
+        -7
+      ],
+      [
+        -25,
+        8
+      ],
+      [
+        -14,
+        28
+      ],
+      [
+        -5.7,
+        35.9
+      ],
+      [
+        4,
+        39
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual y no reproducen el derrotero. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Fenómeno concentrado entre 1907 y 1913 según Bunge y García Mata. La línea representa el regreso de otoño; no identifica un puerto exclusivo."
+  },
+  {
+    "id": "ba-hinojo",
+    "group": "volga",
+    "origin": "ba",
+    "destination": "hinojo",
+    "start": 1878,
+    "end": 1913,
+    "title": "Buenos Aires → Azul → Hinojo",
+    "description": "El primer grupo viajó en tren hasta Azul y recorrió en carretas de bueyes los últimos 35 kilómetros. La colonia Olavarría sumó después las aldeas de Nievas y San Miguel.",
+    "sources": [
+      "volgacenter"
+    ],
+    "layer": "interior",
+    "evidence": "Conexión regional",
+    "via": [
+      [
+        -59.86,
+        -36.78
+      ]
+    ],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual y no reproducen el derrotero. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma viajes en cada año."
+  },
+  {
+    "id": "ba-caroya",
+    "group": "italian",
+    "origin": "ba",
+    "destination": "caroya",
+    "start": 1878,
+    "end": 1913,
+    "title": "Buenos Aires → Colonia Caroya",
+    "description": "Tras esperar en el Hotel de Inmigrantes, el grupo destinado a Córdoba viajó en tren a fines del verano de 1878.",
+    "sources": [
+      "caroya"
+    ],
+    "layer": "interior",
+    "evidence": "Conexión regional",
+    "via": [],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual y no reproducen el derrotero. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma viajes en cada año."
+  },
+  {
+    "id": "ba-pigue",
+    "group": "french",
+    "origin": "ba",
+    "destination": "pigüé",
+    "start": 1884,
+    "end": 1913,
+    "title": "Buenos Aires → Pigüé",
+    "description": "El Ferrocarril del Sud había llegado a la zona ese mismo año. Los colonos del Aveyron bajaron en una estación recién abierta.",
+    "sources": [
+      "pigue"
+    ],
+    "layer": "interior",
+    "evidence": "Conexión regional",
+    "via": [],
+    "geometryNote": "Conexión esquemática entre lugares documentados. Los puntos intermedios son una guía visual y no reproducen el derrotero. El grosor y la animación no representan volumen ni velocidad.",
+    "dateNote": "Ventana histórica orientativa de la corriente; no afirma viajes en cada año."
+  }
+]

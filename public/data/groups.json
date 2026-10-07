@@ -1,0 +1,175 @@
+[
+  {
+    "id": "italian",
+    "name": "Italianos",
+    "color": "#c86645",
+    "summary": "Una corriente enorme, muchas regiones de origen.",
+    "detail": "Las pertenencias locales, los oficios y las redes importaban tanto como la nacionalidad. Buenos Aires y la región pampeana concentraron llegadas, pero también hubo inserción en economías como la vitivinicultura cuyana. Las diferencias con quienes emigraron a Estados Unidos permiten estudiar el peso del destino. La estadística argentina anotó 2.604.029 entradas y 1.292.789 salidas de italianos entre 1857 y 1924. Hasta 1870 eran cerca del 70 % de las llegadas. Después de 1945 Italia registró 346.153 salidas hacia Argentina en seis años.",
+    "sources": [
+      "baily",
+      "language",
+      "cuyo",
+      "willcox",
+      "scarzanella"
+    ]
+  },
+  {
+    "id": "spanish",
+    "name": "Españoles",
+    "color": "#b59b46",
+    "summary": "Familias y asociaciones a ambos lados del océano.",
+    "detail": "La migración española del siglo XIX y XX es distinta de la colonización imperial. Galicia, Asturias, el País Vasco, Cataluña y otras regiones tuvieron redes propias. La denominación cotidiana «gallego» no equivale a un origen comprobado. La ayuda familiar podía orientar destino, alojamiento y ocupación. Entre 1857 y 1924 se anotaron 1.780.295 entradas y 756.262 salidas. Desde 1908 las llegadas españolas superaron a las italianas casi todos los años hasta la guerra. Los estudios sitúan a los gallegos entre el 45 % y el 55 % del total.",
+    "sources": [
+      "moya",
+      "galicianwomen",
+      "willcox",
+      "farias"
+    ]
+  },
+  {
+    "id": "french",
+    "name": "Franceses",
+    "color": "#748c69",
+    "summary": "Una presencia que excede la influencia cultural.",
+    "detail": "Artesanos, comerciantes y familias rurales integraron una corriente con fuerte componente regional. Tandil y las colonias agrícolas ayudan a mirar fuera de Buenos Aires. La investigación de Otero permite separar una cultura francesa admirada por las élites de las experiencias concretas de inmigrantes. Fueron 226.894 entradas y 120.258 salidas entre 1857 y 1924. En los tres años de pasajes subsidiados, de 1888 a 1890, llegaron unos 61.000.",
+    "sources": [
+      "otero",
+      "subsidy",
+      "willcox",
+      "bunge",
+      "pigue"
+    ]
+  },
+  {
+    "id": "swiss",
+    "name": "Suizos y colonias",
+    "color": "#849b9e",
+    "summary": "Colonización, lenguas y religiones diversas.",
+    "detail": "Esperanza recibió familias de varios orígenes en 1856. Las divisiones lingüísticas y religiosas coexistieron con actividades agrícolas y artesanales. El asentamiento está documentado; las conexiones con Suiza en este atlas no atribuyen a todas las familias un mismo puerto de embarque. La serie oficial cuenta 37.017 entradas de suizos entre 1857 y 1924. San José, en Entre Ríos, recibió en 1857 a colonos del Valais.",
+    "sources": [
+      "esperanza",
+      "willcox",
+      "sanjose"
+    ]
+  },
+  {
+    "id": "german",
+    "name": "Germanohablantes",
+    "color": "#7c7f9f",
+    "summary": "La lengua no identifica un único Estado de origen.",
+    "detail": "Alemanes, austríacos y germanohablantes de otras soberanías no son una categoría estadística intercambiable. En Misiones hubo circuitos de colonización con etapas intermedias sudamericanas. La nacionalidad de un pasaporte debe leerse dentro de las fronteras de su momento. La serie oficial cuenta 100.699 entradas de alemanes entre 1857 y 1924, con un salto en la década de 1920: más de 10.000 por año en 1923 y 1924.",
+    "sources": [
+      "misiones",
+      "devoto",
+      "willcox"
+    ]
+  },
+  {
+    "id": "eastern",
+    "name": "Europa centro-oriental",
+    "color": "#937191",
+    "summary": "Imperios, nuevas fronteras y colonias.",
+    "detail": "La Galitzia de fines del siglo XIX pertenecía al Imperio austrohúngaro. Sus habitantes podían identificarse de maneras que no coinciden con la nacionalidad anotada al desembarcar. Apóstoles recibió un contingente polaco y ucraniano en 1897. El punto europeo es regional, no el domicilio de cada familia. En la estadística portuaria aparecen como «austrohúngaros» (91.869 entradas hasta 1924), «rusos» (169.257) y, desde 1915, «polacos» y «yugoslavos».",
+    "sources": [
+      "galitzia",
+      "apostoles",
+      "willcox"
+    ]
+  },
+  {
+    "id": "jewish",
+    "name": "Judíos europeos",
+    "color": "#598f95",
+    "summary": "Una historia de colonización y de refugio.",
+    "detail": "Identidad judía y nacionalidad son variables distintas. La colonización rural, las instituciones urbanas y las fugas de la persecución pertenecen a momentos diferentes. Moisés Ville es un hito de 1889; el ingreso posterior de refugiados encontró restricciones. No se suman «judíos» e «italianos» como categorías excluyentes. El Weser llegó el 14 de agosto de 1889 con unas 824 personas de Podolia. Entre 1933 y 1943 el Estado admitió oficialmente a unos 24.000 refugiados judíos y otros 20.000 entraron de forma irregular, según el USHMM.",
+    "sources": [
+      "jewish",
+      "jca",
+      "circular",
+      "sinay",
+      "ushmm"
+    ]
+  },
+  {
+    "id": "welsh",
+    "name": "Galeses",
+    "color": "#5e8e77",
+    "summary": "Un viaje concreto hacia Patagonia.",
+    "detail": "El Mimosa salió de Liverpool el 28 de mayo de 1865 hacia Golfo Nuevo. Los documentos conservan nombres y billetes. La bibliografía ofrece recuentos de pasajeros ligeramente distintos; aquí no se adjudica una cifra única. Los primeros pobladores incluían trabajadores industriales, no solamente agricultores. Unos 150 pasajeros, en su mayoría de zonas mineras como Mountain Ash y Aberdare. Llegaron a Golfo Nuevo la noche del 26 de julio de 1865.",
+    "sources": [
+      "mimosa",
+      "mimosaticket",
+      "mimosamuseum"
+    ]
+  },
+  {
+    "id": "exile",
+    "name": "Exilio republicano",
+    "color": "#aa6e79",
+    "summary": "Salir de España no garantizaba entrar a Argentina.",
+    "detail": "La derrota republicana produjo un exilio con escalas y destinos diversos. El Massilia representa un viaje estudiado de 1939. Las redes culturales y familiares ayudaron, pero los visados y las disposiciones administrativas podían impedir el desembarco. No toda la inmigración española fue exilio. El Massilia zarpó de La Rochelle el 19 de octubre de 1939 y llegó a Buenos Aires el 5 de noviembre.",
+    "sources": [
+      "massilia",
+      "exile"
+    ]
+  },
+  {
+    "id": "irish",
+    "name": "Irlandeses",
+    "color": "#638a55",
+    "summary": "Redes rurales en la expansión lanar.",
+    "detail": "La cría ovina articuló oportunidades, contratos y redes de trabajo. La historia irlandesa no se reduce al propietario exitoso: hubo empleados, arrendatarios y movilidad. El punto europeo representa una región de procedencia, no un puerto ni una identidad británica uniforme. Las estimaciones van de 10.500 a 11.500 radicados (Sabato y Korol) hasta 40.000 o 45.000 emigrados con la mitad de reemigración (McKenna). Westmeath aporta el 43 % de los orígenes documentados.",
+    "sources": [
+      "irish",
+      "irishtravel"
+    ]
+  },
+  {
+    "id": "volga",
+    "name": "Alemanes del Volga",
+    "color": "#987b59",
+    "summary": "Una migración dentro de otra migración.",
+    "detail": "Una comunidad de lengua alemana establecida en el Imperio ruso volvió a desplazarse. Las aldeas entrerrianas de 1878 permiten distinguir lengua, soberanía y lugar de procedencia. «Ruso» en un registro no basta para deducir lengua o pertenencia étnica. El primer grupo llegó a Buenos Aires el 24 de diciembre de 1877 y fundó Hinojo el 5 de enero de 1878. A fines de ese año había 1.003 colonos en Entre Ríos, 379 en Buenos Aires y 152 en Santa Fe.",
+    "sources": [
+      "volga",
+      "volgacenter"
+    ]
+  },
+  {
+    "id": "danish",
+    "name": "Daneses",
+    "color": "#777f61",
+    "summary": "Una concentración local en el sudeste bonaerense.",
+    "detail": "La experiencia danesa en torno de Tandil muestra el peso de redes e instituciones en contingentes menores. Su visibilidad local no debe convertirse en una proporción nacional. La conexión dibujada une región de origen y zona de asentamiento sin atribuir una travesía común a todas las familias. La serie oficial cuenta 12.896 entradas de daneses entre 1857 y 1924 y solo 3.869 salidas, una de las relaciones más bajas.",
+    "sources": [
+      "danish",
+      "willcox"
+    ]
+  },
+  {
+    "id": "dutch",
+    "name": "Neerlandeses y belgas",
+    "color": "#b0855a",
+    "summary": "El año de los pasajes subsidiados.",
+    "detail": "En 1889 el Estado argentino adelantó pasajes a unas 100.000 personas. La serie oficial muestra el efecto en orígenes poco habituales: 4.007 neerlandeses frente a 68 el año anterior, y 8.666 belgas frente a 3.201. Tres Arroyos recibió familias de Frisia y Groninga. Varias regresaron tras la crisis de 1890. En total se anotaron 8.751 entradas de neerlandeses y 24.142 de belgas entre 1857 y 1924.",
+    "sources": [
+      "willcox",
+      "bunge",
+      "dutch"
+    ]
+  },
+  {
+    "id": "global",
+    "name": "Otros destinos",
+    "color": "#92958b",
+    "summary": "Argentina dentro de un sistema mundial.",
+    "detail": "Estados Unidos, Brasil, Canadá y Australia también recibieron migración europea. Las conexiones de contexto son ejemplos sin ponderación demográfica. Su función es mostrar alternativas, no presentar un inventario mundial exhaustivo ni itinerarios individuales. Entre 1946 y 1951 salieron de Italia 56.337 personas hacia Venezuela y 34.542 hacia Brasil, frente a 346.153 hacia Argentina.",
+    "sources": [
+      "baily",
+      "santos",
+      "canada",
+      "australia",
+      "scarzanella"
+    ]
+  }
+]

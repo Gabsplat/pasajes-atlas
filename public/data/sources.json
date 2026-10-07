@@ -1,0 +1,677 @@
+[
+  {
+    "id": "census",
+    "title": "Origen de la población, censos de 1869 a 1947",
+    "author": "Dirección Nacional de Estadística y Censos",
+    "url": "https://biblioteca.indec.gob.ar/bases/minde/1c1947_6.pdf",
+    "kind": "Fuente primaria",
+    "note": "Cuadro 9, página impresa 18. Serie retrospectiva; no incluye todas las estimaciones de población omitida.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "censushistory",
+    "title": "Historia de los censos nacionales",
+    "author": "INDEC",
+    "url": "https://censo.gob.ar/index.php/historia/",
+    "kind": "Institucional",
+    "note": "Permite distinguir población enumerada de estimaciones complementarias.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "droller",
+    "title": "The Age of Mass Migration in Argentina: Social Mobility, Effects on Growth, and Selection Patterns",
+    "author": "Federico Droller, Martín Fiszbein y Santiago Pérez · 2023",
+    "url": "https://www.bu.edu/econ/files/2023/06/DFP_Argentina_MassMig.pdf",
+    "kind": "Estudio",
+    "note": "Síntesis económica y análisis de selección por alfabetización; pp. 4–5 para movimientos brutos y netos.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "perez",
+    "title": "The (South) American Dream",
+    "author": "Santiago Pérez · 2017",
+    "url": "https://www.cambridge.org/core/journals/journal-of-economic-history/article/south-american-dream-mobility-and-economic-outcomes-of-first-and-secondgeneration-immigrants-in-nineteenthcentury-argentina/C5671D0E78620383CF940E949DA71A62",
+    "kind": "Estudio",
+    "note": "Registros longitudinales masculinos de 1869 y 1895. No representa a todas las cohortes ni a todas las mujeres.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "moya",
+    "title": "Cousins and Strangers: Spanish Immigrants in Buenos Aires, 1850–1930",
+    "author": "José C. Moya · 1998",
+    "url": "https://www.ucpress.edu/book/9780520215269/cousins-and-strangers",
+    "kind": "Bibliografía",
+    "note": "Ficha editorial consultada; obra recomendada, no presentada como lectura integral.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "baily",
+    "title": "Immigrants in the Lands of Promise",
+    "author": "Samuel L. Baily · 1999",
+    "url": "https://www.jstor.org/stable/10.7591/j.ctt1tm7jdw",
+    "kind": "Bibliografía",
+    "note": "Comparación Buenos Aires / Nueva York, 1870–1914. Ficha y descripción consultadas.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "devoto",
+    "title": "Ideas, políticas y prácticas migratorias argentinas, 1852–1950",
+    "author": "Fernando Devoto · 1999",
+    "url": "https://www.persee.fr/doc/emixx_1245-2300_1999_num_2_7_1028",
+    "kind": "Estudio",
+    "note": "",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "policy",
+    "title": "La política de inmigración argentina en la era de las migraciones masivas, 1876–1932",
+    "author": "Blanca Sánchez-Alonso · 2022",
+    "url": "https://revistas.ucm.es/index.php/HPOL/en/article/view/84163",
+    "kind": "Estudio",
+    "note": "Página del artículo y resumen; distingue intereses económicos, participación política y restricciones.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "journey",
+    "title": "El camino de los inmigrantes",
+    "author": "Museo de la Inmigración",
+    "url": "https://www.argentina.gob.ar/migraciones/museo-de-la-inmigracion/el-camino-de-los-inmigrantes",
+    "kind": "Institucional",
+    "note": "Redes, puertos, condiciones del viaje y circulación. No es una base de itinerarios de buques.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "law",
+    "title": "La legislación migratoria y la Ley 817",
+    "author": "Museo de la Inmigración",
+    "url": "https://www.argentina.gob.ar/node/138266",
+    "kind": "Institucional",
+    "note": "",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "constitution",
+    "title": "Constitución de la Nación Argentina",
+    "author": "Texto oficial · artículos 20 y 25",
+    "url": "https://www.argentina.gob.ar/normativa/nacional/804/texto",
+    "kind": "Fuente primaria",
+    "note": "",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "subsidy",
+    "title": "La inmigración subsidiada en la Argentina y la crisis económica de 1890",
+    "author": "Alejandro E. Fernández · 2018",
+    "url": "https://www.redalyc.org/journal/5798/579862687002/html/",
+    "kind": "Estudio",
+    "note": "",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "hotel",
+    "title": "El Hotel de Inmigrantes",
+    "author": "Dirección Nacional de Migraciones",
+    "url": "https://www.argentina.gob.ar/migraciones/museo-de-la-inmigracion/el-hotel",
+    "kind": "Institucional",
+    "note": "",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "esperanza",
+    "title": "Historia de Esperanza",
+    "author": "Municipalidad de Esperanza",
+    "url": "https://esperanza.gob.ar/historia/",
+    "kind": "Institucional",
+    "note": "Asentamiento de 1856 y composición de las familias. El mapa no reconstruye sus puertos individuales.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "otero",
+    "title": "La inmigración francesa en la Argentina, 1850–1914",
+    "author": "Hernán Otero",
+    "url": "https://bicyt.conicet.gov.ar/fichas/produccion/740621",
+    "kind": "Bibliografía",
+    "note": "Ficha de investigación regional; no contiene una lista nominativa de viajeros.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "jewish",
+    "title": "Moisés Ville y patrimonio de la inmigración",
+    "author": "Decreto 339/1999",
+    "url": "https://www.argentina.gob.ar/normativa/nacional/decreto-339-1999-57083/texto",
+    "kind": "Fuente primaria",
+    "note": "Asentamiento en octubre de 1889 y patrimonio posterior.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "jca",
+    "title": "Colonización judía y patrimonio de Avigdor",
+    "author": "Comisión Nacional de Monumentos",
+    "url": "https://www.argentina.gob.ar/capital-humano/cultura/monumentos/predio-que-ocupan-la-sinagoga-y-el-centro-union-israelita",
+    "kind": "Institucional",
+    "note": "",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "misiones",
+    "title": "Yerba mate y poblamiento de Misiones",
+    "author": "CONICET · investigaciones de Cecilia Gallero",
+    "url": "https://nordeste.conicet.gov.ar/la-historia-ambiental-de-misiones-como-el-cultivo-de-la-yerba-mate-configuro-el-poblamiento-provincial/",
+    "kind": "Institucional",
+    "note": "",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "apostoles",
+    "title": "La inmigración: Apóstoles",
+    "author": "Material de historia regional de Misiones",
+    "url": "https://www.misionestienehistoria.com.ar/media/pdfManual_/2023/03/14/APOSTOLES_manual.pdf",
+    "kind": "Institucional",
+    "note": "Llegada del contingente polaco y ucraniano el 27 de agosto de 1897.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "galitzia",
+    "title": "Inmigración ucraniana y colonización en Apóstoles",
+    "author": "Cámara de Diputados · proyecto 1718-D-2015",
+    "url": "https://www.hcdn.gob.ar/comisiones/permanentes/cpydhumano/proyecto.html?exp=1718-D-2015",
+    "kind": "Fuente primaria",
+    "note": "Fundamentos legislativos con referencias históricas; leer como documento conmemorativo.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "mimosa",
+    "title": "The Journey to Patagonia",
+    "author": "People’s Collection Wales",
+    "url": "https://www.peoplescollection.wales/story/378231",
+    "kind": "Archivo",
+    "note": "Documentos de pasajeros y del capitán del Mimosa; salida del 28 de mayo de 1865.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "mimosaticket",
+    "title": "Passengers’ Contract Ticket: Abraham Matthews and family",
+    "author": "National Library of Wales",
+    "url": "https://archives.library.wales/index.php/two-items-re-mimosa-and-welsh-settlement-in-patagonia?sf_culture=en",
+    "kind": "Fuente primaria",
+    "note": "Catálogo del billete Liverpool–New Bay, Patagonia, 15 de mayo de 1865.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "mimosamuseum",
+    "title": "Mimosa: registro del buque",
+    "author": "Aberdeen Maritime Museum",
+    "url": "https://emuseum.aberdeencity.gov.uk/objects/100108/mimosa",
+    "kind": "Archivo",
+    "note": "Registro del viaje Liverpool–Nueva Bay, 28/05/1865.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "cuyo",
+    "title": "Migración y vitivinicultura mendocina",
+    "author": "CONICET / INCIHUSA",
+    "url": "https://incihusa.conicet.gov.ar/expresiones-artistico-culturales-de-migrantes-bolivianos-en-la-fiesta-de-la-vendimia/",
+    "kind": "Institucional",
+    "note": "Se usa para inserción regional, no para sus cifras nacionales de llegadas.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "wine",
+    "title": "Saber hacer el vino: instituciones y agentes",
+    "author": "Florencia Rodríguez Vázquez y Patricia Barrio",
+    "url": "https://incihusa.conicet.gov.ar/saber-hacer-el-vino-instituciones-y-agentes-de-la-vitivinicultura-mendocina/",
+    "kind": "Estudio",
+    "note": "",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "land",
+    "title": "La política de tierras en la Argentina del siglo XIX",
+    "author": "CONICET · Guillermo Banzato",
+    "url": "https://laplata.conicet.gov.ar/la-politica-de-tierras-en-la-argentina-del-siglo-xix/",
+    "kind": "Institucional",
+    "note": "",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "conquest",
+    "title": "La Conquista del Desierto a partir de diferentes fuentes",
+    "author": "CONICET · Julio Vezub",
+    "url": "https://www.conicet.gov.ar/la-conquista-del-desierto-analizada-a-partir-de-diferentes-tipos-de-fuentes-2/",
+    "kind": "Institucional",
+    "note": "",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "alcorta",
+    "title": "El Grito de Alcorta",
+    "author": "Educ.ar",
+    "url": "https://www.educ.ar/recursos/117858/el-grito-de-alcorta",
+    "kind": "Institucional",
+    "note": "",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "tenants",
+    "title": "Escobas y techos: huelga de inquilinos de 1907",
+    "author": "María Pía López / Archivo General de la Nación",
+    "url": "https://www.argentina.gob.ar/node/259930",
+    "kind": "Archivo",
+    "note": "",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "women",
+    "title": "Extranjeras en la Argentina y argentinas en el extranjero",
+    "author": "María Cristina Cacopardo · 2011",
+    "url": "https://estadisticaciudad.gob.ar/pergamo/documento.php?id=PERGAMO.1.2817&recno=2817&ui=1",
+    "kind": "Bibliografía",
+    "note": "Catálogo de la obra sobre visibilidad de las mujeres migrantes.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "galicianwomen",
+    "title": "La experiencia argentina de las mujeres gallegas",
+    "author": "Pilar Cagiao Vila · Temas de patrimonio cultural 20",
+    "url": "https://buenosaires.gob.ar/areas/cultura/cpphc/archivos/libros/temas_20.pdf",
+    "kind": "Estudio",
+    "note": "Artículo incluido en el volumen Buenos Aires gallega.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "integration",
+    "title": "Inmigrantes y colonos en la provincia de Buenos Aires",
+    "author": "Universidad de Buenos Aires",
+    "url": "https://publicaciones.filo.uba.ar/sites/publicaciones.filo.uba.ar/files/Inmigrantes%20y%20colonos%20en%20la%20provincia%20de%20Buenos%20Aires_interactivo_0.pdf",
+    "kind": "Estudio",
+    "note": "",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "bertoni",
+    "title": "Patriotas, cosmopolitas y nacionalistas",
+    "author": "Lilia Ana Bertoni · 2001",
+    "url": "https://fcede.es/site/es/libros/detalles.aspx?id_libro=2763",
+    "kind": "Bibliografía",
+    "note": "Ficha editorial y argumento de la obra. Escuela, símbolos y nacionalidad.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "language",
+    "title": "Italian-Spanish Contact in Early 20th Century Argentina",
+    "author": "Juan Antonio Ennis · 2015",
+    "url": "https://www.memoria.fahce.unlp.edu.ar/art_revistas/pr.9987/pr.9987.pdf",
+    "kind": "Estudio",
+    "note": "",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "population",
+    "title": "Población, año 1, número 2",
+    "author": "Dirección Nacional de Población · 2008",
+    "url": "https://www.argentina.gob.ar/sites/default/files/poblacion_02.pdf",
+    "kind": "Institucional",
+    "note": "",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "defense",
+    "title": "Debate de la Ley 7029, Defensa Social",
+    "author": "Cámara de Diputados · 1910",
+    "url": "https://www4.hcdn.gob.ar/dependencias/dip/wdebates/Ley.07029.Debate.Defensa.Social.pdf",
+    "kind": "Fuente primaria",
+    "note": "",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "tragic",
+    "title": "Mujeres ignoradas durante casi un siglo",
+    "author": "CONICET · Vanesa Teitelbaum",
+    "url": "https://www.conicet.gov.ar/mujeres-ignoradas-durante-casi-un-siglo/",
+    "kind": "Institucional",
+    "note": "",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "exile",
+    "title": "Los intelectuales españoles en el exilio en la Argentina",
+    "author": "Universidad Nacional de Río Cuarto",
+    "url": "https://www.unrc.edu.ar/publicar/borradores/Vol7/pdf/Los%20intelectuales%20espanoles%20en%20el%20exilio%20en%20la%20Argentina%2C%20y%20las%20condiciones%20de%20insercion%20en%20su%20nueva%20realidad.pdf",
+    "kind": "Estudio",
+    "note": "",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "massilia",
+    "title": "En busca de un submarino: el Massilia",
+    "author": "Bárbara Ortuño Martínez / Casa de la Memoria La Sauceda",
+    "url": "https://www.casamemorialasauceda.es/2019/07/08/estudio-sobre-el-traslado-de-republicanos-exiliados-a-argentina-en-el-vapor-massilia-de-barbara-ortuno-segun-las-cronicas-del-periodista-constantino-del-esla/",
+    "kind": "Estudio",
+    "note": "Reconstrucción de un viaje de 1939. No se reproducen coordenadas de navegación.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "circular",
+    "title": "Derogación de la Circular 11",
+    "author": "Cancillería Argentina · 2005",
+    "url": "https://www.cancilleria.gob.ar/es/actualidad/comunicados/derogacion-de-la-circular-11",
+    "kind": "Fuente primaria",
+    "note": "",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "postwar",
+    "title": "El Estado argentino frente a la oferta inmigratoria de la segunda posguerra, 1945–1955",
+    "author": "Carolina Biernat",
+    "url": "https://bicyt.conicet.gov.ar/fichas/produccion/10153104",
+    "kind": "Bibliografía",
+    "note": "Ficha de investigación; acuerdos, selección y continuidades administrativas.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "eichmann",
+    "title": "Adolf Eichmann",
+    "author": "United States Holocaust Memorial Museum",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/adolf-eichmann",
+    "kind": "Institucional",
+    "note": "",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "afro",
+    "title": "¿Dónde está la afrodescendencia mendocina?",
+    "author": "Orlando Gabriel Morales / CONICET",
+    "url": "https://incihusa.conicet.gov.ar/donde-esta-la-afrodescendencia-mendocina/",
+    "kind": "Estudio",
+    "note": "",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "ancestry",
+    "title": "Ancestrías presentes en el ADN de los argentinos",
+    "author": "CONICET / IMBICE",
+    "url": "https://www.conicet.gov.ar/un-estudio-genetico-logro-determinar-las-ancestrias-presentes-en-el-adn-de-los-argentinos/",
+    "kind": "Institucional",
+    "note": "Las muestras genéticas no son un censo de identidades ni un porcentaje racial nacional.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "agn",
+    "title": "Consulta de antecedentes migratorios, 1882–1937",
+    "author": "Archivo General de la Nación",
+    "url": "https://www.argentina.gob.ar/interior/archivo-general-de-la-nacion/consulta-de-antecedentes-migratorios",
+    "kind": "Archivo",
+    "note": "Entradas marítimas por Buenos Aires; cobertura limitada al fondo descrito.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "records",
+    "title": "Registros históricos de inmigración",
+    "author": "Dirección Nacional de Migraciones / CEMLA",
+    "url": "https://www.argentina.gob.ar/migraciones/museo-de-la-inmigracion/registros-historicos",
+    "kind": "Archivo",
+    "note": "",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "santos",
+    "title": "Acervo de listas de pasajeros y cartas de chamada",
+    "author": "Museu da Imigração do Estado de São Paulo",
+    "url": "https://www.museudaimigracao.org.br/acervo/sobre-acervo",
+    "kind": "Archivo",
+    "note": "Listas con desembarque previsto en Santos, 1888–1965. No se asignan cifras a una ruta individual.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "usquota",
+    "title": "The Immigration Act of 1924",
+    "author": "Office of the Historian, United States",
+    "url": "https://history.state.gov/milestones/1921-1936/immigration-act",
+    "kind": "Institucional",
+    "note": "",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "canada",
+    "title": "Postwar Immigration through Pier 21",
+    "author": "Jan Raska / Canadian Museum of Immigration",
+    "url": "https://pier21.ca/blog/jan-raska-phd/postwar-immigration-through-pier-21",
+    "kind": "Estudio",
+    "note": "",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "australia",
+    "title": "Coming to belong: Australia’s immigration history",
+    "author": "Australian National Maritime Museum",
+    "url": "https://www.sea.museum/en/page/coming-to-belong-australias-immigration-history",
+    "kind": "Institucional",
+    "note": "",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "world",
+    "title": "World Atlas / Natural Earth",
+    "author": "Mike Bostock / Natural Earth",
+    "url": "https://github.com/topojson/world-atlas",
+    "kind": "Cartografía",
+    "note": "Base mundial contemporánea 1:50m, datos Natural Earth de dominio público; empaquetado ISC. No representa fronteras históricas.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "irish",
+    "title": "The Camps: Irish Immigrants in Argentina",
+    "author": "Hilda Sabato / Society for Irish Latin American Studies",
+    "url": "https://www.irlandeses.org/sabato.htm",
+    "kind": "Estudio",
+    "note": "Inserción productiva y organización comunitaria en la expansión lanar.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "irishtravel",
+    "title": "The Irish Road to South America",
+    "author": "Edmundo Murray / Society for Irish Latin American Studies",
+    "url": "https://www.irlandeses.org/road.htm",
+    "kind": "Estudio",
+    "note": "Patrones de viaje y concentración regional de los orígenes.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "volga",
+    "title": "Colonias de alemanes del Volga en Entre Ríos",
+    "author": "Cámara de Diputados de Entre Ríos · 2024",
+    "url": "https://www.hcder.gov.ar/archivosDownload/textos/E27237-03072024-o.pdf",
+    "kind": "Fuente primaria",
+    "note": "Fundamentos de un proyecto legislativo conmemorativo; establecimiento de aldeas en 1878.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "danish",
+    "title": "Inmigrantes y colonos: la experiencia danesa",
+    "author": "Volumen de estudios regionales · CONICET / UBA",
+    "url": "https://notablesdelaciencia.conicet.gov.ar/bitstream/handle/11336/108995/CONICET_Digital_Nro.7be3e8c2-8fa2-4af6-8677-2d5f679d4818_A.pdf?isAllowed=y&sequence=2",
+    "kind": "Estudio",
+    "note": "Historia de redes y asentamientos daneses en el sudeste bonaerense.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "willcox",
+    "title": "International Migrations, vol. I: Statistics. Tablas nacionales de Argentina",
+    "author": "Imre Ferenczi y Walter F. Willcox · NBER, 1929",
+    "url": "https://www.nber.org/chapters/c5136",
+    "kind": "Estadística histórica",
+    "note": "Páginas 539–547. Reproduce las series de la Dirección General de Inmigración: pasajeros extranjeros de segunda y tercera clase por vía marítima, 1857–1924, con sexo, edad, ocupación y nacionalidad. Transcripción propia, verificada contra los totales impresos.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "bunge",
+    "title": "Argentina, en International Migrations, vol. II: Interpretations",
+    "author": "Alejandro E. Bunge y Carlos García Mata · NBER, 1931",
+    "url": "https://www.nber.org/chapters/c5106",
+    "kind": "Estudio",
+    "note": "Páginas 143–160. Lectura crítica de las estadísticas oficiales, saldos por década 1857–1926, inmigración golondrina, pasajes subsidiados y datos del censo de 1914.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "stlouis",
+    "title": "The Immigration Offices and Statistics from 1857 to 1903",
+    "author": "Departamento de Inmigración, Ministerio de Agricultura · 1904",
+    "url": "https://www.gutenberg.org/ebooks/39230",
+    "kind": "Fuente primaria",
+    "note": "Folleto oficial para la Exposición de St. Louis. Incluye artículos de la Ley 817, raciones del Hotel de Inmigrantes, oficios declarados 1894–1903 e inmigrantes internados por provincia. Es un texto de propaganda estatal y hay que leerlo como tal.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "modolo",
+    "title": "Análisis histórico-demográfico de la inmigración en la Argentina del Centenario al Bicentenario",
+    "author": "Vanina Edit Modolo · Papeles de Población 22 (89), 2016",
+    "url": "https://www.redalyc.org/pdf/112/11248009008.pdf",
+    "kind": "Estudio",
+    "note": "Series censales 1869–2010 y proporción de nacidos en países limítrofes dentro de la población extranjera.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "calzini",
+    "title": "Patrones de localización de italianos y españoles en la provincia de Buenos Aires, 1869–1914",
+    "author": "Gianfranco Calzini · XVIII Jornadas AEPA, 2025",
+    "url": "https://www.aacademica.org/xviii.jornadas.aepa/2",
+    "kind": "Estudio",
+    "note": "Cuadro 1 con población total, extranjera, italiana y española de la provincia en cinco censos.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "scarzanella",
+    "title": "Italia y la emigración a América Latina: acuerdos bilaterales y participación en el CIME, 1946–1957",
+    "author": "Eugenia Scarzanella · História Unisinos 22 (2), 2018",
+    "url": "https://www.redalyc.org/journal/5798/579862687005/579862687005.pdf",
+    "kind": "Estudio",
+    "note": "Cifras ISTAT de salidas desde Italia por destino, acuerdos de 1947 y 1948, y traslados financiados por el CIME.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "ushmm",
+    "title": "El refugio en América Latina",
+    "author": "United States Holocaust Memorial Museum · Enciclopedia del Holocausto",
+    "url": "https://encyclopedia.ushmm.org/content/es/article/refuge-in-latin-america",
+    "kind": "Institucional",
+    "note": "Admisiones oficiales de refugiados judíos por país, ingresos irregulares estimados y fechas de las leyes restrictivas.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "circular11",
+    "title": "Circular 11: la historia secreta de la orden que prohibió el ingreso de judíos",
+    "author": "La Nación · 13 de julio de 2022",
+    "url": "https://www.lanacion.com.ar/lifestyle/circular-11-la-historia-secreta-de-la-orden-que-prohibio-el-ingreso-de-judios-a-la-argentina-durante-nid13072022/",
+    "kind": "Prensa",
+    "note": "Relato periodístico con citas del texto de la circular y del hallazgo de Beatriz Gurevich en la embajada de Estocolmo. Sin cifras de visas denegadas.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "newton",
+    "title": "Indifferent Sanctuary: German-Speaking Refugees and Exiles in Argentina, 1933–1945",
+    "author": "Ronald C. Newton · Journal of Interamerican Studies and World Affairs, 1982",
+    "url": "https://www.cambridge.org/core/journals/journal-of-interamerican-studies-and-world-affairs/article/indifferent-sanctuary-germanspeaking-refugees-and-exiles-in-argentina-19331945/F532ABCF8E0515C697F962EFF1038AC2",
+    "kind": "Bibliografía",
+    "note": "Resumen consultado. Estudio clásico sobre refugiados de habla alemana; no se leyó el artículo completo.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "ceana",
+    "title": "Informe final de la Comisión para el Esclarecimiento de las Actividades del Nazismo en la Argentina",
+    "author": "CEANA · Ministerio de Relaciones Exteriores, 1999",
+    "url": "https://cdi.mecon.gob.ar/bases/docelec/ceana/03.pdf",
+    "kind": "Fuente primaria",
+    "note": "Documento localizado, no leído de forma íntegra. La cifra de al menos 180 criminales de guerra identificados se toma de la cobertura de prensa de 1999 y debe citarse como estimación de la comisión.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "alvarez",
+    "title": "Ley de Residencia, clase trabajadora y género. Aplicación y alcance de la ley 4.144 en Argentina, 1902–1914",
+    "author": "Carlos Álvarez · Ariadna Ediciones, 2026",
+    "url": "https://www.aacademica.org/carlos.alvarez/44",
+    "kind": "Estudio",
+    "note": "Reconstruye decretos y deportaciones a partir del libro Copiador Anarquismo de la Policía de la Capital.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "farias",
+    "title": "La emigración gallega a la Argentina en la segunda posguerra: el caso de Catoira",
+    "author": "Ruy Farías · Odisea. Revista de Estudios Migratorios 2, 2015",
+    "url": "https://dialnet.unirioja.es/descarga/articulo/6161254.pdf",
+    "kind": "Estudio",
+    "note": "Estudio de un municipio de Pontevedra y de su asociación de residentes en Buenos Aires, 1945–1965.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "volgacenter",
+    "title": "Volga German Immigration to Argentina",
+    "author": "Center for Volga German Studies · Concordia University",
+    "url": "https://www.volgagermans.org/history/immigration/argentina",
+    "kind": "Archivo",
+    "note": "Negociación de 1877, llegada del primer grupo y población de las colonias a fines de 1878.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "sinay",
+    "title": "Los crímenes de Moisés Ville, capítulo 1: El viaje",
+    "author": "Javier Sinay · extracto publicado por Columbia Journal, 2022",
+    "url": "https://www.columbiajournal.org/archive/2022-excerpt-from-chapter-1-the-journey-from-the-murders-of-moiss-ville",
+    "kind": "Bibliografía",
+    "note": "Extracto del libro. Viaje del Weser, recuentos divergentes de familias y contrato con Pedro Palacios.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "pigue",
+    "title": "Fundación de Pigüé: proyecto de declaración",
+    "author": "Cámara de Diputados de la provincia de Buenos Aires · 2018",
+    "url": "https://intranet.hcdiputados-ba.gov.ar/proyectos/10-11D4005012018-06-0510-31-53.pdf",
+    "kind": "Fuente primaria",
+    "note": "Texto legislativo conmemorativo. Sirve para fechas y nombres; los recuentos de familias varían entre relatos.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "caroya",
+    "title": "Los inicios de Colonia Caroya, según la historiadora Marta Copetti",
+    "author": "Cadena 3 · nota periodística",
+    "url": "https://www.cadena3.com/noticia/sociedad/amante-de-la-historia-cuenta-los-inicios-de-colonia-caroya_319271",
+    "kind": "Prensa",
+    "note": "Testimonio de historia local. Las fechas de llegada y el número de familias difieren entre relatos.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "sanjose",
+    "title": "Piemontesi nel mondo: la colonia San José de Entre Ríos",
+    "author": "Regione Piemonte · documento de divulgación",
+    "url": "https://www.regione.piemonte.it/web/media/22093/download",
+    "kind": "Institucional",
+    "note": "Cita el trabajo de Carlota Guzzo Conte-Grand sobre el censo de 1869 en la colonia. Documento localizado por búsqueda, sin lectura íntegra.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "dutch",
+    "title": "Tres Arroyos y aquellos gauchos holandeses",
+    "author": "La Nación · suplemento Campo",
+    "url": "https://www.lanacion.com.ar/economia/campo/tres-arroyos-y-aquellos-gauchos-holandeses-nid1584909/",
+    "kind": "Prensa",
+    "note": "Nota periodística sobre el contingente de 1889.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "sirio",
+    "title": "Navegación e historia de la ciencia: el naufragio del Sirio",
+    "author": "Universidad Pablo de Olavide · ficha de investigación",
+    "url": "https://investiga.upo.es/documentos/60482415301d210dbc375ac0",
+    "kind": "Estudio",
+    "note": "Resumen consultado. El número de víctimas difiere entre fuentes.",
+    "accessed": "2026-10-07"
+  },
+  {
+    "id": "asturias",
+    "title": "Príncipe de Asturias: el barco español que se hundió entre Barcelona y Buenos Aires",
+    "author": "Billiken · nota de divulgación",
+    "url": "https://billiken.lat/historia/principe-de-asturias-la-historia-de-este-barco-espanol-que-se-hundio-en-un-viaje-entre-barcelona-y-buenos-aires-con-las-piezas-originales-de-un-monumento-porteno/",
+    "kind": "Prensa",
+    "note": "Divulgación. Fechas y cifras aproximadas del naufragio de 1916.",
+    "accessed": "2026-10-07"
+  }
+]

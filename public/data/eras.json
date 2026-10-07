@@ -1,0 +1,231 @@
+[
+  {
+    "id": "early",
+    "start": 1850,
+    "end": 1879,
+    "title": "Las primeras redes",
+    "short": "1850–1879",
+    "description": "Comerciantes, artesanos, pastores y las primeras colonias agrícolas. Las llegadas anuales pasaron de 4.951 en 1857 a 48.382 en 1873, y cayeron con la crisis de 1875.",
+    "events": [
+      "1853 · Constitución",
+      "1856 · Esperanza",
+      "1857 · San José y primera estadística",
+      "1865 · Mimosa",
+      "1871 · Fiebre amarilla",
+      "1876 · Ley 817",
+      "1878 · Hinojo y Caroya"
+    ],
+    "sources": [
+      "constitution",
+      "esperanza",
+      "mimosa",
+      "law",
+      "willcox"
+    ],
+    "figures": [
+      {
+        "value": 413812,
+        "label": "entradas de ultramar, 1857–1879"
+      },
+      {
+        "value": 48382,
+        "label": "máximo anual, en 1873"
+      }
+    ],
+    "figuresNote": "Serie oficial de segunda y tercera clase por vía marítima, disponible para 1857–1924."
+  },
+  {
+    "id": "mass",
+    "start": 1880,
+    "end": 1913,
+    "title": "La gran inmigración",
+    "short": "1880–1913",
+    "description": "El ciclo de mayor intensidad. Hubo dos picos, 1889 con pasajes subsidiados y 1912 con el máximo de la serie, separados por la crisis de 1890, cuando salieron más personas de las que entraron.",
+    "events": [
+      "1884 · Pigüé",
+      "1889 · 218.744 llegadas y el Weser",
+      "1891 · Saldo negativo",
+      "1902 · Ley de Residencia",
+      "1906 · Naufragio del Sirio",
+      "1907 · Huelga de inquilinos",
+      "1911 · Nuevo Hotel de Inmigrantes",
+      "1912 · 323.403 llegadas"
+    ],
+    "sources": [
+      "subsidy",
+      "jewish",
+      "tenants",
+      "alcorta",
+      "willcox",
+      "bunge"
+    ],
+    "figures": [
+      {
+        "value": 4131416,
+        "label": "entradas de ultramar, 1880–1913"
+      },
+      {
+        "value": 1593955,
+        "label": "salidas, 1880–1913"
+      },
+      {
+        "value": 2537461,
+        "label": "saldo del período"
+      },
+      {
+        "value": 323403,
+        "label": "máximo anual, en 1912"
+      }
+    ],
+    "figuresNote": "Serie oficial de segunda y tercera clase por vía marítima, disponible para 1857–1924."
+  },
+  {
+    "id": "war",
+    "start": 1914,
+    "end": 1918,
+    "title": "El Atlántico en guerra",
+    "short": "1914–1918",
+    "description": "El saldo se volvió negativo antes de la guerra: entre abril y mayo de 1914 salían de 20.000 a 28.000 personas por mes. En 1918 llegaron 13.701, el mínimo desde 1866.",
+    "events": [
+      "1914 · Censo nacional",
+      "1914 · 178.684 salidas",
+      "1916 · Príncipe de Asturias",
+      "1918 · Mínimo de llegadas"
+    ],
+    "sources": [
+      "census",
+      "devoto",
+      "willcox",
+      "bunge"
+    ],
+    "figures": [
+      {
+        "value": 225366,
+        "label": "entradas de ultramar, 1914–1918"
+      },
+      {
+        "value": 438561,
+        "label": "salidas, 1914–1918"
+      },
+      {
+        "value": -213195,
+        "label": "saldo del período"
+      },
+      {
+        "value": 115321,
+        "label": "máximo anual, en 1914"
+      }
+    ],
+    "figuresNote": "Serie oficial de segunda y tercera clase por vía marítima, disponible para 1857–1924."
+  },
+  {
+    "id": "twenties",
+    "start": 1919,
+    "end": 1929,
+    "title": "Regresan los viajes",
+    "short": "1919–1929",
+    "description": "Las llegadas se recuperaron hasta 195.063 en 1923. Cambió la composición: polacos, alemanes, yugoslavos y checoslovacos pasaron del 13 % al 30 % del total entre la preguerra y 1926.",
+    "events": [
+      "1919 · Semana Trágica",
+      "1921 · Cuotas en Estados Unidos",
+      "1923 · 195.063 llegadas",
+      "1924 · Ley Johnson-Reed",
+      "1929 · Crisis mundial"
+    ],
+    "sources": [
+      "policy",
+      "tragic",
+      "usquota",
+      "willcox",
+      "bunge"
+    ],
+    "figures": [
+      {
+        "value": 710682,
+        "label": "entradas de ultramar, 1919–1924"
+      },
+      {
+        "value": 283012,
+        "label": "salidas, 1919–1924"
+      },
+      {
+        "value": 427670,
+        "label": "saldo del período"
+      },
+      {
+        "value": 195063,
+        "label": "máximo anual, en 1923"
+      }
+    ],
+    "figuresNote": "Serie oficial de segunda y tercera clase por vía marítima, disponible para 1857–1924."
+  },
+  {
+    "id": "refuge",
+    "start": 1930,
+    "end": 1945,
+    "title": "Fronteras y refugio",
+    "short": "1930–1945",
+    "description": "Depresión, persecución y guerra. Desde 1938 se exigió permiso de desembarco y una circular secreta ordenó negar visas a los «indeseables o expulsados». Aun así entraron decenas de miles de refugiados, muchos de forma irregular.",
+    "events": [
+      "1930 · Restricciones por la crisis",
+      "1936–1939 · Guerra Civil española",
+      "1938 · Conferencia de Evian y Circular 11",
+      "1939 · Massilia",
+      "1939–1945 · Segunda Guerra Mundial"
+    ],
+    "sources": [
+      "circular",
+      "exile",
+      "massilia",
+      "ushmm",
+      "circular11"
+    ],
+    "figures": [
+      {
+        "value": 24000,
+        "label": "refugiados judíos admitidos oficialmente, 1933–1943"
+      },
+      {
+        "value": 20000,
+        "label": "ingresos irregulares estimados, 1933–1943"
+      }
+    ],
+    "figuresNote": "Estimaciones del United States Holocaust Memorial Museum."
+  },
+  {
+    "id": "postwar",
+    "start": 1946,
+    "end": 1960,
+    "title": "La última gran oleada",
+    "short": "1946–1960",
+    "description": "La última corriente masiva. Italia registró 346.153 salidas hacia Argentina entre 1946 y 1951 y 149.489 entre 1952 y 1959. Después la inmigración europea perdió peso frente a la de los países vecinos.",
+    "events": [
+      "1947 · Censo y primer acuerdo con Italia",
+      "1948 · Segundo acuerdo con Italia",
+      "1951 · Creación del CIME",
+      "1958 · Derogación de la Ley de Residencia",
+      "1960 · 13 % de extranjeros"
+    ],
+    "sources": [
+      "postwar",
+      "population",
+      "scarzanella",
+      "modolo"
+    ],
+    "figures": [
+      {
+        "value": 346153,
+        "label": "salidas de Italia hacia Argentina, 1946–1951"
+      },
+      {
+        "value": 149489,
+        "label": "salidas de Italia hacia Argentina, 1952–1959"
+      },
+      {
+        "value": 88209,
+        "label": "traslados financiados por el CIME, 1952–1959"
+      }
+    ],
+    "figuresNote": "Datos ISTAT citados por Scarzanella (2018). Son salidas desde Italia, no saldos."
+  }
+]
